@@ -1,6 +1,15 @@
+########## Aberdeen #############
+
+
+########## Edinburgh ##########
+
+
+########## Glasgow #############
+
 # no google entry (probably doesn't exist):
 # AMB - ambiguous
 # NUM use with number returns bad result (to do with providing numbers greater than current highest number)
+# (*) - checked against A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
 
 Adelphi Terrace
 Abercorn Street (*)
@@ -15,7 +24,7 @@ Allanton terrace, Govanhill
 Anderson Quay
 Ann St (AMB) (*)
 Annfield terrace, Partick
-Apsley Place (Warwick Street)
+Apsley Place (* Warwick Street *)
 Argyle Arcade
 Argyle place, Springburn
 Argyle Terrace, Crosshill
@@ -100,7 +109,7 @@ Elgin terrace
 Elmbank Place
 Eton place, Hillhead
 Eton terrace
-Exchange sq
+Exchange sq (*)
 
 Finnieston st (NUM)
 Fish Market
@@ -248,7 +257,7 @@ Rutherglen Road (NUM 55.838346, -4.231603)
 
 Salisbury ter Hillhead
 Sandringham terrace
-Sandyfaulds Street
+Sandyfaulds Street (*)
 Sandyford place
 Sardinia terrace, Hillhead
 Scarlow st. , Port Glasgow
@@ -335,11 +344,3 @@ Woodside quadrant
 
 Young's land, Strathbungo
 
-
-# parser changes
-
-* Category uses UK Standard Industrial Classification of Economic Activities
-
- http://www.google.com/url?sa=t&source=web&cd=1&ved=0CE8QFjAA&url=http%3A%2F%2Fwww.statistics.gov.uk%2Fmethods_quality%2Fsic%2Fdownloads%2Fsic2007explanatorynotes.pdf&rct=j&q=professional%20category%20uk%20Wholesale%20and%20retail%20trade%3B%20repair%20of%20motor%20vehicles%20and%20motor%20cycles&ei=t5kJTu7VFs6KhQepoKDnDw&usg=AFQjCNG7JIkJyXBNV49I3Z5i1gMkMGiGww&sig2=Wq0Y9oqUmNt5JUtzmog3BA&cad=rja
-
-# problems with Great Eastern Road -> Gallowgate, Camlachie Street, Tollcross Road

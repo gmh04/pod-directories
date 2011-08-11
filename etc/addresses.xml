@@ -86,6 +86,10 @@
       <value>close</value>
     </replace>
     <replace>
+      <pattern>Clyde pi</pattern>
+      <value>Clyde pl</value>
+    </replace>
+    <replace>
       <pattern>coiirt</pattern>
       <value>court</value>
     </replace>
@@ -281,6 +285,10 @@
       <value>Kelvingrove</value>
     </replace>
     <replace>
+      <pattern>Kelviugrove</pattern>
+      <value>Kelvingrove</value>
+    </replace>
+    <replace>
       <pattern>Kelviuside</pattern>
       <value>Kelvinside</value>
     </replace>
@@ -461,8 +469,8 @@
       <value>St. Vincent pl</value>
     </replace>
     <replace>
-      <pattern>Vincentst</pattern>
-      <value>Vincent st</value>
+      <pattern>StockweU</pattern>
+      <value>Stockwell</value>
     </replace>
     <replace>
       <pattern>StMing</pattern>
@@ -496,6 +504,10 @@
     <replace>
       <pattern>v/ynd</pattern>
       <value>wynd</value>
+    </replace>
+    <replace>
+      <pattern>Vincentst</pattern>
+      <value>Vincent st</value>
     </replace>
     <replace>
       <pattern>Virginia pi</pattern>
