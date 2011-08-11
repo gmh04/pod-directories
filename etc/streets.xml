@@ -1,0 +1,7392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- glasgow source for changed street names:
+
+http://www.glasgowguide.co.uk/info-streetschanged1.html and
+A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
+
+ -->
+
+<addresses>
+  <address>
+    <pattern>abbotsford lane</pattern>
+    <street>Abbotsford Lane</street>
+  </address>
+  <address>
+    <pattern>abbotsford place</pattern>
+    <street>Abbotsford Place</street>
+  </address>
+  <address>
+    <pattern>abercorn st</pattern>
+    <street>Abercorn Street</street>
+  </address>
+  <address>
+    <pattern>abercromby place</pattern>
+    <street>Abercromby Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>West George Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>abercromby st</pattern>
+    <pattern>abercrombie st</pattern>
+    <street>Abercromby Street</street>
+  </address>
+  <address>
+    <pattern>abercromby terrace</pattern>
+    <street>Abercromby Terrace</street>
+  </address>
+  <address>
+    <pattern>abington st</pattern>
+    <street>Abington Street</street>
+  </address>
+  <address>
+    <pattern>abyssinia place</pattern>
+    <street>Abyssinia Place</street>
+  </address>
+  <address>
+    <pattern>adam's court lane</pattern>
+    <street>Adam's Court Lane</street>
+  </address>
+  <address>
+    <pattern>adelaide pl</pattern>
+    <street>Adelaide Place</street>
+  </address>
+  <address>
+    <pattern>adelphi st</pattern>
+    <street>Adelphi Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+        <modern_name>Poplin Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>adelphi ter</pattern>
+    <street>Adelphi Terrace</street>
+  </address>
+  <address>
+    <pattern>afton cres</pattern>
+    <street>Afton Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Clifford Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>afton ter</pattern>
+    <street>Afton Terrace</street>
+  </address>
+  <address>
+    <pattern>agnew pl</pattern>
+    <street>Agnew Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Hill Street</modern_name>
+      <area>
+        <name>Crosshill</name>
+        <modern_name>Albert Road</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>ailsa ter</pattern>
+    <street>Ailsa Terrace</street>
+  </address>
+  <address>
+    <pattern>airlie ter</pattern>
+    <street>Airlie Terrace</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>albany pl</pattern>
+    <street>Albany Place</street>
+  </address>
+  <address>
+    <pattern>albany st</pattern>
+    <street>Albany Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>albany ter</pattern>
+    <street>Albany Terrace</street>
+  </address>
+  <address>
+    <pattern>albert drive</pattern>
+    <street>Albert Drive</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crosshill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>albert pl</pattern>
+    <street>Albert Place</street>
+  </address>
+  <address>
+    <pattern>albert road</pattern>
+    <street>Albert Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crosshill</name>
+        <modern_name>Albert Avenue</modern_name>
+      </area>
+      <area>
+        <name>Langside</name>
+        <modern_name>Dowanside Road</modern_name>
+      </area>
+      <area>
+        <name>Pollockshields</name>
+        <modern_name>Albert Drive</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>albert st</pattern>
+    <street>Albert Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Albert Road</modern_name>
+      <area>
+        <name>Govan</name>
+        <modern_name>Orkney Street</modern_name>
+      </area>
+      <area>
+        <name>Kelvinside</name>
+        <modern_name>Beaumont Gate</modern_name>
+      </area>
+      <area>
+        <name>Townhead</name>
+        <modern_name>McAslin Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>albert terrace</pattern>
+    <street>Albert Terrace</street>
+  </address>
+  <address>
+    <pattern>alberta terrace</pattern>
+    <street>Alberta Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>albion crescent</pattern>
+    <street>Albion Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>albion place</pattern>
+    <street>Albion Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>albion st</pattern>
+    <street>Albion Street</street>
+  </address>
+  <address>
+    <pattern>albyn st</pattern>
+    <street>Albyn Street</street>
+  </address>
+  <address>
+    <pattern>albyn terrace</pattern>
+    <street>Albyn Terrace</street>
+  </address>
+  <address>
+    <pattern>alexander st</pattern>
+    <street>Alexander Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Brechin Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>alexandra parade</pattern>
+    <street>Alexandra Parade</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.863945 -4.218921</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>alexandra place</pattern>
+    <street>Alexandra Place</street>
+  </address>
+  <address>
+    <pattern>alexandra st</pattern>
+    <street>Alexandra Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Elie Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>alfred ter</pattern>
+    <street>Alfred Terrace</street>
+  </address>
+  <address>
+    <pattern>alice pl</pattern>
+    <street>Alice Place</street>
+  </address>
+  <address>
+    <pattern>alice st</pattern>
+    <street>Alice Street</street>
+  </address>
+  <address>
+    <pattern>allander st</pattern>
+    <street>Allander Street</street>
+  </address>
+  <address>
+    <pattern>allanton terrace</pattern>
+    <street>Allanton Terrace</street>
+  </address>
+  <address>
+    <pattern>allison st</pattern>
+    <street>Allison Street</street>
+  </address>
+  <address>
+    <pattern>alva ter</pattern>
+    <street>Alva Terrace</street>
+  </address>
+  <address>
+    <pattern>anderson q</pattern>
+    <street>Anderson Quay</street>
+  </address>
+  <address>
+    <pattern>anderson st</pattern>
+    <street>Anderson Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Gallowgate</name>
+      </area>
+      <area>
+        <name>Partick</name>
+      </area>
+      <area>
+        <name>Kinningpark</name>
+        <modern_name>Sleads Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>anderston quay</pattern>
+    <street>Anderston Quay</street>
+  </address>
+  <address>
+    <pattern>ann st</pattern>
+    <street>Ann Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Midland Street</modern_name>
+      <!--<area>
+        <name>Bridgeton</name>
+        <modern_name>Laird Street</modern_name>
+      </area>-->
+      <area>
+        <name>Hillhead</name>
+        <modern_name>Southpark Avenue</modern_name>
+      </area>
+      <area>
+        <name>Port-Dundas</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>annette st</pattern>
+    <street>Annette Street</street>
+  </address>
+  <address>
+    <pattern>annfield pl</pattern>
+    <street>Annfield Place</street>
+  </address>
+  <address>
+    <pattern>annfield road</pattern>
+    <street>Annfield Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Banavie Road</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>annfield st</pattern>
+    <street>Annfield Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Annbank Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>annfield ter</pattern>
+    <street>Annfield Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Minard Road</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>apsley pl</pattern>
+    <street>Apsley Place</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <modern_name>Warwick Street</modern_name>
+    </town>-->
+  </address>
+  <address>
+    <pattern>arden st</pattern>
+    <street>Arden Street</street>
+  </address>
+  <address>
+    <pattern>ardgowam ter</pattern>
+    <street>Ardgowam Terrace</street>
+  </address>
+  <address>
+    <pattern>ardgowan st</pattern>
+    <street>Ardgowan Street</street>
+  </address>
+  <address>
+    <pattern>ardine ter</pattern>
+    <street>Ardine Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+      </area>
+      <area>
+        <name>Crosshill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>ardoch st</pattern>
+    <street>Ardoch Street</street>
+  </address>
+  <address>
+    <pattern>argyle arcade</pattern>
+    <street>Argyle Arcade</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.858935 -4.253930</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>argyle pl</pattern>
+    <street>Argyle Place</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+      </area>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>argyle st</pattern>
+    <street>Argyle Street</street>
+  </address>
+  <address>
+    <pattern>argyle ter</pattern>
+    <street>Argyle Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Langside</name>
+      </area>
+      <area>
+        <name>Crosshill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>ark lane</pattern>
+    <street>Ark Lane</street>
+  </address>
+  <address>
+    <pattern>arlington st</pattern>
+    <street>Arlington Street</street>
+  </address>
+  <address>
+    <pattern>armadale st</pattern>
+    <street>Armadale Street</street>
+  </address>
+  <address>
+    <pattern>armour st</pattern>
+    <street>Armour Street</street>
+  </address>
+  <address>
+    <pattern>arthur st</pattern>
+    <street>Arthur Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Overnewton</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>ashburne</pattern>
+    <street>Ashburne</street>
+  </address>
+  <address>
+    <pattern>ashfield ter</pattern>
+    <street>Ashfield terrace</street>
+  </address>
+  <address>
+    <pattern>ashgrove ter</pattern>
+    <street>Ashgrove Terrace</street>
+  </address>
+  <address>
+    <pattern>ashton pl</pattern>
+    <street>Ashton Place</street>
+  </address>
+  <address>
+    <pattern>ashton ter</pattern>
+    <street>Ashton Terrace</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <modern_name>Parkville Road</modern_name>
+    </town>-->
+  </address>
+  <address>
+    <pattern>athole gardens</pattern>
+    <street>Athole Gardens</street>
+  </address>
+  <address>
+    <pattern>athole pl</pattern>
+    <street>Athole Place</street>
+  </address>
+  <address>
+    <pattern>athole ter</pattern>
+    <street>Athole Terrace</street>
+  </address>
+  <address>
+    <pattern>avenue r</pattern>
+    <street>Avenue Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+        <modern_name>Northeroft Road</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>avenue st</pattern>
+    <street>Avenue Street</street>
+  </address>
+  <address>
+    <pattern>avon st</pattern>
+    <street>Avon Street</street>
+  </address>
+  <address>
+    <pattern>avondale pl</pattern>
+    <street>Avondale Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Paisley Road West</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>avondale ter</pattern>
+    <street>Avondale Terrace</street>
+  </address>
+  <address>
+    <pattern>aytoun r</pattern>
+    <street>Aytoun Road</street>
+  </address>
+  <address>
+    <pattern>back wynd</pattern>
+    <street>Back Wynd</street>
+  </address>
+  <address>
+    <pattern>bain st</pattern>
+    <street>Bain Street</street>
+  </address>
+  <address>
+    <pattern>baird st</pattern>
+    <street>Baird Street</street>
+  </address>
+  <address>
+    <pattern>ballochmyle pl</pattern>
+    <street>Ballochmyle Place</street>
+  </address>
+  <address>
+    <pattern>ballochmyle ter</pattern>
+    <street>Ballochmyle Terrace</street>
+  </address>
+  <address>
+    <pattern>balmano st</pattern>
+    <street>Balmano Street</street>
+  </address>
+  <address>
+    <pattern>balmore st</pattern>
+    <street>Balmore Street</street>
+  </address>
+  <address>
+    <pattern>baltic st</pattern>
+    <street>Baltic Street</street>
+  </address>
+  <address>
+    <pattern>bank st</pattern>
+    <street>Bank Street</street>
+  </address>
+  <address>
+    <pattern>bardowie st</pattern>
+    <street>Bardowie Street</street>
+  </address>
+  <address>
+    <pattern>barloch st</pattern>
+    <street>Barloch Street</street>
+  </address>
+  <address>
+    <pattern>barnhill poorhouse</pattern>
+    <street>Barnhill Poorhouse</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.878873 4.218964</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>barony st</pattern>
+    <street>Barony Street</street>
+  </address>
+  <address>
+    <pattern>barr st</pattern>
+    <street>Barr Street</street>
+  </address>
+  <address>
+    <pattern>barrack st</pattern>
+    <street>Barrack Street</street>
+  </address>
+  <address>
+    <pattern>barrowfield st</pattern>
+    <street>Barrowfield Street</street>
+  </address>
+  <address>
+    <pattern>bartholomew st</pattern>
+    <street>Bartholomew Street</street>
+  </address>
+  <address>
+    <pattern>bath cr</pattern>
+    <street>Bath Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Bath Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>bath st</pattern>
+    <street>Bath Street</street>
+  </address>
+  <address>
+    <pattern>battlefield cres</pattern>
+    <street>Battlefield Crescent</street>
+  </address>
+  <address>
+    <pattern>bazaar</pattern>
+    <street>Bazaar</street>
+  </address>
+  <address>
+    <pattern>beaconsfield st</pattern>
+    <street>Beaconsfield Street</street>
+  </address>
+  <address>
+    <pattern>beaufort gardens</pattern>
+    <street>Beaufort Gardens</street>
+  </address>
+  <address>
+    <pattern>beaufort ter</pattern>
+    <street>Beaufort Terrace</street>
+  </address>
+  <address>
+    <pattern>beauly ter</pattern>
+    <street>Beauly Terrace</street>
+  </address>
+  <address>
+    <pattern>bedford lane</pattern>
+    <street>Bedford Lane</street>
+  </address>
+  <address>
+    <pattern>bedford pl</pattern>
+    <street>Bedford Place</street>
+  </address>
+  <address>
+    <pattern>bedford st</pattern>
+    <street>Bedford Street</street>
+  </address>
+  <address>
+    <pattern>belch pl</pattern>
+    <street>Belch Place</street>
+  </address>
+  <address>
+    <pattern>belgrave place</pattern>
+    <street>Belgrave Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>belgrave st</pattern>
+    <street>Belgrave Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Beltane Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>belgrave ter</pattern>
+    <street>Belgrave Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>belhaven ter</pattern>
+    <street>Belhaven Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.879836 -4.296298</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>bell st</pattern>
+    <street>Bell Street</street>
+  </address>
+  <address>
+    <pattern>bellahouston ter</pattern>
+    <street>Bellahouston Terrace</street>
+  </address>
+  <address>
+    <pattern>bellevue ter</pattern>
+    <street>Bellevue Terrace</street>
+  </address>
+  <address>
+    <pattern>bellfield st</pattern>
+    <street>Bellfield Street</street>
+  </address>
+  <address>
+    <pattern>bellgrove st</pattern>
+    <street>Bellgrove Street</street>
+  </address>
+  <address>
+    <pattern>belmar ter</pattern>
+    <street>Belmar Terrace</street>
+  </address>
+  <address>
+    <pattern>belmont cres</pattern>
+    <street>Belmont Crescent</street>
+  </address>
+  <address>
+    <pattern>belmont st</pattern>
+    <street>Belmont Street</street>
+  </address>
+  <address>
+    <pattern>bentinck st</pattern>
+    <street>Bentinck Street</street>
+  </address>
+  <address>
+    <pattern>berkeley st</pattern>
+    <street>Berkeley Street</street>
+  </address>
+  <address>
+    <pattern>berkeley ter</pattern>
+    <street>Berkeley Terrace</street>
+  </address>
+  <address>
+    <pattern>berlin pl</pattern>
+    <street>Berlin Place</street>
+  </address>
+  <address>
+    <pattern>bernard st</pattern>
+    <street>Bernard Street</street>
+  </address>
+  <address>
+    <pattern>bilbao st</pattern>
+    <street>Bilbao Street</street>
+  </address>
+  <address>
+    <pattern>binnie pl</pattern>
+    <street>Binnie Place</street>
+  </address>
+  <address>
+    <pattern>bishop st</pattern>
+    <street>Bishop Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Renton Street</modern_name>
+      <area>
+        <name>Anderston</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>black st</pattern>
+    <street>Black Street</street>
+  </address>
+  <address>
+    <pattern>blackburn st</pattern>
+    <street>Blackburn Street</street>
+  </address>
+  <address>
+    <pattern>blackie st</pattern>
+    <street>Blackie Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Overnewton</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>blair st</pattern>
+    <street>Blair Street</street>
+  </address>
+  <address>
+    <pattern>bluevale st</pattern>
+    <street>Bluevale Street</street>
+  </address>
+  <address>
+    <pattern>blythswood square</pattern>
+    <street>Blythswood Square</street>
+  </address>
+  <address>
+    <pattern>boden st</pattern>
+    <street>Boden Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>bonnington terrace</pattern>
+    <street>Bonnington Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>borron st</pattern>
+    <street>Borron Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Port Dundas</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>boswell terrace</pattern>
+    <street>Boswell Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>bothwell circus</pattern>
+    <street>Bothwell Circus</street>
+  </address>
+  <address>
+    <pattern>bothwell st</pattern>
+    <street>Bothwell Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Anderston</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>bothwell terrace</pattern>
+    <street>Bothwell Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>bowmont gardens</pattern>
+    <pattern>bowmount gardens</pattern>
+    <street>Bowmount Gardens</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>bowmont terrace</pattern>
+    <street>Bowmont Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>braco st</pattern>
+    <street>Braco Street</street>
+  </address>
+  <address>
+    <pattern>braehead st</pattern>
+    <street>Braehead Street</street>
+  </address>
+  <address>
+    <pattern>braemar terrace</pattern>
+    <street>Braemar Terrace</street>
+  </address>
+  <address>
+    <pattern>braeside terrace</pattern>
+    <street>Braeside Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>braid st</pattern>
+    <street>Braid Street</street>
+  </address>
+  <address>
+    <pattern>brandon place</pattern>
+    <street>Brandon Place</street>
+  </address>
+  <address>
+    <pattern>brandon st</pattern>
+    <street>Brandon Street</street>
+  </address>
+  <address>
+    <pattern>breadalbane place</pattern>
+    <street>Breadalbane Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Strathbungo</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>breadalbane st</pattern>
+    <street>Breadalbane Street</street>
+  </address>
+  <address>
+    <pattern>breadalbane terrace</pattern>
+    <street>Breadalbane Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Garnethill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>bridge st</pattern>
+    <street>Bridge Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>bridgegate</pattern>
+    <street>Bridgegate</street>
+  </address>
+  <address>
+    <pattern>bridgeton cross</pattern>
+    <street>Bridgeton Cross</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.849011 -4.226582</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>bright st</pattern>
+    <street>Bright Street</street>
+  </address>
+  <address>
+    <pattern>broad st</pattern>
+    <street>Broad Street</street>
+  </address>
+  <address>
+    <pattern>brooielaw</pattern>
+    <street>Brooielaw</street>
+  </address>
+  <address>
+    <pattern>brook st</pattern>
+    <street>Brook Street</street>
+  </address>
+  <address>
+    <pattern>broomhall st</pattern>
+    <street>Broomhall Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <modern_name>Kessock Street</modern_name>
+    </town>-->
+  </address>
+  <address>
+    <pattern>broomhill avenue</pattern>
+    <street>Broomhill Avenue</street>
+  </address>
+  <address>
+    <pattern>broomhill drive</pattern>
+    <street>Broomhill Drive</street>
+  </address>
+  <address>
+    <pattern>broomhill st</pattern>
+    <street>Broomhill Street</street>
+  </address>
+  <address>
+    <pattern>broomhill ter</pattern>
+    <street>Broomhill Terrace</street>
+  </address>
+  <address>
+    <pattern>broomloan r</pattern>
+    <street>Broomloan road</street>
+  </address>
+  <address>
+    <pattern>broompark circus</pattern>
+    <street>Broompark Circus</street>
+  </address>
+  <address>
+    <pattern>broompark dr</pattern>
+    <street>Broompark Drive</street>
+  </address>
+  <address>
+    <pattern>broompark ter</pattern>
+    <street>Broompark Terrace</street>
+  </address>
+  <address>
+    <pattern>broomielaw</pattern>
+    <street>Broomielaw</street>
+  </address>
+  <address>
+    <pattern>brougham ter</pattern>
+    <street>Brougham Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Victoria Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>brown st</pattern>
+    <street>Brown Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+        <modern_name>Acorn Street</modern_name>
+      </area>
+      <area>
+        <name>Port Dundas</name>
+        <modern_name>Civic Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>bruce r</pattern>
+    <street>Bruce Road</street>
+  </address>
+  <address>
+    <pattern>bruce st</pattern>
+    <street>Bruce Street</street>
+  </address>
+  <address>
+    <pattern>brunswick lane</pattern>
+    <street>Brunswick Lane</street>
+  </address>
+  <address>
+    <pattern>brunswick st</pattern>
+    <street>Brunswick Street</street>
+  </address>
+  <address>
+    <pattern>buccleuch lane</pattern>
+    <street>Buccleuch Lane</street>
+  </address>
+  <address>
+    <pattern>buccleuch st</pattern>
+    <street>Buccleuch Street</street>
+  </address>
+  <address>
+    <pattern>buchan st</pattern>
+    <street>Buchan Street</street>
+  </address>
+  <address>
+    <pattern>buchanan st</pattern>
+    <street>Buchanan Street</street>
+  </address>
+  <address>
+    <pattern>buckingham buildings</pattern>
+    <street>Buckingham Buildings</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>buckingham sq</pattern>
+    <street>Buckingham Square</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Copland Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>buckingham st</pattern>
+    <street>Buckingham Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>buckingham ter</pattern>
+    <street>Buckingham Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <!--<area>
+        <name>Hillhead</name>
+      </area>-->
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>burnbank</pattern>
+    <street>Burnbank</street>
+  </address>
+  <address>
+    <pattern>burnbank gardens</pattern>
+    <street>Burnbank Gardens</street>
+  </address>
+  <address>
+    <pattern>burnbank pl</pattern>
+    <street>Burnbank Place</street>
+  </address>
+  <address>
+    <pattern>burnbank ter</pattern>
+    <street>Burnbank Terrace</street>
+  </address>
+  <address>
+    <pattern>burnside st</pattern>
+    <street>Burnside Street</street>
+  </address>
+  <address>
+    <pattern>burrell's lane</pattern>
+    <street>Burrell's Lane</street>
+  </address>
+  <address>
+    <pattern>bute terrace</pattern>
+    <street>Bute Terrace</street>
+  </address>
+  <address>
+    <pattern>butterbiggings r</pattern>
+    <street>Butterbiggins Road</street>
+    <town>
+      <name>Glagow</name>
+      <modern_name>Butterfield Place</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>byars' road</pattern>
+    <street>Byars' Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>cadogan st</pattern>
+    <street>Cadogan Street</street>
+  </address>
+  <address>
+    <pattern>calder st</pattern>
+    <street>Calder Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>calter terrace</pattern>
+    <street>Calter Terrace</street>
+  </address>
+  <address>
+    <pattern>calderwood st</pattern>
+    <street>Calderwood Street</street>
+  </address>
+  <address>
+    <pattern>caledonian cres</pattern>
+    <street>Caledonian Crescent</street>
+  </address>
+  <address>
+    <pattern>caledonian r</pattern>
+    <street>Caledonian Road</street>
+  </address>
+  <address>
+    <pattern>callander pl</pattern>
+    <street>Callander Place</street>
+  </address>
+  <address>
+    <pattern>calton ter</pattern>
+    <street>Calton Terrace</street>
+  </address>
+  <address>
+    <pattern>cambuslang</pattern>
+    <street>Cambuslang</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.863414 -4.348488</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>cambridge dr</pattern>
+    <street>Cambridge Drive</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+        <modern_name>Fergus Drive</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>cambridge st</pattern>
+    <street>Cambridge Street</street>
+  </address>
+  <address>
+    <pattern>camden pl</pattern>
+    <street>Camden Place</street>
+  </address>
+  <address>
+    <pattern>camden st</pattern>
+    <street>Camden Street</street>
+  </address>
+  <address>
+    <pattern>cameron st</pattern>
+    <street>Cameron Street</street>
+  </address>
+  <address>
+    <pattern>camlachie st</pattern>
+    <street>Camlachie Street</street>
+  </address>
+  <address>
+    <pattern>campbell st</pattern>
+    <street>Campbell Street</street>
+  </address>
+  <address>
+    <pattern>campbellfield st</pattern>
+    <street>Campbellfield Street</street>
+  </address>
+  <address>
+    <pattern>camperdown st</pattern>
+    <street>Camperdown Street</street>
+  </address>
+  <address>
+    <pattern>camphill avenue</pattern>
+    <street>Camphill Avenue</street>
+  </address>
+  <address>
+    <pattern>camphill quadrant</pattern>
+    <street>Camphill Quadrant</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Langside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>campside crescent</pattern>
+    <street>Campside Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Langside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>camvale buildings</pattern>
+    <street>Camvale Buildings</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crossmyloof</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>canal st</pattern>
+    <street>Canal Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Port Dundas</name>
+      </area>
+      <area>
+        <name>Port Eglinton</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>canal bank st</pattern>
+    <street>Canal Bank Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Port Dundas</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>candleriggs</pattern>
+    <street>Candleriggs</street>
+  </address>
+  <address>
+    <pattern>cammomg pl</pattern>
+    <street>Cammomg Place</street>
+  </address>
+  <address>
+    <pattern>canning st</pattern>
+    <street>Canning Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>London road</modern_name>
+      <area>
+        <name>Anderston</name>
+        <modern_name>North Place</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>canon st</pattern>
+    <street>Canon Street</street>
+  </address>
+  <address>
+    <pattern>canonbury ter</pattern>
+    <street>Canonbury Terrace</street>
+  </address>
+  <address>
+    <pattern>caprera pl</pattern>
+    <street>Caprera Place</street>
+  </address>
+  <address>
+    <pattern>carbeth st</pattern>
+    <street>Carbeth Street</street>
+  </address>
+  <address>
+    <pattern>carfin st</pattern>
+    <street>Carfin Street</street>
+  </address>
+  <address>
+    <pattern>carlton court</pattern>
+    <street>Carlton Court</street>
+  </address>
+  <address>
+    <pattern>carlton pl</pattern>
+    <street>Carlton Place</street>
+  </address>
+  <address>
+    <pattern>carlton ter</pattern>
+    <street>Carlton Terrace</street>
+  </address>
+  <address>
+    <pattern>carnarvon st</pattern>
+    <street>Carnarvon Street</street>
+  </address>
+  <address>
+    <pattern>carrick st</pattern>
+    <street>Carrick Street</street>
+  </address>
+  <address>
+    <pattern>carrickarden st</pattern>
+    <street>Carrickarden Street</street>
+  </address>
+  <address>
+    <pattern>carrington st</pattern>
+    <street>Carrington Street</street>
+  </address>
+  <address>
+    <pattern>castle st</pattern>
+    <street>Castle Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.842789 -4.124894</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>castlebank st</pattern>
+    <street>Castlebank Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>cathcart</pattern>
+    <street>Cathcart</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.818318 -4.261515</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>cathcart r</pattern>
+    <street>Cathcart Road</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.825877 -4.224715</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>cathcart st</pattern>
+    <street>Cathcart Street</street>
+  </address>
+  <address>
+    <pattern>cathedral st</pattern>
+    <street>Cathedral Street</street>
+  </address>
+  <address>
+    <pattern>catherine st</pattern>
+    <street>Catherine Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>McAslin Street</modern_name>
+      <area>
+        <name>Anderston</name>
+        <modern_name>Hydepark Street</modern_name>
+      </area>
+      <area>
+        <name>Calton</name>
+        <modern_name>Drake Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>cathkin r</pattern>
+    <street>Cathkin Road</street>
+  </address>
+  <address>
+    <pattern>cathkin ter</pattern>
+    <street>Cathkin Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Stanmore Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>cavendish st</pattern>
+    <street>Cavendish Street</street>
+  </address>
+  <address>
+    <pattern>cecil place</pattern>
+    <street>Cecil Place</street>
+  </address>
+  <address>
+    <pattern>cecil st</pattern>
+    <street>Cecil Street</street>
+  </address>
+  <address>
+    <pattern>cedar st</pattern>
+    <street>Cedar Street</street>
+  </address>
+  <address>
+    <pattern>centre st</pattern>
+    <street>Centre Street</street>
+  </address>
+  <address>
+    <pattern>chalmers st</pattern>
+    <street>Chalmers Street</street>
+  </address>
+  <address>
+    <pattern>charing cross</pattern>
+    <street>Charing Cross</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>St George's Rd</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>charles st</pattern>
+    <street>Charles Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Calton</name>
+      </area>
+      <area>
+        <name>Townhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>charlotte lane</pattern>
+    <street>Charlotte Lane</street>
+  </address>
+  <address>
+    <pattern>charlotte st</pattern>
+    <street>Charlotte Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Port Dundas</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>chatham pl</pattern>
+    <street>Chatham Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Cathedral Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>cheapside st</pattern>
+    <street>Cheapside Street</street>
+  </address>
+  <address>
+    <pattern>chesham pl</pattern>
+    <street>Chesham Place</street>
+  </address>
+  <address>
+    <pattern>church pl</pattern>
+    <street>Church Place</street>
+  </address>
+  <address>
+    <pattern>church st</pattern>
+    <street>Church Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>circus drive</pattern>
+    <street>Circus Drive</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Dennistoun</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>clairmont gardens</pattern>
+    <street>Clairmont Gardens</street>
+  </address>
+  <address>
+    <pattern>claremint st</pattern>
+    <street>Claremint Street</street>
+  </address>
+  <address>
+    <pattern>claremont terrace</pattern>
+    <street>Claremont Terrace</street>
+  </address>
+  <address>
+    <pattern>clarence st</pattern>
+    <street>Clarence Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Dalintober Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>claredon place</pattern>
+    <street>Claredon Place</street>
+  </address>
+  <address>
+    <pattern>claredon st</pattern>
+    <street>Claredon Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>clarinda terrace</pattern>
+    <street>Clarinda Terrace</street>
+  </address>
+  <address>
+    <pattern>claythorn st</pattern>
+    <street>Claythorn Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.855645 -4.23244</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>clayton terrace</pattern>
+    <street>Clayton Terrace</street>
+  </address>
+  <address>
+    <pattern>cleland st</pattern>
+    <street>Cleland Street</street>
+  </address>
+  <address>
+    <pattern>cleveland st</pattern>
+    <street>Cleveland Street</street>
+  </address>
+  <address>
+    <pattern>clifford st</pattern>
+    <street>Clifford Street</street>
+  </address>
+  <address>
+    <pattern>clifton place</pattern>
+    <street>Clifton Place</street>
+  </address>
+  <address>
+    <pattern>clifton st</pattern>
+    <street>Clifton Street</street>
+  </address>
+  <address>
+    <pattern>clyde grove terrace</pattern>
+    <street>Clyde Grove Terrace</street>
+  </address>
+  <address>
+    <pattern>clyde place</pattern>
+    <street>Clyde Place</street>
+  </address>
+  <address>
+    <pattern>clyde buildings</pattern>
+    <street>Clyde Buildings</street>
+  </address>
+  <address>
+    <pattern>clyde st</pattern>
+    <street>Clyde Street</street>
+  </address>
+  <address>
+    <pattern>clyde ter</pattern>
+    <street>Clyde Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Carlton Place</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>clydeview</pattern>
+    <street>Clydeview</street>
+  </address>
+  <address>
+    <pattern>clydeview terrace</pattern>
+    <street>Clydeview Terrace</street>
+  </address>
+  <address>
+    <pattern>clyde view</pattern>
+    <street>Clyde View</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Whiteinch</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>coatbridge st</pattern>
+    <street>Coatbridge Street</street>
+  </address>
+  <address>
+    <pattern>cobden place</pattern>
+    <street>Cobden Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Mount Florida</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>coburg place</pattern>
+    <street>Coburg Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>coburg st</pattern>
+    <street>Coburg Street</street>
+  </address>
+  <address>
+    <pattern>cochrane st</pattern>
+    <street>Cochrane Street</street>
+  </address>
+  <address>
+    <pattern>colebrooke st</pattern>
+    <street>Colebrooke Street</street>
+  </address>
+  <address>
+    <pattern>college st</pattern>
+    <street>College Street</street>
+  </address>
+  <address>
+    <pattern>comely park pl</pattern>
+    <pattern>comelypark pl</pattern>
+    <street>Comelypark Place</street>
+  </address>
+  <address>
+    <pattern>comely park st</pattern>
+    <pattern>comelypark st</pattern>
+    <street>Comelypark Street</street>
+  </address>
+  <address>
+    <pattern>commerce st</pattern>
+    <street>Commerce Street</street>
+  </address>
+  <address>
+    <pattern>commercial r</pattern>
+    <street>Commercial Road</street>
+  </address>
+  <address>
+    <pattern>copeland r</pattern>
+    <pattern>copland r</pattern>
+    <street>Copland Road</street>
+  </address>
+  <address>
+    <pattern>cook st</pattern>
+    <street>Cook Street</street>
+  </address>
+  <address>
+    <pattern>coomassie pl</pattern>
+    <street>Coomassie Place</street>
+  </address>
+  <address>
+    <pattern>corn st</pattern>
+    <street>Corn Street</street>
+  </address>
+  <address>
+    <pattern>cornwall st</pattern>
+    <street>Cornwall Street</street>
+  </address>
+  <address>
+    <pattern>corunna st</pattern>
+    <street>Corunna Street</street>
+  </address>
+  <address>
+    <pattern>couper st</pattern>
+    <street>Couper Street</street>
+  </address>
+  <address>
+    <pattern>cowan st</pattern>
+    <street>Cowan Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>cowcaddens</pattern>
+    <pattern>cowcads</pattern>
+    <street>Cowcaddens</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Cowcaddens Rd</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>cowcaddens st</pattern>
+    <street>Cowcaddens Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Cowcaddens Rd</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>cowlairs road</pattern>
+    <street>Cowlairs Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>craig st</pattern>
+    <street>Craig Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kinning Park</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>craig park</pattern>
+    <street>Craig Park</street>
+  </address>
+  <address>
+    <pattern>craig park terrace</pattern>
+    <street>Craig Park Terrace</street>
+  </address>
+  <address>
+    <pattern>craighall road</pattern>
+    <street>Craighall Road</street>
+  </address>
+  <address>
+    <pattern>craigiehall st</pattern>
+    <street>Craigiehall Street</street>
+  </address>
+  <address>
+    <pattern>craignestock place</pattern>
+    <street>Craignestock Place</street>
+  </address>
+  <address>
+    <pattern>craignestock st</pattern>
+    <street>Craignestock Street</street>
+  </address>
+  <address>
+    <pattern>cranston st</pattern>
+    <street>Cranston Street</street>
+  </address>
+  <address>
+    <pattern>crawford st</pattern>
+    <street>Crawford Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Port Dundas</name>
+        <modern_name>Townsend Street</modern_name>
+      </area>
+      <area>
+        <name>Port Eglinton</name>
+        <modern_name>Kilbirnie Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>cromwell st</pattern>
+    <street>Cromwell Street</street>
+  </address>
+  <address>
+    <pattern>crookston place</pattern>
+    <street>Crookston Place</street>
+  </address>
+  <address>
+    <pattern>crookston st</pattern>
+    <street>Crookston Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Carnoustie Street</modern_name>
+      <area>
+        <name>Kingston</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>cross st</pattern>
+    <street>Cross Street</street>
+  </address>
+  <address>
+    <pattern>crossburn st</pattern>
+    <street>Crossburn Street</street>
+  </address>
+  <address>
+    <pattern>crossloan</pattern>
+    <street>Crossloan</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govan</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>crossloan r</pattern>
+    <street>Crossloan Road</street>
+  </address>
+  <address>
+    <pattern>crow r</pattern>
+    <street>Crow Road</street>
+  </address>
+  <address>
+    <pattern>crown circus</pattern>
+    <street>Crown Circus</street>
+  </address>
+  <address>
+    <pattern>crown gardens</pattern>
+    <street>Crown Gardens</street>
+  </address>
+  <address>
+    <pattern>crown pl</pattern>
+    <street>Crown Place</street>
+  </address>
+  <address>
+    <pattern>crown st</pattern>
+    <street>Crown Street</street>
+  </address>
+  <address>
+    <pattern>crown point r</pattern>
+    <street>Crown Point Road</street>
+  </address>
+  <address>
+    <pattern>crown point st</pattern>
+    <street>Crown Point Street</street>
+  </address>
+  <address>
+    <pattern>crown ter</pattern>
+    <street>Crown Terrace</street>
+  </address>
+  <address>
+    <pattern>crownpoint r</pattern>
+    <street>Crownpoint Road</street>
+  </address>
+  <address>
+    <pattern>crownpoint st</pattern>
+    <street>Crownpoint Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Fielden Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>croy pl</pattern>
+    <street>Croy Place</street>
+  </address>
+  <address>
+    <pattern>cubie st</pattern>
+    <street>Cubie Street</street>
+  </address>
+  <address>
+    <pattern>cumberland lane</pattern>
+    <street>Cumberland Lane</street>
+  </address>
+  <address>
+    <pattern>cumberland st</pattern>
+    <street>Cumberland Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Laurieston</name>
+      </area>
+      <area>
+        <name>Calton</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>cumberland r</pattern>
+    <street>Cumberland Road</street>
+  </address>
+  <address>
+    <pattern>cumbrae p</pattern>
+    <street>Cumbrae Place</street>
+  </address>
+  <address>
+    <pattern>daisy st</pattern>
+    <street>Daisy Street</street>
+  </address>
+  <address>
+    <pattern>dale st</pattern>
+    <street>Dale Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+      </area>
+      <area>
+        <name>Tradeston</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>dalhouse place</pattern>
+    <street>Dalhouse Place</street>
+  </address>
+  <address>
+    <pattern>dalhouse st</pattern>
+    <street>Dalhouse Street</street>
+  </address>
+  <address>
+    <pattern>dalmarnock road</pattern>
+    <street>Dalmarnock Road</street>
+  </address>
+  <address>
+    <pattern>dalmarnock st</pattern>
+    <street>Dalmarnock Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Springfield Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>darnley st</pattern>
+    <street>Darnley Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>david st</pattern>
+    <street>David Street</street>
+  </address>
+  <address>
+    <pattern>dean st</pattern>
+    <street>Dean Street</street>
+  </address>
+  <address>
+    <pattern>dean ter</pattern>
+    <street>Dean terrace</street>
+  </address>
+  <address>
+    <pattern>deanside lane</pattern>
+    <street>Deanside Lane</street>
+  </address>
+  <address>
+    <pattern>denmark st</pattern>
+    <street>Denmark Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Possilpark</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>derby cres</pattern>
+    <street>Derby Crescent</street>
+  </address>
+  <address>
+    <pattern>derby st</pattern>
+    <street>Derby Street</street>
+  </address>
+  <address>
+    <pattern>derby ter</pattern>
+    <street>Derby Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Gray Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>devon st</pattern>
+    <street>Devon Street</street>
+  </address>
+  <address>
+    <pattern>dixon avenue</pattern>
+    <street>Dixon Avenue</street>
+  </address>
+  <address>
+    <pattern>dixon st</pattern>
+    <street>Dixon Street</street>
+  </address>
+  <address>
+    <pattern>dobbie's loan</pattern>
+    <pattern>debbie's loan</pattern>
+    <street>Dobbie's Loan</street>
+  </address>
+  <address>
+    <pattern>doncaster st</pattern>
+    <street>Doncaster Street</street>
+  </address>
+  <address>
+    <pattern>doon terrace</pattern>
+    <street>Doon Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>dorset st</pattern>
+    <street>Dorset Street</street>
+  </address>
+  <address>
+    <pattern>douglas st</pattern>
+    <street>Douglas Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>doune pl</pattern>
+    <street>Doune Place</street>
+  </address>
+  <address>
+    <pattern>doune ter</pattern>
+    <street>Doune Terrace</street>
+  </address>
+  <address>
+    <pattern>dovehill </pattern>
+    <street>Dovehill </street>
+  </address>
+  <address>
+    <pattern>dover st</pattern>
+    <street>Dover Street</street>
+  </address>
+  <address>
+    <pattern>dowanhill gardens</pattern>
+    <street>Dowanhill Gardens</street>
+  </address>
+  <address>
+    <pattern>dowanhill pl</pattern>
+    <street>Dowanhill Place</street>
+  </address>
+  <address>
+    <pattern>dowanhill st</pattern>
+    <street>Dowanhill Street</street>
+  </address>
+  <address>
+    <pattern>dowanvale ter</pattern>
+    <street>Dowanvale Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>White Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>downie pl</pattern>
+    <street>Downie Place</street>
+  </address>
+  <address>
+    <pattern>drummond st</pattern>
+    <street>Drummond Street</street>
+  </address>
+  <address>
+    <pattern>drury st</pattern>
+    <street>Drury Street</street>
+  </address>
+  <address>
+    <pattern>drygate</pattern>
+    <street>Drygate</street>
+  </address>
+  <address>
+    <pattern>duke st</pattern>
+    <street>Duke Street</street>
+  </address>
+  <address>
+    <pattern>dumbarton r</pattern>
+    <street>Dumbarton Road</street>
+  </address>
+  <address>
+    <pattern>duncan st</pattern>
+    <street>Duncan Street</street>
+  </address>
+  <address>
+    <pattern>dunchattan st</pattern>
+    <street>Dunchattan Street</street>
+  </address>
+  <address>
+    <pattern>dundas lane</pattern>
+    <street>Dundas Lane</street>
+  </address>
+  <address>
+    <pattern>dundas st</pattern>
+    <street>Dundas Street</street>
+  </address>
+  <address>
+    <pattern>dundas ter</pattern>
+    <street>Dundas Terrace</street>
+  </address>
+  <address>
+    <pattern>dundonald r</pattern>
+    <street>Dundonald Road</street>
+  </address>
+  <address>
+    <pattern>dunedin place</pattern>
+    <street>Dunedin Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>dunkelt pl</pattern>
+    <street>Dunkelt Place</street>
+  </address>
+  <address>
+    <pattern>dunlop st</pattern>
+    <street>Dunlop Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.820519 -4.136696</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>dunmore pl</pattern>
+    <street>Dunmore Place</street>
+  </address>
+  <address>
+    <pattern>dunmore ter</pattern>
+    <street>Dunmore Terrace</street>
+  </address>
+  <address>
+    <pattern>dunn st</pattern>
+    <street>Dunn Street</street>
+  </address>
+  <address>
+    <pattern>dunrobin place</pattern>
+    <street>Dunrobin Place</street>
+  </address>
+  <address>
+    <pattern>dyer's lane</pattern>
+    <street>Dyer's Lane</street>
+  </address>
+  <address>
+    <pattern>eaglesham st</pattern>
+    <street>Eaglesham Street</street>
+  </address>
+  <address>
+    <pattern>east crawford st</pattern>
+    <pattern>e. crawford st</pattern>
+    <street>East Crawford Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Glendale Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>east miller st</pattern>
+    <street>East Miller Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Millerston Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>eastfield place</pattern>
+    <street>Eastfield Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>eastfield st</pattern>
+    <street>eastfield Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>easton terrace</pattern>
+    <street>Easton Terrace</street>
+  </address>
+  <address>
+    <pattern>edgefauld terrace</pattern>
+    <street>Edgefauld Terrace</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>edmund st</pattern>
+    <street>Edmund Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Dennistoun</name>
+      </area>
+      <area>
+        <name>Overnewton</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>eglinton lane</pattern>
+    <street>Eglinton Lane</street>
+  </address>
+  <address>
+    <pattern>eglinton st</pattern>
+    <street>Eglinton Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Eglinton St</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>eglinton ter</pattern>
+    <street>Eglinton Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Shettleston Road</modern_name>
+      <area>
+       <name>Govanhill</name>
+       <modern_name>Victoria Road</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>eildon villas</pattern>
+    <street>Eildon Villas</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Mount Florida</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>elcho place</pattern>
+    <street>Elcho Place</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Strathbungo</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>elderslie place</pattern>
+    <street>Elderslie Place</street>
+  </address>
+  <address>
+    <pattern>elderslie st</pattern>
+    <street>Elderslie Street</street>
+  </address>
+  <address>
+    <pattern>eldon st</pattern>
+    <street>Eldon Street</street>
+  </address>
+  <address>
+    <pattern>eldon terrace</pattern>
+    <street>Eldon Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>elgin place</pattern>
+    <street>Elgin Place</street>
+  </address>
+  <address>
+    <pattern>elgin st</pattern>
+    <street>Elgin Street</street>
+  </address>
+  <address>
+    <pattern>elgin terrace</pattern>
+    <street>Elgin Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>elliot st</pattern>
+    <pattern>elliott st</pattern>
+    <street>Elliot Street</street>
+  </address>
+  <address>
+    <pattern>elliton st</pattern>
+    <street>Elliton Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>elm st</pattern>
+    <street>Elm Street</street>
+  </address>
+  <address>
+    <pattern>elmbank cres</pattern>
+    <street>Elmbank Crescent</street>
+  </address>
+  <address>
+    <pattern>elmbank st</pattern>
+    <street>Elmbank Street</street>
+  </address>
+  <address>
+    <pattern>elmbank pl</pattern>
+    <street>Elmbank Place</street>
+  </address>
+  <address>
+    <pattern>emily pl</pattern>
+    <street>Emily Place</street>
+  </address>
+  <address>
+    <pattern>ethel ter</pattern>
+    <street>Ethel Terrace</street>
+  </address>
+  <address>
+    <pattern>eton gardens</pattern>
+    <street>Eton Gardens</street>
+  </address>
+  <address>
+    <pattern>eton pl</pattern>
+    <street>Eton Place</street>
+  </address>
+  <address>
+    <pattern>eton ter</pattern>
+    <street>Eton Terrace</street>
+  </address>
+  <address>
+    <pattern>ettrick ter</pattern>
+    <street>Ettrick Terrace</street>
+  </address>
+  <address>
+    <pattern>exchange sq</pattern>
+    <street>Exchange Square</street>
+  </address>
+  <address>
+    <pattern>fairlie bank</pattern>
+    <street>Fairlie Bank</street>
+  </address>
+  <address>
+    <pattern>fairlie park</pattern>
+    <street>Fairlie Park</street>
+  </address>
+  <address>
+    <pattern>falkland pl</pattern>
+    <street>Falkland Place</street>
+  </address>
+  <address>
+    <pattern>fauldhouse st</pattern>
+    <street>Fauldhouse Street</street>
+  </address>
+  <address>
+    <pattern>ferguson st</pattern>
+    <street>Ferguson Street</street>
+  </address>
+  <address>
+    <pattern>fielden st</pattern>
+    <street>Fielden Street</street>
+  </address>
+  <address>
+    <pattern>fife place</pattern>
+    <street>Fife Place</street>
+  </address>
+  <address>
+    <pattern>findlay drive</pattern>
+    <street>Findlay Drive</street>
+  </address>
+  <address>
+    <pattern>findlay st</pattern>
+    <street>Findlay Street</street>
+  </address>
+  <address>
+    <pattern>finlay drive</pattern>
+    <street>Finlay Drive</street>
+  </address>
+  <address>
+    <pattern>finlayson place</pattern>
+    <street>Finlayson Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>finnieston quay</pattern>
+    <street>Finnieston Quay</street>
+  </address>
+  <address>
+    <pattern>finnieston st</pattern>
+    <street>Finnieston Street</street>
+  </address>
+  <address>
+    <pattern>firhill road</pattern>
+    <street>Firhill Road</street>
+  </address>
+  <address>
+    <pattern>firpark terrace</pattern>
+    <pattern>fir park terrace</pattern>
+    <street>Firpark Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Dennistoun</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>fisher st</pattern>
+    <street>Fisher Street</street>
+  </address>
+  <address>
+    <pattern>fitzroy place</pattern>
+    <street>Fitzroy Place</street>
+  </address>
+  <address>
+    <pattern>fleming st</pattern>
+    <street>Fleming Street</street>
+  </address>
+  <address>
+    <pattern>flemington st</pattern>
+    <street>Flemington Street</street>
+  </address>
+  <address>
+    <pattern>florentine gardens</pattern>
+    <street>Florentine Gardens</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>florence place</pattern>
+    <street>Florence Place</street>
+  </address>
+  <address>
+    <pattern>florence st</pattern>
+    <street>Florence Street</street>
+  </address>
+  <address>
+    <pattern>fordneuk st</pattern>
+    <street>Fordneuk Street</street>
+  </address>
+  <address>
+    <pattern>foremount terrace</pattern>
+    <street>Foremount Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>forth st</pattern>
+    <street>Forth Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Glasogw</name>
+      </area>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>fountainwell road</pattern>
+    <street>Fountainwell Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>franklink place</pattern>
+    <street>Franklink Place</street>
+  </address>
+  <address>
+    <pattern>franklin st</pattern>
+    <street>Franklin Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>franklin terrace</pattern>
+    <street>Franklin Terrace</street>
+  </address>
+  <address>
+    <pattern>fraser st</pattern>
+    <street>Fraser Street</street>
+  </address>
+  <address>
+    <pattern>frederick lane</pattern>
+    <street>Frederick Lane</street>
+  </address>
+  <address>
+    <pattern>frederick st</pattern>
+    <street>Frederick Street</street>
+  </address>
+  <address>
+    <pattern>french st</pattern>
+    <street>French Street</street>
+  </address>
+  <address>
+    <pattern>gairbraid st</pattern>
+    <street>Gairbraid Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Maryhill Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>galbraith st</pattern>
+    <street>Galbraith Street</street>
+  </address>
+  <address>
+    <pattern>gallowgate</pattern>
+    <street>Gallowgate</street>
+  </address>
+  <address>
+    <pattern>garden place </pattern>
+    <street>Garden Place </street>
+  </address>
+  <address>
+    <pattern>garden st</pattern>
+    <street>Garden Street</street>
+  </address>
+  <address>
+    <pattern>garden terrace</pattern>
+    <street>Garden Terrace</street>
+  </address>
+  <address>
+    <pattern>gardner st</pattern>
+    <street>Gardner Street</street>
+  </address>
+  <address>
+    <pattern>garnet place</pattern>
+    <street>Garnet Place</street>
+  </address>
+  <address>
+    <pattern>garnethill st</pattern>
+    <street>Garnethill Street</street>
+  </address>
+  <address>
+    <pattern>garngad hill</pattern>
+    <street>Garngad Hill</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Roystonhill</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>garngad road</pattern>
+    <street>Garngad Road</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Royston Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>garnkirk st</pattern>
+    <street>Garnkirk Street</street>
+  </address>
+  <address>
+    <pattern>garrioch mill r</pattern>
+    <pattern>garriochmill r</pattern>
+    <street>Garriochmill Road</street>
+  </address>
+  <address>
+    <pattern>garscadden st</pattern>
+    <street>Garscadden Street</street>
+  </address>
+  <address>
+    <pattern>garscube lane</pattern>
+    <street>Garscube Lane</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>McPhater Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>garscube road</pattern>
+    <street>Garscube Road</street>
+  </address>
+  <address>
+    <pattern>garthland drive</pattern>
+    <street>Garthland Drive</street>
+  </address>
+  <address>
+    <pattern>garthland st</pattern>
+    <street>Garthland Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Garth Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>garturk st</pattern>
+    <street>Garturk Street</street>
+  </address>
+  <address>
+    <pattern>gayfield st</pattern>
+    <street>Gayfield Street</street>
+  </address>
+  <address>
+    <pattern>george square</pattern>
+    <street>George Square</street>
+  </address>
+  <address>
+    <pattern>george st</pattern>
+    <street>George Street</street>
+  </address>
+  <address>
+    <pattern>germinston st</pattern>
+    <street>Germinston Street</street>
+  </address>
+  <address>
+    <pattern>germiston st</pattern>
+    <street>Germiston Street</street>
+  </address>
+  <address>
+    <pattern>gibson st</pattern>
+    <street>Gibson Street</street>
+  </address>
+  <address>
+    <pattern>gilmore st</pattern>
+    <street>Gilmore Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Midlock Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>gilmour st</pattern>
+    <street>Gilmour Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Midlock Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>gladstone st</pattern>
+    <street>Gladstone Street</street>
+  </address>
+  <address>
+    <pattern>glasgow st</pattern>
+    <street>Glasgow Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>glassford st</pattern>
+    <street>Glassford Street</street>
+  </address>
+  <address>
+    <pattern>glebe st</pattern>
+    <street>Glebe Street</street>
+  </address>
+  <address>
+    <pattern>glenavon terrace</pattern>
+    <street>Glenavon Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>glenavon terrace</pattern>
+    <street>Glenavon Terrace</street>
+  </address>
+  <address>
+    <pattern>glencairn terrace</pattern>
+    <street>Glencairn Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>glenton terrace</pattern>
+    <street>Glenton Terrace</street>
+  </address>
+  <address>
+    <pattern>cloucester st</pattern>
+    <street>Cloucester Street</street>
+  </address>
+  <address>
+    <pattern>golf-hill drive</pattern>
+    <street>Golfhill Drive</street>
+  </address>
+  <address>
+    <pattern>golfhill ter</pattern>
+    <street>Golfhill Terrace</street>
+  </address>
+  <address>
+    <pattern>goosedubs</pattern>
+    <street>Goosedubs</street>
+  </address>
+  <address>
+    <pattern>gordon lane</pattern>
+    <street>Gordon Lane</street>
+  </address>
+  <address>
+    <pattern>gordon st</pattern>
+    <street>Gordon Street</street>
+  </address>
+  <address>
+    <pattern>gourlay st</pattern>
+    <street>Gourlay Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>govan road</pattern>
+    <street>Govan Road</street>
+  </address>
+  <address>
+    <pattern>govan st</pattern>
+    <street>Govan Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Ballater Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>govanhill st</pattern>
+    <street>Govanhill Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>govanview terrace</pattern>
+    <street>Govanview Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>gower st</pattern>
+    <street>Gower Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+        <modern_name>Sanda Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>grace st</pattern>
+    <street>Grace Street</street>
+  </address>
+  <address>
+    <pattern>graeme st</pattern>
+    <street>Graeme Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Bell Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>grafton pl</pattern>
+    <street>Grafton Place</street>
+  </address>
+  <address>
+    <pattern>grafton sq</pattern>
+    <street>Grafton Square</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <modern_name>Grafton Street</modern_name>
+    </town>-->
+  </address>
+  <address>
+    <pattern>grafton st</pattern>
+    <street>Grafton Street</street>
+  </address>
+  <address>
+    <pattern>grafton ter</pattern>
+    <street>Grafton Terrace</street>
+  </address>
+  <address>
+    <pattern>graham sq</pattern>
+    <pattern>graham's sq</pattern>
+    <street>Graham Square</street>
+  </address>
+  <address>
+    <pattern>graham st</pattern>
+    <street>Graham Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+        <modern_name>Eversley St</modern_name>
+      </area>
+      <area>
+        <name>Govan</name>
+        <modern_name>Garmouth Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>granby pl</pattern>
+    <street>Granby Place</street>
+  </address>
+  <address>
+    <pattern>granby ter</pattern>
+    <street>Granby Terrace</street>
+  </address>
+  <address>
+    <pattern>grange ter</pattern>
+    <street>Grange Terrace</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Mount Florida</name>
+      </area>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>grant st</pattern>
+    <street>Grant Street</street>
+  </address>
+  <address>
+    <pattern>granville buildings</pattern>
+    <street>Granville Buildings</street>
+  </address>
+  <address>
+    <pattern>granville pl</pattern>
+    <street>Granville Place</street>
+  </address>
+  <address>
+    <pattern>granville st</pattern>
+    <street>Granville Street</street>
+  </address>
+  <address>
+    <pattern>gray st</pattern>
+    <street>Gray Street</street>
+  </address>
+  <address>
+    <pattern>great clyde st</pattern>
+    <street>Great Clyde Street</street>
+  </address>
+  <address>
+    <pattern>great eastern rd</pattern>
+    <street>Great Eastern Road</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Gallowgate</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>great george st</pattern>
+    <street>Great George Street</street>
+  </address>
+  <address>
+    <pattern>great kelvin ter</pattern>
+    <street>Great Kelvin Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Bank Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>great hamilton st</pattern>
+    <pattern>gt. hamilton st</pattern>
+    <street>Great Hamilton Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>London Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>great wellington st</pattern>
+    <street>Great Wellington Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Admiral Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>great western r</pattern>
+    <pattern>gt. western r</pattern>
+    <street>Great Western Road</street>
+  </address>
+  <address>
+    <pattern>great western terrace</pattern>
+    <street>Great Western Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>green st</pattern>
+    <street>Green Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Mackeith Street</modern_name>
+      <area>
+        <name>Kinning Park</name>
+        <modern_name>Clifford Place</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>greenbank st</pattern>
+    <street>Greenbank Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>greendyke st</pattern>
+    <street>Greendyke Street</street>
+  </address>
+  <address>
+    <pattern>greenhead st</pattern>
+    <street>Greenhead Street</street>
+  </address>
+  <address>
+    <pattern>greenhill place</pattern>
+    <street>Greenhill Place</street>
+  </address>
+  <address>
+    <pattern>greenhill st</pattern>
+    <street>Greenhill Street</street>
+  </address>
+  <address>
+    <pattern>greenlaw place</pattern>
+    <street>Greenlaw Place</street>
+  </address>
+  <address>
+    <pattern>greenside lane</pattern>
+    <street>Greenside Lane</street>
+  </address>
+  <address>
+    <pattern>greenside st</pattern>
+    <street>Greenside Street</street>
+  </address>
+  <address>
+    <pattern>greenvale place</pattern>
+    <street>Greenvale Place</street>
+  </address>
+  <address>
+    <pattern>greenvale st</pattern>
+    <street>Greenvale Street</street>
+  </address>
+  <address>
+    <pattern>grosvenor crescent</pattern>
+    <street>Grosvenor Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>grosvenor pl</pattern>
+    <street>Grosvenor Place</street>
+  </address>
+  <address>
+    <pattern>grosvenor ter</pattern>
+    <street>Grosvenor Terrace</street>
+  </address>
+  <address>
+    <pattern>grove st</pattern>
+    <street>Grove Street</street>
+  </address>
+  <address>
+    <pattern>hamilton cres</pattern>
+    <street>Hamilton Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Hamilton Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>hamilton dr</pattern>
+    <street>Hamilton Drive</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+        <modern_name>Queen Margaret Drive</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>hamilton park ter</pattern>
+    <street>Hamilton Park Terrace</street>
+  </address>
+  <address>
+    <pattern>hamilton pl</pattern>
+    <street>Hamilton Place</street>
+  </address>
+  <address>
+    <pattern>hamilton st</pattern>
+    <street>Hamilton Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Fortrose Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>hamilton ter</pattern>
+    <street>Hamilton Terrace</street>
+  </address>
+  <address>
+    <pattern>hampden pl</pattern>
+    <street>Hampden Place</street>
+  </address>
+  <address>
+    <pattern>hampden terrace</pattern>
+    <street>Hampden Terrace</street>
+  </address>
+  <address>
+    <pattern>hampton court terrace</pattern>
+    <street>Hampton Court Terrace</street>
+  </address>
+  <address>
+    <pattern>hannover st</pattern>
+    <street>Hannover Street</street>
+  </address>
+  <address>
+    <pattern>harmony place</pattern>
+    <street>Harmony Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>hartfield st</pattern>
+    <street>Hartfield Street</street>
+  </address>
+  <address>
+    <pattern>harvey st</pattern>
+    <street>Harvey Street</street>
+  </address>
+  <address>
+    <pattern>havannah st</pattern>
+    <street>Havannah Street</street>
+  </address>
+  <address>
+    <pattern>havelock st</pattern>
+    <street>Havelock Street</street>
+  </address>
+  <address>
+    <pattern>havelock ter</pattern>
+    <street>Havelock Terrace</street>
+  </address>
+  <address>
+    <pattern>hawthorn st</pattern>
+    <street>Hawthorn Street</street>
+  </address>
+  <address>
+    <pattern>hayburn cres</pattern>
+    <street>Hayburn Crescent</street>
+  </address>
+  <address>
+    <pattern>hayburn ter</pattern>
+    <street>Hayburn Terrace</street>
+  </address>
+  <address>
+    <pattern>hayfield st</pattern>
+    <street>Hayfield Street</street>
+  </address>
+  <address>
+    <pattern>hayfield ter</pattern>
+    <street>Hayfield Terrace</street>
+  </address>
+  <address>
+    <pattern>helen st</pattern>
+    <street>Helen street</street>
+  </address>
+  <address>
+    <pattern>henderson st</pattern>
+    <street>Henderson Street</street>
+  </address>
+  <address>
+    <pattern>henrietta st</pattern>
+    <street>Henrietta Street</street>
+  </address>
+  <address>
+    <pattern>herbertson st</pattern>
+    <street>Herbertson Street</street>
+  </address>
+  <address>
+    <pattern>herriot st</pattern>
+    <street>Herriot Street</street>
+  </address>
+  <address>
+    <pattern>high st</pattern>
+    <street>High Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Anderston</name>
+      </area>
+      <area>
+        <name>Gallowgate</name>
+      </area>
+      <area>
+        <name>Garnethill</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>hill st</pattern>
+    <street>Hill Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+        <modern_name>Hillkirk Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>hillhead pl</pattern>
+    <street>Hillhead Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Bank Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>hillhead st</pattern>
+    <street>Hillhead Street</street>
+  </address>
+  <address>
+    <pattern>hillsborough sq</pattern>
+    <street>Hillsborough Square</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Hillhead Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>hillsborough ter</pattern>
+    <street>Hillsborough Terrace</street>
+  </address>
+  <address>
+    <pattern>hillside gardens</pattern>
+    <street>Hillside Gardens</street>
+  </address>
+  <address>
+    <pattern>hillside ter</pattern>
+    <street>Hillside Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Springvale Terrace</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>hilton ter</pattern>
+    <street>Hilton Terrace</street>
+  </address>
+  <address>
+    <pattern>holborn ter</pattern>
+    <street>Holborn Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Montgomery Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>holland pl</pattern>
+    <street>Holland Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Saint Vincent Street</modern_name>
+      <area>
+        <name>Whiteinch</name>
+        <modern_name>George Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>holland st</pattern>
+    <street>Holland Street</street>
+  </address>
+  <address>
+    <pattern>holm st</pattern>
+    <street>Holm Street</street>
+  </address>
+  <address>
+    <pattern>holmhead st</pattern>
+    <street>Holmhead Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <modern_name>Cunningham Street</modern_name>
+    </town>-->
+  </address>
+  <address>
+    <pattern>holyrood crescent</pattern>
+    <street>Holyrood Crescent</street>
+  </address>
+  <address>
+    <pattern>holyrood place</pattern>
+    <street>Holyrood Place</street>
+  </address>
+  <address>
+    <pattern>hope st</pattern>
+    <street>Hope Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Anderston</name>
+        <modern_name>Anthony Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>hope terrace</pattern>
+    <street>Hope Terrace</street>
+  </address>
+  <address>
+    <pattern>hopehill road</pattern>
+    <street>Hopehill Road</street>
+  </address>
+  <address>
+    <pattern>hopetoun place</pattern>
+    <street>Hopetoun Place</street>
+  </address>
+  <address>
+    <pattern>horselethill road</pattern>
+    <street>Horselethill Road</street>
+  </address>
+  <address>
+    <pattern>hospital st</pattern>
+    <street>Hospital Street</street>
+  </address>
+  <address>
+    <pattern>houldsworth st</pattern>
+    <street>Houldsworth Street</street>
+  </address>
+  <address>
+    <pattern>houston st</pattern>
+    <street>Houston Street</street>
+  </address>
+  <address>
+    <pattern>howard st</pattern>
+    <street>Howard Street</street>
+  </address>
+  <address>
+    <pattern>hunter st</pattern>
+    <street>Hunter Street</street>
+  </address>
+  <address>
+    <pattern>hunter ter</pattern>
+    <street>Hunter Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Kent Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>huntly gardens</pattern>
+    <street>Huntly Gardens</street>
+  </address>
+  <address>
+    <pattern>hutcheson sq</pattern>
+    <street>Hutcheson Square</street>
+  </address>
+  <address>
+    <pattern>hutcheson st</pattern>
+    <street>Hutcheson Street</street>
+  </address>
+  <address>
+    <pattern>hydepark st</pattern>
+    <street>Hydepark Street</street>
+  </address>
+  <address>
+    <pattern>hyndland r</pattern>
+    <street>Hyndland Road</street>
+  </address>
+  <address>
+    <pattern>hyndland st</pattern>
+    <street>Hyndland Street</street>
+  </address>
+  <address>
+    <pattern>ibrox pl</pattern>
+    <street>Ibrox Place</street>
+  </address>
+  <address>
+    <pattern>india st</pattern>
+    <street>India Street</street>
+  </address>
+  <address>
+    <pattern>ingleby dr</pattern>
+    <street>Ingleby Drive</street>
+  </address>
+  <address>
+    <pattern>inglefield st</pattern>
+    <street>Inglefield Street</street>
+  </address>
+  <address>
+    <pattern>inglefield ter</pattern>
+    <street>Inglefield Terrace</street>
+  </address>
+  <address>
+    <pattern>inglis st</pattern>
+    <street>Inglis Street</street>
+  </address>
+  <address>
+    <pattern>ingram st</pattern>
+    <street>Ingram Street</street>
+  </address>
+  <address>
+    <pattern>iona pl</pattern>
+    <street>Iona Place</street>
+  </address>
+  <address>
+    <pattern>jackson st</pattern>
+    <street>Jackson Street</street>
+  </address>
+  <address>
+    <pattern>jail sq</pattern>
+    <street>Jail Square</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Jocelyn Square</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>jamaica st</pattern>
+    <street>Jamaica Street</street>
+  </address>
+  <address>
+    <pattern>james' st</pattern>
+    <pattern>james st</pattern>
+    <street>James Street</street>
+    <town>
+      <name>Glasgow</name>
+      <!--<area>
+        <name>Bridgeton</name>
+        <modern_name>Bryce Street</modern_name>
+      </area>
+      <area>
+        <name>Calton</name>
+        <modern_name>Bryce Street</modern_name>
+      </area>-->
+      <area>
+        <name>Mile-end</name>
+        <modern_name>Gemmel Place</modern_name>
+      </area>
+      <area>
+        <name>Port Dundas</name>
+        <modern_name>Kessock Place</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>james morrison st</pattern>
+    <pattern>j morrison st</pattern>
+    <street>James Morrison Street</street>
+  </address>
+  <address>
+    <pattern>james watt st</pattern>
+    <street>James Watt Street</street>
+  </address>
+  <address>
+    <pattern>jamieson st</pattern>
+    <street>Jamieson Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>jane pl</pattern>
+    <street>Jane Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Govan Road</modern_name>
+      <area>
+        <name>Kinston</name>
+        <modern_name>Paterson Street</modern_name>
+      </area>
+      <area>
+        <name>Pollockshields</name>
+        <modern_name>Darnley Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>jane st</pattern>
+    <street>Jane Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>West George Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>jardine st</pattern>
+    <street>Jardine Street</street>
+  </address>
+  <address>
+    <pattern>john st</pattern>
+    <street>John Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+        <modern_name>Tullis Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>john knox st</pattern>
+    <street>John Knox Street</street>
+  </address>
+  <address>
+    <pattern>keir st</pattern>
+    <street>Keir Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>East Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>keir terrace</pattern>
+    <street>Keir Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>kelbourne st</pattern>
+    <street>Kelbourne Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>kelburn terrace</pattern>
+    <street>Kelburn Terrace</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>kelvin bank ter</pattern>
+    <street>Kelvin Bank Terrace</street>
+  </address>
+  <address>
+    <pattern>kelvin drive</pattern>
+    <street>Kelvin Drive</street>
+  </address>
+  <address>
+    <pattern>kelvin st</pattern>
+    <street>Kelvin Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Keith Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>kelvinside</pattern>
+    <street>Kelvinside</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.881461 -4.295826</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>kelvingrove st</pattern>
+    <street>Kelvingrove Street</street>
+  </address>
+  <address>
+    <pattern>kelvingrove terrace</pattern>
+    <street>Kelvingrove Terrace</street>
+  </address>
+  <address>
+    <pattern>kelvinhaugh st</pattern>
+    <street>Kelvinhaugh Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Kelvinhaugh St</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>kelvinside gardens</pattern>
+    <street>Kelvinside Gardens</street>
+  </address>
+  <address>
+    <pattern>kelvinside ter</pattern>
+    <street>Kelvinside Terrace</street>
+  </address>
+  <address>
+    <pattern>kenmure place</pattern>
+    <street>Kenmure Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>kenmure st</pattern>
+    <street>Kenmure Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields (East)</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>kenmure terrace</pattern>
+    <street>Kenmure Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>kennedy st</pattern>
+    <street>Kennedy Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.866627 -4.243791</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>kent road</pattern>
+    <street>Kent Road</street>
+  </address>
+  <address>
+    <pattern>kent square</pattern>
+    <street>Kent Square</street>
+  </address>
+  <address>
+    <pattern>keppochhill r</pattern>
+    <pattern>keppoch hill r</pattern>
+    <street>Keppochhill Road</street>
+  </address>
+  <address>
+    <pattern>kerr st</pattern>
+    <street>Kerr Street</street>
+  </address>
+  <address>
+    <pattern>kersland st</pattern>
+    <street>Kersland Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>kersland terrace</pattern>
+    <street>Kersland Terrace</street>
+  </address>
+  <address>
+    <pattern>kew terrace</pattern>
+    <street>Kew Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>keyden st</pattern>
+    <street>Keyden Street</street>
+  </address>
+  <address>
+    <pattern>killearn st</pattern>
+    <street>Killearn Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Possilpark</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>killermont st</pattern>
+    <street>Killermont Street</street>
+  </address>
+  <address>
+    <pattern>kingston place</pattern>
+    <street>Kingston Place</street>
+  </address>
+  <address>
+    <pattern>king st</pattern>
+    <street>King Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Calton</name>
+        <modern_name>Millroad Street</modern_name>
+      </area>
+      <area>
+        <name>Mile-end</name>
+        <modern_name>Redan Street</modern_name>
+      </area>
+      <area>
+        <name>Tradeston</name>
+	<modern_name>Kingston Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>kinning place</pattern>
+    <street>Kinning Place</street>
+  </address>
+  <address>
+    <pattern>kinning st</pattern>
+    <street>Kinning Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kingston</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>kirk st</pattern>
+    <street>Kirk Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Stevenson Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>kirklee gardens</pattern>
+    <street>Kirklee Gardens</street>
+  </address>
+  <address>
+    <pattern>kirklee r</pattern>
+    <street>Kirklee Road</street>
+  </address>
+  <address>
+    <pattern>kirkpatrick st</pattern>
+    <street>Kirkpatrick Street</street>
+  </address>
+  <address>
+    <pattern>knightswood pl</pattern>
+    <street>Knightswood Place</street>
+  </address>
+  <address>
+    <pattern>knowe ter</pattern>
+    <street>Knowe Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Albert Road</modern_name>
+      <area>
+        <name>Cathcart</name>
+        <modern_name>Manse Brae</modern_name>
+      </area>
+      <area>
+        <name>Crosshill</name>
+        <modern_name>Cathcart Road</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>kyle st</pattern>
+    <street>Kyle Street</street>
+  </address>
+  <address>
+    <pattern>la belle pl</pattern>
+    <street>La Belle Place</street>
+  </address>
+  <address>
+    <pattern>lacrosse pl</pattern>
+    <street>Lacrosse Place</street>
+  </address>
+  <address>
+    <pattern>ladywell st</pattern>
+    <street>Ladywell Street</street>
+  </address>
+  <address>
+    <pattern>lambhill st</pattern>
+    <street>Lambhill Street</street>
+  </address>
+  <address>
+    <pattern>lamlash pl</pattern>
+    <street>Lamlash Place</street>
+  </address>
+  <address>
+    <pattern>lanark st</pattern>
+    <street>Lanark Street</street>
+  </address>
+  <address>
+    <pattern>lancaster ter</pattern>
+    <street>Lancaster Terrace</street>
+  </address>
+  <address>
+    <pattern>lancefield quay</pattern>
+    <street>Lancefield Quay</street>
+  </address>
+  <address>
+    <pattern>lancefield st</pattern>
+    <street>Lancefield Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.858611 -4.276603</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>lancelot place</pattern>
+    <street>Lancelot Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>landore terrace</pattern>
+    <street>Landore Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Mount Florida</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>landressy st</pattern>
+    <street>Landressy Street</street>
+  </address>
+  <address>
+    <pattern>langside road</pattern>
+    <street>Langside Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crosshill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>landsdowne crescent</pattern>
+    <street>Landsdowne Crescent</street>
+  </address>
+  <address>
+    <pattern>lansdowne cres</pattern>
+    <street>Lansdowne Crescent</street>
+  </address>
+  <address>
+    <pattern>largo place</pattern>
+    <street>Largo Place</street>
+  </address>
+  <address>
+    <pattern>laurel bank</pattern>
+    <street>Laurel Bank</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>lawrence place</pattern>
+    <street>Lawrence Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>lendel terrace</pattern>
+    <street>Lendel Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govan</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>leslie road</pattern>
+    <street>Leslie Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>leslie st</pattern>
+    <street>Leslie Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>leven st</pattern>
+    <street>Leven Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>lilybank r</pattern>
+    <pattern>lillybank r</pattern>
+    <street>Lillybank Road</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Gourock Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>lillybank st</pattern>
+    <street>Lillybank Street</street>
+  </address>
+  <address>
+    <pattern>lillybank terrace</pattern>
+    <street>Lillybank Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>lime st</pattern>
+    <street>Lime Street</street>
+  </address>
+  <address>
+    <pattern>linden terrace</pattern>
+    <street>Linden Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Prince's Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>lindsay ter</pattern>
+    <street>Lindsay Terrace</street>
+  </address>
+  <address>
+    <pattern>linhall ter</pattern>
+    <street>Linhall Terrace</street>
+  </address>
+  <address>
+    <pattern>linwood ter</pattern>
+    <street>Linwood Terrace</street>
+  </address>
+  <address>
+    <pattern>little st</pattern>
+    <street>Little Street</street>
+  </address>
+  <address>
+    <pattern>livingston terrace</pattern>
+    <street>Livingston Terrace</street>
+  </address>
+  <address>
+    <pattern>lochinver terrace</pattern>
+    <street>Lochinver Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>logan st</pattern>
+    <street>Logan Street</street>
+  </address>
+  <address>
+    <pattern>lomond st</pattern>
+    <street>Lomond Street</street>
+  </address>
+  <address>
+    <pattern>london r</pattern>
+    <street>London Road</street>
+  </address>
+  <address>
+    <pattern>london st</pattern>
+    <street>London Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>London Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>lorne pl</pattern>
+    <street>Lorne Place</street>
+  </address>
+  <address>
+    <pattern>lorne ter</pattern>
+    <street>Lorne Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <!--<area>
+        <name>Pollockshields</name>
+      </area>-->
+      <area>
+        <name>Maryhill</name>
+        <modern_name>Dollar Terrace</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>loudon pl</pattern>
+    <street>Loudon Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Cathcart Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>loudon ter</pattern>
+    <street>Loudon Terrace</street>
+  </address>
+  <address>
+    <pattern>love loan</pattern>
+    <street>Love Loan</street>
+  </address>
+  <address>
+    <pattern>lugar pl</pattern>
+    <street>Lugar Place</street>
+  </address>
+  <address>
+    <pattern>lumsden st</pattern>
+    <street>Lumsden Street</street>
+  </address>
+  <address>
+    <pattern>luton pl</pattern>
+    <street>Luton Place</street>
+  </address>
+  <address>
+    <pattern>lynedoch cres</pattern>
+    <street>Lynedoch Crescent</street>
+  </address>
+  <address>
+    <pattern>lynedoch pl</pattern>
+    <street>Lynedoch Place</street>
+  </address>
+  <address>
+    <pattern>lynedoch st</pattern>
+    <street>Lynedoch Street</street>
+  </address>
+  <address>
+    <pattern>lyon st</pattern>
+    <street>Lyon Street</street>
+  </address>
+  <address>
+    <pattern>mcalpine st</pattern>
+    <street>McAlpine Street</street>
+  </address>
+  <address>
+    <pattern>mcaslin st</pattern>
+    <street>McAslin Street</street>
+  </address>
+  <address>
+    <pattern>mcculloch st</pattern>
+    <street>McCulloch Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>macfarlane st</pattern>
+    <street>Macfarlane Street</street>
+  </address>
+  <address>
+    <pattern>mcintosh st</pattern>
+    <street>McIntosh Street</street>
+  </address>
+  <address>
+    <pattern>mcintyre st</pattern>
+    <street>McIntyre Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>MacIntyre Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>mckechnie st</pattern>
+    <street>McKechnie Street</street>
+  </address>
+  <address>
+    <pattern>mckinlay st</pattern>
+    <street>McKinlay Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Mackinlay Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>mclean st</pattern>
+    <street>McLean Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Maclean Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>mclellan st</pattern>
+    <street>McLellan Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>MaClellan Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>mcneil st</pattern>
+    <street>McNeil Street</street>
+  </address>
+  <address>
+    <pattern>mcpherson st</pattern>
+    <street>McPherson Street</street>
+  </address>
+  <address>
+    <pattern>main st</pattern>
+    <street>Main Street</street>
+    <town>
+      <name>Glasgow</name>
+      <!--<area>
+        <name>Anderston</name>
+      </area>
+      <area>
+        <name>Bridgeton</name>
+        <modern_name>Well Street</modern_name>
+      </area>
+      <area>
+        <name>Calton</name>
+        <modern_name>Well Street</modern_name>
+      </area>-->
+      <area>
+        <name>Gorbals</name>
+        <modern_name>Gorbals Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>mains st</pattern>
+    <street>Mains Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Blythswood Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>mair st</pattern>
+    <street>Mair Street</street>
+  </address>
+  <address>
+    <pattern>maitland lane</pattern>
+    <street>Maitland Lane</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Maitland Place</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>maitland pl</pattern>
+    <street>Maitland Place</street>
+  </address>
+  <address>
+    <pattern>marlborough st</pattern>
+    <street>Marlborough Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Orr Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>mallsmire pl</pattern>
+    <street>Mallsmire Place</street>
+  </address>
+  <address>
+    <pattern>malvern pl</pattern>
+    <street>Malvem Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Comelypark Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>mansfield pl</pattern>
+    <street>Mansfield Place</street>
+  </address>
+  <address>
+    <pattern>mansfield st</pattern>
+    <street>Mansfield Street</street>
+  </address>
+  <address>
+    <pattern>mansion house r</pattern>
+    <street>Mansion House Road</street>
+  </address>
+  <address>
+    <pattern>mansion st</pattern>
+    <street>Mansion Street</street>
+  </address>
+  <address>
+    <pattern>marchmont ter</pattern>
+    <street>Marchmont Terrace</street>
+  </address>
+  <address>
+    <pattern>margaret st</pattern>
+    <street>Margaret Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Peebles Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>marjory place</pattern>
+    <street>Marjory Place</street>
+  </address>
+  <address>
+    <pattern>market st</pattern>
+    <street>Market Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Mart St</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>markland ter</pattern>
+    <street>Markland Terrace</street>
+  </address>
+  <address>
+    <pattern>marlborough st</pattern>
+    <street>Marlborough Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Hughenden Drive</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>marlow st</pattern>
+    <street>Marlow Street</street>
+  </address>
+  <address>
+    <pattern>marquis st</pattern>
+    <street>Marquis Street</street>
+  </address>
+  <address>
+    <pattern>marshall place</pattern>
+    <street>Marshall Place</street>
+  </address>
+  <address>
+    <pattern>maryhill</pattern>
+    <street>Maryhill</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.866551 -4.260642</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>mason st</pattern>
+    <street>Mason Street</street>
+  </address>
+  <address>
+    <pattern>mathieson r</pattern>
+    <street>Mathieson Road</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Grovepark Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>mathieson st</pattern>
+    <pattern>matheson st</pattern>
+    <street>Mathieson Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Luath Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>matilda pl</pattern>
+    <street>Matilda Place</street>
+  </address>
+  <address>
+    <pattern>matilda ter</pattern>
+    <street>Matilda Terrace</street>
+  </address>
+  <address>
+    <pattern>matilda r</pattern>
+    <street>Matilda Road</street>
+  </address>
+  <address>
+    <pattern>maule ter</pattern>
+    <street>Maule Terrace</street>
+  </address>
+  <address>
+    <pattern>maxwell r</pattern>
+    <street>Maxwell Road</street>
+  </address>
+  <address>
+    <pattern>maxwell st</pattern>
+    <street>Maxwell Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Burgh Hall Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>maxwell ter</pattern>
+    <street>Maxwell Terrace</street>
+  </address>
+  <address>
+    <pattern>may pl</pattern>
+    <street>May Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Shettleston Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>may ter</pattern>
+    <street>May Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Prospecthill Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>maybank ter</pattern>
+    <street>Maybank Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crosshill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>meadowbank cres</pattern>
+    <street>Meadowbank Crescent</street>
+  </address>
+  <address>
+    <pattern>meadowbank pl</pattern>
+    <street>Meadowbank Place</street>
+  </address>
+  <address>
+    <pattern>meadowpark st</pattern>
+    <street>Meadowpark Street</street>
+  </address>
+  <address>
+    <pattern>meadowvale</pattern>
+    <street>Meadowvale</street>
+  </address>
+  <address>
+    <pattern>melrose buildings</pattern>
+    <street>Melrose Buildings</street>
+  </address>
+  <address>
+    <pattern>melrose pl</pattern>
+    <street>Melrose Place</street>
+  </address>
+  <address>
+    <pattern>melrose st</pattern>
+    <street>Melrose Street</street>
+  </address>
+  <address>
+    <pattern>melville lane</pattern>
+    <street>Melville Lane</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Union Place</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>melville pl</pattern>
+    <street>Melville Place</street>
+  </address>
+  <address>
+    <pattern>melville st</pattern>
+    <street>Melville Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>melville terrace</pattern>
+    <street>Melville Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>merchant lane</pattern>
+    <street>Merchant Lane</street>
+  </address>
+  <address>
+    <pattern>merkland st</pattern>
+    <street>Merkland Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>mid wharf</pattern>
+    <street>Mid Wharf Street</street>
+  </address>
+  <address>
+    <pattern>middleton place</pattern>
+    <street>Middleton Place</street>
+  </address>
+  <address>
+    <pattern>mill st</pattern>
+    <street>Mill Street</street>
+  </address>
+  <address>
+    <pattern>millarbank st</pattern>
+    <street>Millarbank Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Springburn</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>millbrae crescent</pattern>
+    <street>Millbrae Crescent</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Langside</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>millbrae road</pattern>
+    <street>Millbrae Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Langside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>millbrae terrace</pattern>
+    <street>Millbrae Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Langside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>millburn st</pattern>
+    <street>Millburn Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Garngadhill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>millcroft pl</pattern>
+    <street>Millcroft Place</street>
+  </address>
+  <address>
+    <pattern>miller's pl</pattern>
+    <street>Miller's Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Saltmarket Place</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>miller st</pattern>
+    <street>Miller Street</street>
+  </address>
+  <address>
+    <pattern>millroad st</pattern>
+    <street>Millroad Street</street>
+  </address>
+  <address>
+    <pattern>milton pl</pattern>
+    <street>Milton Place</street>
+  </address>
+  <address>
+    <pattern>milton st</pattern>
+    <street>Milton Street</street>
+  </address>
+  <address>
+    <pattern>milton ter</pattern>
+    <street>Milton Terrace</street>
+  </address>
+  <address>
+    <pattern>minard avenue</pattern>
+    <street>Minard Avenue</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Turnberry Avenue</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>minard r</pattern>
+    <street>Minard Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Turnberry Road</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>minard terrace</pattern>
+    <street>Minard Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>minerva st</pattern>
+    <street>Minerva Street</street>
+  </address>
+  <address>
+    <pattern>mitchell lane</pattern>
+    <street>Mitchell Lane</street>
+  </address>
+  <address>
+    <pattern>mitchell st</pattern>
+    <street>Mitchell Street</street>
+  </address>
+  <address>
+    <pattern>moir st</pattern>
+    <street>Moir Street</street>
+  </address>
+  <address>
+    <pattern>moncur st</pattern>
+    <street>Moncur Street</street>
+  </address>
+  <address>
+    <pattern>monkland st</pattern>
+    <street>Monkland Street</street>
+  </address>
+  <address>
+    <pattern>montague place</pattern>
+    <street>Montague Place</street>
+  </address>
+  <address>
+    <pattern>monteith row</pattern>
+    <street>Monteith Row</street>
+  </address>
+  <address>
+    <pattern>montgomerie crescent</pattern>
+    <street>Montgomerie Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+        <modern_name>Cleveden Crescent</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>montgomerie drive</pattern>
+    <street>Montgomerie Drive</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+        <modern_name>Cleveden Drive</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>montgomery st</pattern>
+    <street>Montgomery Street</street>
+  </address>
+  <address>
+    <pattern>montgomerie ter</pattern>
+    <street>Montgomerie Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Mount Florida</name>
+        <modern_name>Bolivar Terrace</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>montrose st</pattern>
+    <street>Montrose Street</street>
+  </address>
+  <address>
+    <pattern>moore pace</pattern>
+    <street>Moore Pace</street>
+  </address>
+  <address>
+    <pattern>moore st</pattern>
+    <street>Moore Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Dunchattan Place</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>moray place</pattern>
+    <street>Moray Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Strathbungo</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>mordaunt st</pattern>
+    <street>Mordaunt Street</street>
+  </address>
+  <address>
+    <pattern>morris pl</pattern>
+    <street>Morris Place</street>
+  </address>
+  <address>
+    <pattern>morrison st</pattern>
+    <street>Morrison Street</street>
+  </address>
+  <address>
+    <pattern>mosesfield ter</pattern>
+    <street>Mosesfield Terrace</street>
+  </address>
+  <address>
+    <pattern>mossview</pattern>
+    <pattern>moss view</pattern>
+    <street>Mossview</street>
+  </address>
+  <address>
+    <pattern>mount st</pattern>
+    <street>Mount Street</street>
+  </address>
+  <address>
+    <pattern>mount vernon</pattern>
+    <street>Mount Vernon</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.842338 -4.140086</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>muirhead st</pattern>
+    <street>Muirhead Street</street>
+  </address>
+  <address>
+    <pattern>murray pl</pattern>
+    <street>Murray Place</street>
+  </address>
+  <address>
+    <pattern>murray st</pattern>
+    <street>Murray Street</street>
+  </address>
+  <address>
+    <pattern>muse lane</pattern>
+    <street>Muse Lane</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Larbert Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>muslin st</pattern>
+    <street>Muslin Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>myrtle park</pattern>
+    <street>Myrtle Park</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crosshill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>myrtle st</pattern>
+    <street>Myrtle Street</street>
+  </address>
+  <address>
+    <pattern>naburn st</pattern>
+    <street>Naburn Street</street>
+  </address>
+  <address>
+    <pattern>napier place</pattern>
+    <street>Napier Place</street>
+  </address>
+  <address>
+    <pattern>napiershall st</pattern>
+    <street>Napiershall Street</street>
+  </address>
+  <address>
+    <pattern>nelson st</pattern>
+    <street>Nelson Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Tradeston</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>nelson terrace</pattern>
+    <street>Nelson Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>new city r</pattern>
+    <pattern>n. city r</pattern>
+    <street>New City Road</street>
+  </address>
+  <address>
+    <pattern>newhall st</pattern>
+    <street>Newhall Street</street>
+  </address>
+  <address>
+    <pattern>newhall ter</pattern>
+    <street>Newhall Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Greenhead Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>new st</pattern>
+    <street>New Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Calton</name>
+        <modern_name>Stevenson Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>newton pl</pattern>
+    <street>Newton Place</street>
+  </address>
+  <address>
+    <pattern>newton st</pattern>
+    <street>Newton Street</street>
+  </address>
+  <address>
+    <pattern>newton ter</pattern>
+    <street>Newton Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Sauchiehall Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>new wynd</pattern>
+    <street>New Wynd</street>
+  </address>
+  <address>
+    <pattern>nicholas st</pattern>
+    <street>Nicholas Street</street>
+  </address>
+  <address>
+    <pattern>nicholson st</pattern>
+    <street>Nicholson Street</street>
+  </address>
+  <address>
+    <pattern>nile st</pattern>
+    <street>Nile Street</street>
+  </address>
+  <address>
+    <pattern>nithsdale r</pattern>
+    <street>Nithsdale Road</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+      <area>
+        <name>Strathbungo</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>nitshill</pattern>
+    <street>Nitshill</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.815148 -4.362988</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>norfolk c</pattern>
+    <street>Norfolk Ct</street>
+  </address>
+  <address>
+    <pattern>norfolk st</pattern>
+    <street>Norfolk Street</street>
+  </address>
+  <address>
+    <pattern>northburn st</pattern>
+    <street>Northburn Street</street>
+  </address>
+  <address>
+    <pattern>north c</pattern>
+    <street>North Court</street>
+  </address>
+  <address>
+    <pattern>north st</pattern>
+    <street>North Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Anderston</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>north-east park st</pattern>
+    <street>North-East Park Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Dennistoun</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>north wallace st</pattern>
+    <street>North Wallace Street</street>
+  </address>
+  <address>
+    <pattern>north woodside road</pattern>
+    <street>North Woodside Road</street>
+  </address>
+  <address>
+    <pattern>norwood ter</pattern>
+    <street>Norwood Terrace</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <modern_name>Ann Street</modern_name>
+    </town>-->
+  </address>
+  <address>
+    <pattern>nuneaton st</pattern>
+    <street>Nuneaton Street</street>
+  </address>
+  <address>
+    <pattern>oak st</pattern>
+    <street>Oak Street</street>
+  </address>
+  <address>
+    <pattern>oakbank st</pattern>
+    <street>Oakbank Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Oakbank</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>oakfield terrace</pattern>
+    <street>Oakfield Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>oakley terrace</pattern>
+    <street>Oakley Terrace</street>
+  </address>
+  <address>
+    <pattern>oakvale</pattern>
+    <street>Oakvale</street>
+  </address>
+  <address>
+    <pattern>Observatory road</pattern>
+    <street>Observatory Road</street>
+  </address>
+  <address>
+    <pattern>old kelvinhaugh road</pattern>
+    <street>Old Kelvinhaugh Road</street>
+  </address>
+  <address>
+    <pattern>old wynd</pattern>
+    <street>Old Wynd</street>
+  </address>
+  <address>
+    <pattern>onslow drive</pattern>
+    <street>Onslow Drive</street>
+  </address>
+  <address>
+    <pattern>onslow square</pattern>
+    <street>Onslow Square</street>
+  </address>
+  <address>
+    <pattern>orchard st</pattern>
+    <street>Orchard Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Vine Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>orr st</pattern>
+    <street>Orr Street</street>
+  </address>
+  <address>
+    <pattern>oswald place</pattern>
+    <street>Oswald Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Whiteinch</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>oswald st</pattern>
+    <street>Oswald Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>otago st</pattern>
+    <street>Otago Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>overnewton square</pattern>
+    <street>Overnewton Square</street>
+  </address>
+  <address>
+    <pattern>overnewton st</pattern>
+    <street>Overnewton Street</street>
+  </address>
+  <address>
+    <pattern>oxford st</pattern>
+    <street>Oxford Street</street>
+  </address>
+  <address>
+    <pattern>paisley r</pattern>
+    <street>Paisley Road</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.869951 -4.399179</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>paisley road, west</pattern>
+    <street>Paisley Road West</street>
+  </address>
+  <address>
+    <pattern>park circus</pattern>
+    <street>Park Circus</street>
+  </address>
+  <address>
+    <pattern>park gardens</pattern>
+    <street>Park Gardens</street>
+  </address>
+  <address>
+    <pattern>park lane</pattern>
+    <street>Park Lane</street>
+  </address>
+  <address>
+    <pattern>park pl</pattern>
+    <street>Park Place</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.891792 -4.341884</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>park quadrant</pattern>
+    <street>Park Quadrant</street>
+  </address>
+  <address>
+    <pattern>park road</pattern>
+    <street>Park Road</street>
+  </address>
+  <address>
+    <pattern>park st</pattern>
+    <street>Park Street</street>
+    <town>
+      <name>Glasgow</name>
+      <!--<area>
+        <name>Kelvinhaugh</name>
+      </area>-->
+      <area>
+        <name>Kinning Park</name>
+        <modern_name>Milnpark Street</modern_name>
+      </area>
+      <!--<area>
+        <name>Plantation</name>
+      </area>-->
+    </town>
+  </address>
+  <address>
+    <pattern>park street, east</pattern>
+    <street>Park Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Park Circus</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>park ter</pattern>
+    <street>Park Terrace</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crosshill</name>
+      </area>
+      <area>
+        <name>Langside</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>parkgrove pl</pattern>
+    <street>Parkgrove Place</street>
+  </address>
+  <address>
+    <pattern>park grove ter</pattern>
+    <pattern>parkgrove ter</pattern>
+    <street>Parkgrove Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Parkhead</name>
+        <modern_name>Tollcross Road</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>parkhead</pattern>
+    <street>Parkhead</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.84971 -4.194374</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>parkhouse lane</pattern>
+    <street>Parkhouse Lane</street>
+  </address>
+  <address>
+    <pattern>parkview</pattern>
+    <street>Parkview</street>
+  </address>
+  <address>
+    <pattern>parliamentary r</pattern>
+    <street>Parliamentary Road</street>
+  </address>
+  <address>
+    <pattern>parson st</pattern>
+    <street>Parson Street</street>
+  </address>
+  <address>
+    <pattern>partick</pattern>
+    <street>Partick</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.870736 -4.312648</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>partickhill r</pattern>
+    <street>Partickhill Road</street>
+  </address>
+  <address>
+    <pattern>paterson st</pattern>
+    <street>Paterson Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Anderston</name>
+      </area>
+      <area>
+        <name>Kingston</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>paul st</pattern>
+    <street>Paul Street</street>
+  </address>
+  <address>
+    <pattern>paxton ter</pattern>
+    <street>Paxton Terrace</street>
+  </address>
+  <address>
+    <pattern>peel st</pattern>
+    <street>Peel Street</street>
+  </address>
+  <address>
+    <pattern>peel ter</pattern>
+    <street>Peel Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Hill Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>pembroke st</pattern>
+    <street>Pembroke Street</street>
+  </address>
+  <address>
+    <pattern>percy st</pattern>
+    <street>Percy Street</street>
+  </address>
+  <address>
+    <pattern>percy ter</pattern>
+    <street>Percy Terrace</street>
+  </address>
+  <address>
+    <pattern>perth st</pattern>
+    <street>Perth Street</street>
+  </address>
+  <address>
+    <pattern>petershill r</pattern>
+    <street>Petershill Road</street>
+  </address>
+  <address>
+    <pattern>pettigrew st</pattern>
+    <street>Pettigrew Street</street>
+  </address>
+  <address>
+    <pattern>piccadilly st</pattern>
+    <street>Piccadilly Street</street>
+  </address>
+  <address>
+    <pattern>pine st</pattern>
+    <street>Pine Street</street>
+  </address>
+  <address>
+    <pattern>pitt st</pattern>
+    <street>Pitt Street</street>
+  </address>
+  <address>
+    <pattern>plantation buildings</pattern>
+    <street>Plantation Buildings</street>
+  </address>
+  <address>
+    <pattern>plantation pl</pattern>
+    <street>Plantation Place</street>
+  </address>
+  <address>
+    <pattern>plantation st</pattern>
+    <street>Plantation Street</street>
+  </address>
+  <address>
+    <pattern>pollock st</pattern>
+    <pattern>pollok st</pattern>
+    <street>Pollock Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Kelso Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>pollockshaws</pattern>
+    <street>Pollockshaws</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.825395,-4.295139</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>pollockshaws r</pattern>
+    <street>Pollockshaws Road</street>
+  </address>
+  <address>
+    <pattern>pollokshields</pattern>
+    <street>Pollokshields</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.839939 -4.277802</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>polmadie st</pattern>
+    <street>Polmadie Street</street>
+  </address>
+  <address>
+    <pattern>port st</pattern>
+    <street>Port Street</street>
+  </address>
+  <address>
+    <pattern>port dundas r</pattern>
+    <pattern>portdundas r</pattern>
+    <pattern>port-dundas r</pattern>
+    <street>Port Dundas Road</street>
+  </address>
+  <address>
+    <pattern>portland st</pattern>
+    <street>Portland Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>North Portland Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>portman pl</pattern>
+    <street>Portman Place</street>
+  </address>
+  <address>
+    <pattern>portman st</pattern>
+    <street>Portman Street</street>
+  </address>
+  <address>
+    <pattern>portugal st</pattern>
+    <street>Portugal Street</street>
+  </address>
+  <address>
+    <pattern>preston st</pattern>
+    <street>Preston Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+      </area>
+      <area>
+        <name>Govanhill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>prince edward st</pattern>
+    <street>Prince Edward Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>prince's sq</pattern>
+    <street>Princes Square</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Buchanan Street</modern_name>
+      <area>
+        <name>Strathbungo</name>
+        <modern_name>Marywood Square</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>prince's st</pattern>
+    <street>Prince's Street</street>
+  </address>
+  <address>
+    <pattern>prince's street, west</pattern>
+    <pattern>west Princes st</pattern>
+    <street>Prince's Street West</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>West Prince's Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>prince's ter</pattern>
+    <street>Prince's Terrace</street>
+  </address>
+  <address>
+    <pattern>prince of wales ter</pattern>
+    <street>Prince of Wales Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+      <area>
+        <name>Crosshill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>pulteny st</pattern>
+    <street>Pulteny Street</street>
+  </address>
+  <address>
+    <pattern>queen arcade</pattern>
+    <street>Queen Arcade</street>
+  </address>
+  <address>
+    <pattern>queensberry ter</pattern>
+    <street>Queensberry Terrace</street>
+  </address>
+  <address>
+    <pattern>queen's cres</pattern>
+    <street>Queen's Crescent</street>
+  </address>
+  <address>
+    <pattern>queen's dr</pattern>
+    <street>Queen's Drive</street>
+  </address>
+  <address>
+    <pattern>queen mary av</pattern>
+    <street>Queen Mary Avenue</street>
+  </address>
+  <address>
+    <pattern>queen mary st</pattern>
+    <street>Queen Mary Street</street>
+  </address>
+  <address>
+    <pattern>queen's park pl</pattern>
+    <street>Queen's Park Place</street>
+  </address>
+  <address>
+    <pattern>queen's park ter</pattern>
+    <street>Queen's Park Terrace</street>
+  </address>
+  <address>
+    <pattern>queen's pl</pattern>
+    <street>Queen's Place</street>
+  </address>
+  <address>
+    <pattern>queen sq</pattern>
+    <street>Queen Square</street>
+  </address>
+  <address>
+    <pattern>queen's sq</pattern>
+    <street>Queen's Square</street>
+  </address>
+  <address>
+    <pattern>queen st</pattern>
+    <street>Queen Street</street>
+  </address>
+  <address>
+    <pattern>queen's ter</pattern>
+    <street>Queen's Terrace</street>
+  </address>
+  <address>
+    <pattern>radnor st</pattern>
+    <street>Radnor Street</street>
+  </address>
+  <address>
+    <pattern>radnor ter</pattern>
+    <street>Radnor Terrace</street>
+  </address>
+  <address>
+    <pattern>rae st</pattern>
+    <street>Rae Street</street>
+  </address>
+  <address>
+    <pattern>raeberry st</pattern>
+    <street>Raeberry Street</street>
+  </address>
+  <address>
+    <pattern>raglan st</pattern>
+    <street>Raglan Street</street>
+  </address>
+  <address>
+    <pattern>randolph pl</pattern>
+    <street>Randolph Place</street>
+  </address>
+  <address>
+    <pattern>randolph ter</pattern>
+    <street>Randolph Terrace</street>
+  </address>
+  <address>
+    <pattern>ranfurly pl</pattern>
+    <street>Ranfurly Place</street>
+  </address>
+  <address>
+    <pattern>regent park sq</pattern>
+    <street>Regent Park Square</street>
+  </address>
+  <address>
+    <pattern>regent park ter</pattern>
+    <street>Regent Park Terrace</street>
+  </address>
+  <address>
+    <pattern>regent street lane</pattern>
+    <street>Regent Street Lane</street>
+  </address>
+  <address>
+    <pattern>regent st</pattern>
+    <street>Regent Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Regwood Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>reid st</pattern>
+    <street>Reid Street</street>
+  </address>
+  <address>
+    <pattern>reidvale st</pattern>
+    <street>Reidvale Street</street>
+  </address>
+  <address>
+    <pattern>renfield lane</pattern>
+    <street>Renfield Lane</street>
+  </address>
+  <address>
+    <pattern>renfield st</pattern>
+    <street>Renfield Street</street>
+  </address>
+  <address>
+    <pattern>renfrew c</pattern>
+    <street>Renfrew Court</street>
+  </address>
+  <address>
+    <pattern>renfrew lane</pattern>
+    <street>Renfrew Lane</street>
+  </address>
+  <address>
+    <pattern>renfrew st</pattern>
+    <street>Renfrew Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.862308 -4.244671</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>renton ter</pattern>
+    <street>Renton Terrace</street>
+  </address>
+  <address>
+    <pattern>renwick st</pattern>
+    <street>Renwick Street</street>
+  </address>
+  <address>
+    <pattern>richard st</pattern>
+    <street>Richard Street</street>
+  </address>
+  <address>
+    <pattern>richmond st</pattern>
+    <street>Richmond Street</street>
+  </address>
+  <address>
+    <pattern>risk st</pattern>
+    <street>Risk Street</street>
+  </address>
+  <address>
+    <pattern>robertson lane</pattern>
+    <street>Robertson Lane</street>
+  </address>
+  <address>
+    <pattern>robertson st</pattern>
+    <street>Robertson Street</street>
+  </address>
+  <address>
+    <pattern>rochester st</pattern>
+    <street>Rochester Street</street>
+  </address>
+  <address>
+    <pattern>rockbank </pattern>
+    <street>Rockbank </street>
+  </address>
+  <address>
+    <pattern>rocklea ter</pattern>
+    <street>Rocklea Terrace</street>
+  </address>
+  <address>
+    <pattern>rokeby ter</pattern>
+    <street>Rokeby Terrace</street>
+  </address>
+  <address>
+    <pattern>ronald st</pattern>
+    <street>Ronald Street</street>
+  </address>
+  <address>
+    <pattern>ropework lane</pattern>
+    <street>Ropework Lane</street>
+  </address>
+  <address>
+    <pattern>rose st</pattern>
+    <street>Rose Street</street>
+    <town>
+      <name>Glasgow</name>
+      <!--<area>
+        <name>Garnethill</name>
+      </area>-->
+      <area>
+        <name>Hutchesontown</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>roseband ter</pattern>
+    <street>Roseband Terrace</street>
+  </address>
+  <address>
+    <pattern>roseberry ter</pattern>
+    <street>Roseberry Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>North Woodside Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>rosehall st</pattern>
+    <street>Rosehall Street</street>
+  </address>
+  <address>
+    <pattern>rosehill</pattern>
+    <street>Rosehill</street>
+  </address>
+  <address>
+    <pattern>roseland terrace</pattern>
+    <street>Roseland Terrace</street>
+  </address>
+  <address>
+    <pattern>roslea drive</pattern>
+    <street>Roslea Drive</street>
+  </address>
+  <address>
+    <pattern>rosebank ter</pattern>
+    <street>Rosebank terrace</street>
+  </address>
+  <address>
+    <pattern>rosemount st</pattern>
+    <street>Rosemount Street</street>
+  </address>
+  <address>
+    <pattern>rosevale st</pattern>
+    <street>Rosevale Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>rosevale terrace</pattern>
+    <street>Rosevale Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>rosslyn place</pattern>
+    <street>Rosslyn Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>roslyn ter</pattern>
+    <pattern>rosslyn terrace</pattern>
+    <street>Rosslyn Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>rottenrow</pattern>
+    <street>Rottenrow</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.861438 -4.237225</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>roxburgh st</pattern>
+    <street>Roxburgh Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>royal arcade</pattern>
+    <street>Royal Arcade</street>
+  </address>
+  <address>
+    <pattern>royal bank pl</pattern>
+    <street>Royal Bank Place</street>
+  </address>
+  <address>
+    <pattern>royal cres</pattern>
+    <street>Royal Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crosshill</name>
+        <modern_name>Queen's Dr</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>royal exchange buildings</pattern>
+    <street>Royal Exchange Buildings</street>
+  </address>
+  <address>
+    <pattern>royal exchange c</pattern>
+    <street>Royal Exchange Court</street>
+  </address>
+  <address>
+    <pattern>royal exchange pl</pattern>
+    <street>Royal Exchange Place</street>
+  </address>
+  <address>
+    <pattern>royal exchange sq</pattern>
+    <pattern>royal exchange</pattern>
+    <street>Royal Exchange Square</street>
+  </address>
+  <address>
+    <pattern>royal ter</pattern>
+    <street>Royal Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.866652 -4.282072</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>royal st</pattern>
+    <street>Royal Street</street>
+  </address>
+  <address>
+    <pattern>rumford st</pattern>
+    <street>Rumford Street</street>
+  </address>
+  <address>
+    <pattern>rupert st</pattern>
+    <street>Rupert Street</street>
+  </address>
+  <address>
+    <pattern>russel st</pattern>
+    <street>Russel Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Stevenson Street</modern_name>
+      <area>
+        <name>Govan</name>
+        <modern_name>Orkney Place</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>rutherford lane</pattern>
+    <street>Rutherford Lane</street>
+  </address>
+  <address>
+    <pattern>rutherglen</pattern>
+    <street>Rutherglen</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.816220 -4.208021</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>rutherglen loan</pattern>
+    <street>Rutherglen Loan</street>
+  </address>
+  <address>
+    <pattern>rutherglen r</pattern>
+    <street>Rutherglen Road</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.838346 -4.231603</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>ruthven st</pattern>
+    <street>Ruthven Street</street>
+  </address>
+  <address>
+    <pattern>rutland cres</pattern>
+    <street>Rutland Crescent</street>
+  </address>
+  <address>
+    <pattern>rutland pl</pattern>
+    <street>Rutland Place</street>
+  </address>
+  <address>
+    <pattern>alban's ter</pattern>
+    <street>Alban's Terrace</street>
+  </address>
+  <address>
+    <pattern>st andrew's l</pattern>
+    <pattern>st. andrew's l</pattern>
+    <street>St Andrew's Lane</street>
+  </address>
+  <address>
+    <pattern>st andrew's r</pattern>
+    <pattern>st. andrew's r</pattern>
+    <street>St Andrew's Road</street>
+  </address>
+  <address>
+    <pattern>st andrew's sq</pattern>
+    <street>St Andrew's Square</street>
+  </address>
+  <address>
+    <pattern>st andrew's st</pattern>
+    <pattern>st, andrew's st</pattern>
+    <street>St Andrew's Street</street>
+  </address>
+  <address>
+    <pattern>st bernard's pl</pattern>
+    <street>St Bernard's Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>st clair st</pattern>
+    <street>St Clair Street</street>
+  </address>
+  <address>
+    <pattern>enoch sq</pattern>
+    <street>St Enoch Square</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>St Enoch Pl</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>st enoch qynd</pattern>
+    <street>St Enoch Qynd</street>
+  </address>
+  <address>
+    <pattern>st george's pl</pattern>
+    <pattern>st. george's pl</pattern>
+    <street>St George's Place</street>
+  </address>
+  <address>
+    <pattern>st george's road</pattern>
+    <street>St George's Road</street>
+  </address>
+  <address>
+    <pattern>st. george's ter</pattern>
+    <street>St George's Terrace</street>
+  </address>
+  <address>
+    <pattern>st. james' r</pattern>
+    <street>Saint James Road</street>
+  </address>
+  <address>
+    <pattern>st james' st</pattern>
+    <street>St James' Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+        <modern_name>Hamilton Park Avenue</modern_name>
+      </area>
+      <area>
+        <name>Kingston</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>st james' terrace</pattern>
+    <pattern>st. james' terrace</pattern>
+    <street>St James' Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+        <modern_name>Ruskin Terrace</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>st john's road</pattern>
+    <street>St John's Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>st john's terrace</pattern>
+    <street>St John's Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>st marnock st</pattern>
+    <street>St Marnock Street</street>
+  </address>
+  <address>
+    <pattern>st mary's place</pattern>
+    <street>St Mary's Place</street>
+  </address>
+  <address>
+    <pattern>st mungo st</pattern>
+    <street>St Mungo Street</street>
+  </address>
+  <address>
+    <pattern>st ninian st</pattern>
+    <pattern>st. ninian st</pattern>
+    <street>St Ninian Street</street>
+  </address>
+  <address>
+    <pattern>st peter's lane</pattern>
+    <street>St Peter's Lane</street>
+  </address>
+  <address>
+    <pattern>st vincent cres</pattern>
+    <pattern>st. vincent cres</pattern>
+    <street>St Vincent Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Saint Vincent Crescent</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>st. vincent pl</pattern>
+    <street>Saint Vincent Place</street>
+  </address>
+  <address>
+    <pattern>st vincent lane</pattern>
+    <street>St Vincent Lane</street>
+  </address>
+  <address>
+    <pattern>st vincent st</pattern>
+    <pattern>st. vin. st</pattern>
+    <pattern>st. vincent st</pattern>
+    <pattern>st, vincent st</pattern>
+    <street>St Vincent Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Saint Vincent Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>steven st</pattern>
+    <street>Steven Street</street>
+  </address>
+  <address>
+    <pattern>salisbury quadrant</pattern>
+    <street>Salisbury Quadrant</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Strathbungo</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>salisbury st</pattern>
+    <street>Salisbury Street</street>
+  </address>
+  <address>
+    <pattern>salisbury terrace</pattern>
+    <street>Salisbury Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>salkeld st</pattern>
+    <street>Salkeld Street</street>
+  </address>
+  <address>
+    <pattern>saltmarket</pattern>
+    <street>Saltmarket</street>
+  </address>
+  <address>
+    <pattern>sanbank</pattern>
+    <street>Sanbank</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>sandringham ter</pattern>
+    <street>Sandringham Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Great Western Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>sandyfaulds st</pattern>
+    <street>Sandyfaulds Street</street>
+  </address>
+  <address>
+    <pattern>sandyford buildings</pattern>
+    <street>Sandyford Buildings</street>
+  </address>
+  <address>
+    <pattern>sandyford pl</pattern>
+    <pattern>sandy ford pl</pattern>
+    <street>Sandyford Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Sauchiehall Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>sandyford st</pattern>
+    <street>Sandyford Street</street>
+  </address>
+  <address>
+    <pattern>saracen st</pattern>
+    <street>Saracen Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Possilpark</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>sardinia ter</pattern>
+    <street>Sardinia Terrace</street>
+  </address>
+  <address>
+    <pattern>sauchiehall l</pattern>
+    <street>Sauchiehall Lane</street>
+  </address>
+  <address>
+    <pattern>sauchiehall st</pattern>
+    <street>Sauchiehall Street</street>
+  </address>
+  <address>
+    <pattern>scotia st</pattern>
+    <street>Scotia Street</street>
+  </address>
+  <address>
+    <pattern>scotland st</pattern>
+    <street>Scotland Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Tradeston</name>
+      </area>
+      <area>
+        <name>Woodlands</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>scott st</pattern>
+    <street>Scott Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Bridgeton</name>
+        <modern_name>Madras Street</modern_name>
+      </area>
+      <area>
+        <name>Port Dundas</name>
+        <modern_name>Tyndrum Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>seamour st</pattern>
+    <street>Seamour Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Seamore Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>sedan place</pattern>
+    <street>Sedan Place</street>
+  </address>
+  <address>
+    <pattern>seton ter</pattern>
+    <street>Seton Terrace</street>
+  </address>
+  <address>
+    <pattern>seyton avenue</pattern>
+    <street>Seyton Avenue</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Langside</name>
+        <modern_name>Blairhall Avenue</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>shaftesbury buildings</pattern>
+    <street>Shaftesbury Buildings</street>
+  </address>
+  <address>
+    <pattern>shaftesbury st</pattern>
+    <street>Shaftesbury Street</street>
+  </address>
+  <address>
+    <pattern>shaftesbury ter</pattern>
+    <street>Shaftesbury Terrace</street>
+  </address>
+  <address>
+    <pattern>shamrock st</pattern>
+    <street>Shamrock Street</street>
+  </address>
+  <address>
+    <pattern>shawfield pl</pattern>
+    <street>Shawfield Place</street>
+  </address>
+  <address>
+    <pattern>shawlands</pattern>
+    <street>Shawlands</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.83494 -4.279239</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>shields r</pattern>
+    <street>Shields Road</street>
+  </address>
+  <address>
+    <pattern>shields ter</pattern>
+    <street>Shields Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kinning Park</name>
+        <modern_name>Marlow Terrace</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>shuttle lane</pattern>
+    <street>Shuttle Lane</street>
+  </address>
+  <address>
+    <pattern>shuttle st</pattern>
+    <street>Shuttle Street</street>
+  </address>
+  <address>
+    <pattern>silvergrove st</pattern>
+    <street>Silvergrove Street</street>
+  </address>
+  <address>
+    <pattern>simpson st</pattern>
+    <street>Simpson Street</street>
+  </address>
+  <address>
+    <pattern>sister st</pattern>
+    <street>Sister Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Orr Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>skiphall place</pattern>
+    <street>Skiphall Place</street>
+  </address>
+  <address>
+    <pattern>skirbing st</pattern>
+    <street>Skirbing Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Langside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>slatefield st</pattern>
+    <street>Slatefield Street</street>
+  </address>
+  <address>
+    <pattern>smith st</pattern>
+    <street>Smith Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govanhill</name>
+        <modern_name>Inglefield Street</modern_name>
+      </area>
+      <area>
+        <name>Hillhead</name>
+        <modern_name>Otago Street</modern_name>
+      </area>
+      <area>
+        <name>Kinning Park</name>
+      </area>
+      <area>
+        <name>Whiteinch</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>soho st</pattern>
+    <street>Soho Street</street>
+  </address>
+  <address>
+    <pattern>somerset pl</pattern>
+    <street>Somerset Place</street>
+  </address>
+  <address>
+    <pattern>somerville pl</pattern>
+    <pattern>sommerville pl</pattern>
+    <street>Somerville Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Monteith Place</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>somerville dr</pattern>
+    <street>Somerville Drive</street>
+  </address>
+  <address>
+    <pattern>south albion pl</pattern>
+    <street>South Albion Place</street>
+  </address>
+  <address>
+    <pattern>south albion st</pattern>
+    <street>South Albion Street</street>
+  </address>
+  <address>
+    <pattern>South Kinning pl</pattern>
+    <street>South Kinning Place</street>
+  </address>
+  <address>
+    <pattern>south park ter</pattern>
+    <street>South Park Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+        <modern_name>Ann St</modern_name>
+      </area>
+      <area>
+        <name>Dennistoun</name>
+        <modern_name>Onslow Drive</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>south portland st</pattern>
+    <pattern>s portland st</pattern>
+    <pattern>s. portland st</pattern>
+    <street>South Portland Street</street>
+  </address>
+  <address>
+    <pattern>south shamrock st</pattern>
+    <street>South Shamrock Street</street>
+  </address>
+  <address>
+    <pattern>south stirling st</pattern>
+    <street>South Stirling Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Kilbarchan Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>south woodside r</pattern>
+    <street>South Woodside Road</street>
+  </address>
+  <address>
+    <pattern>spiers' pl</pattern>
+    <street>Spiers' Place</street>
+  </address>
+  <address>
+    <pattern>spiers' wharf</pattern>
+    <street>Spiers' Wharf</street>
+  </address>
+  <address>
+    <pattern>spoutmouth</pattern>
+    <street>Spoutmouth</street>
+  </address>
+  <address>
+    <pattern>spring gardens</pattern>
+    <street>Spring Gardens</street>
+  </address>
+  <address>
+    <pattern>spring pl</pattern>
+    <street>Spring Place</street>
+  </address>
+  <address>
+    <pattern>springburn r</pattern>
+    <pattern>spring-burn r</pattern>
+    <street>Springburn Road</street>
+  </address>
+  <address>
+    <pattern>springfield lane</pattern>
+    <street>Springfield Lane</street>
+  </address>
+  <address>
+    <pattern>springfield pl</pattern>
+    <street>Springfield Place</street>
+  </address>
+  <address>
+    <pattern>springfield quay</pattern>
+    <street>Springfield Quay</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.849852 -4.224211</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>springfield r</pattern>
+    <street>Springfield Road</street>
+  </address>
+  <address>
+    <pattern>springhill ter</pattern>
+    <street>Springhill Terrace</street>
+  </address>
+  <address>
+    <pattern>stafford pl</pattern>
+    <street>Stafford Place</street>
+  </address>
+  <address>
+    <pattern>stafford ter</pattern>
+    <street>Stafford Terrace</street>
+  </address>
+  <address>
+    <pattern>staffort st</pattern>
+    <street>Staffort Street</street>
+  </address>
+  <address>
+    <pattern>stanhope st</pattern>
+    <street>Stanhope Street</street>
+  </address>
+  <address>
+    <pattern>stanley buildings</pattern>
+    <street>Stanley Buildings</street>
+  </address>
+  <address>
+    <pattern>stanley place</pattern>
+    <street>Stanley Place</street>
+  </address>
+  <address>
+    <pattern>stanley st</pattern>
+    <street>Stanley Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kinning Park</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>stanmore terrace</pattern>
+    <street>Stanmore Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Mount Florida</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>steel st</pattern>
+    <street>Steel Street</street>
+  </address>
+  <address>
+    <pattern>stella place</pattern>
+    <street>Stella Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>stevenson drive</pattern>
+    <street>Stevenson Drive</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Langside</name>
+        <modern_name>Deanston Drive</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>stevenson st</pattern>
+    <street>Stevenson Street</street>
+  </address>
+  <address>
+    <pattern>stewart place</pattern>
+    <street>Stewart Place</street>
+  </address>
+  <address>
+    <pattern>stewart st</pattern>
+    <street>Stewart Street</street>
+  </address>
+  <address>
+    <pattern>stuart st</pattern>
+    <street>Stuart Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Moy Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>stewartville st</pattern>
+    <street>Stewartville Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>stirling road</pattern>
+    <street>Stirling Road</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.863726 -4.239049</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>stirling st</pattern>
+    <street>Stirling Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Port Dundas</name>
+        <modern_name>Dunblane Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>stobbie's place</pattern>
+    <street>Stobbie's Place</street>
+  </address>
+  <address>
+    <pattern>stobcross st</pattern>
+    <street>Stobcross Street</street>
+  </address>
+  <address>
+    <pattern>stockwell place</pattern>
+    <street>Stockwell Place</street>
+  </address>
+  <address>
+    <pattern>stockwell st</pattern>
+    <street>Stockwell Street</street>
+  </address>
+  <address>
+    <pattern>stonefield terrace</pattern>
+    <street>Stonefield Terrace</street>
+  </address>
+  <address>
+    <pattern>strathclyde st</pattern>
+    <street>Strathclyde Street</street>
+  </address>
+  <address>
+    <pattern>strathearn place</pattern>
+    <street>Strathearn Place</street>
+  </address>
+  <address>
+    <pattern>struan terrace</pattern>
+    <street>Struan Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crosshill</name>
+      </area>
+      <area>
+        <name>Gvanhill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>struthers st</pattern>
+    <street>Struthers Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Tobago Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>summerfield cottages</pattern>
+    <street>Summerfield Cottages</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Whiteinch</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>summerfield place</pattern>
+    <street>Summerfield Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Whiteinch</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>summer st</pattern>
+    <pattern>summers st</pattern>
+    <street>Summer Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.807456 -4.070435</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>surrey lane</pattern>
+    <street>Surrey Lane</street>
+  </address>
+  <address>
+    <pattern>surrey place</pattern>
+    <street>Surrey Place</street>
+  </address>
+  <address>
+    <pattern>surrey st</pattern>
+    <street>Surrey Street</street>
+  </address>
+  <address>
+    <pattern>sussex place</pattern>
+    <street>Sussex Place</street>
+  </address>
+  <address>
+    <pattern>sussex st</pattern>
+    <street>Sussex Street</street>
+  </address>
+  <address>
+    <pattern>sutherland terrace</pattern>
+    <street>Sutherland Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>swan st</pattern>
+    <street>Swan Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Port Dundas</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>swanston st</pattern>
+    <street>Swanston Street</street>
+  </address>
+  <address>
+    <pattern>sword st</pattern>
+    <street>Sword Street</street>
+  </address>
+  <address>
+    <pattern>sydney st</pattern>
+    <street>Sydney Street</street>
+  </address>
+  <address>
+    <pattern>tarbert st</pattern>
+    <street>Tarbert Street</street>
+  </address>
+  <address>
+    <pattern>taylor pl</pattern>
+    <street>Taylor Place</street>
+  </address>
+  <address>
+    <pattern>taylor st</pattern>
+    <street>Taylor Street</street>
+  </address>
+  <address>
+    <pattern>tennant st</pattern>
+    <street>Tennant Street</street>
+  </address>
+  <address>
+    <pattern>terrace st</pattern>
+    <street>Terrace Street</street>
+  </address>
+  <address>
+    <pattern>teviot ter</pattern>
+    <street>Teviot Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>tharsis st</pattern>
+    <street>Tharsis Street</street>
+  </address>
+  <address>
+    <pattern>thistle st</pattern>
+    <street>Thistle Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Garnethill</name>
+        <modern_name>Garnet Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>thistle terrace</pattern>
+    <street>Thistle Terrace</street>
+  </address>
+  <address>
+    <pattern>thomson's lane</pattern>
+    <street>Thomson's Lane</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Calton</name>
+      </area>
+      <area>
+        <name>Mile-end</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>thomson st</pattern>
+    <street>Thomson Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Torness Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>thorne pl</pattern>
+    <street>Thorne Place</street>
+  </address>
+  <address>
+    <pattern>thornville ter</pattern>
+    <street>Thornville Terrace</street>
+  </address>
+  <address>
+    <pattern>tillie st</pattern>
+    <street>Tillie Street</street>
+  </address>
+  <address>
+    <pattern>titwood pl</pattern>
+    <street>Titwood Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Nithsdale Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>tobago st</pattern>
+    <street>Tobago Street</street>
+  </address>
+  <address>
+    <pattern>tower st</pattern>
+    <street>Tower Street</street>
+  </address>
+  <address>
+    <pattern>towerhill ter</pattern>
+    <street>Towerhill Terrace</street>
+  </address>
+  <address>
+    <pattern>townhill r</pattern>
+    <street>Townhill Road</street>
+  </address>
+  <address>
+    <pattern>trongate</pattern>
+    <street>Trongate</street>
+  </address>
+  <address>
+    <pattern>tureen st</pattern>
+    <street>Tureen Street</street>
+  </address>
+  <address>
+    <pattern>turner's st</pattern>
+    <street>Turner's Street</street>
+  </address>
+  <address>
+    <pattern>tylefield st</pattern>
+    <street>Tylefield Street</street>
+  </address>
+  <address>
+    <pattern>union st</pattern>
+    <street>Union Street</street>
+  </address>
+  <address>
+    <pattern>university avenue</pattern>
+    <street>University Avenue</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>university st</pattern>
+    <street>University Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Hastie Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>ure place</pattern>
+    <street>Ure Place</street>
+  </address>
+  <address>
+    <pattern>valeview ter</pattern>
+    <street>Valeview Terrace</street>
+  </address>
+  <address>
+    <pattern>vermont st</pattern>
+    <street>Vermont Street</street>
+  </address>
+  <address>
+    <pattern>victoria buildings</pattern>
+    <street>Victoria Buildings</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>victoria cres</pattern>
+    <street>Victoria Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Dowanhill</name>
+        <modern_name>Craig Road</modern_name>
+      </area>
+      <area>
+        <name>Govanhill</name>
+        <modern_name>Albion Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>victoria cross</pattern>
+    <street>Victoria Cross</street>
+  </address>
+  <address>
+    <pattern>victoria dr</pattern>
+    <street>Victoria Drive</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Mount Florida</name>
+      </area>
+      <area>
+        <name>Prospect hill</name>
+        <modern_name>Queen Victoria Drive</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>victoria place</pattern>
+    <street>Victoria Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Mount Florida</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>victoria r</pattern>
+    <street>Victoria Road</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crosshill</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>victoria st</pattern>
+    <street>Victoria Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Govan</name>
+        <modern_name>Neptune Street</modern_name>
+      </area>
+      <area>
+        <name>Port Eglinton</name>
+        <modern_name>Stromness Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>victoria terrace</pattern>
+    <street>Victoria Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+      <area>
+        <name>Mount Florida</name>
+      </area>
+      <area>
+        <name>Crosshill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>viewfield place</pattern>
+    <street>Viewfield Place</street>
+  </address>
+  <address>
+    <pattern>viewfield terrace</pattern>
+    <street>Viewfield Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+      <area>
+        <name>Langside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>villiers st</pattern>
+    <street>Villiers Street</street>
+  </address>
+  <address>
+    <pattern>vinicombe st</pattern>
+    <street>Vinicombe Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>virginia st</pattern>
+    <street>Virginia Street</street>
+  </address>
+  <address>
+    <pattern>vulcan st</pattern>
+    <street>Vulcan Street</street>
+  </address>
+  <address>
+    <pattern>waddell st</pattern>
+    <pattern>waddel st</pattern>
+    <street>Waddell Street</street>
+  </address>
+  <address>
+    <pattern>walker st</pattern>
+    <street>Walker Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>walkinshaw st</pattern>
+    <street>Walkinshaw Street</street>
+  </address>
+  <address>
+    <pattern>wallace grove place</pattern>
+    <street>Wallace Grove Place</street>
+  </address>
+  <address>
+    <pattern>wallace st</pattern>
+    <street>Wallace Street</street>
+  </address>
+  <address>
+    <pattern>wall's st</pattern>
+    <street>Wall's Street</street>
+  </address>
+  <address>
+    <pattern>walmer crescent</pattern>
+    <street>Walmer Crescent</street>
+  </address>
+  <address>
+    <pattern>walworth terrace</pattern>
+    <street>Walworth Terrace</street>
+  </address>
+  <address>
+    <pattern>ward st</pattern>
+    <street>Ward Street</street>
+  </address>
+  <address>
+    <pattern>warroch st</pattern>
+    <street>Warroch Street</street>
+  </address>
+  <address>
+    <pattern>warwick st</pattern>
+    <street>Warwick Street</street>
+  </address>
+  <address>
+    <pattern>washington st</pattern>
+    <street>Washington Street</street>
+  </address>
+  <address>
+    <pattern>water st</pattern>
+    <street>Water Street</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Port Dundas</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>waterloo st</pattern>
+    <street>Waterloo Street</street>
+  </address>
+  <address>
+    <pattern>watson st</pattern>
+    <street>Watson Street</street>
+  </address>
+  <address>
+    <pattern>watt st</pattern>
+    <street>Watt Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kinning Park</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>weaver st</pattern>
+    <street>Weaver Street</street>
+  </address>
+  <address>
+    <pattern>well road</pattern>
+    <street>Well Road</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Trossachs Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>well st</pattern>
+    <street>Well Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Cooper's Well Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>wellcroft place</pattern>
+    <street>Wellcroft Place</street>
+  </address>
+  <address>
+    <pattern>wellfield st</pattern>
+    <street>Wellfield Street</street>
+  </address>
+  <address>
+    <pattern>wellington arcade</pattern>
+    <street>Wellington Arcade</street>
+  </address>
+  <address>
+    <pattern>wellington lane</pattern>
+    <street>Wellington Lane</street>
+  </address>
+  <address>
+    <pattern>wellington place</pattern>
+    <street>Wellington Place</street>
+  </address>
+  <address>
+    <pattern>wellington st</pattern>
+    <street>Wellington Street</street>
+  </address>
+  <address>
+    <pattern>wellpark place</pattern>
+    <street>Wellpark Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crossmyloof</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>wellpark st</pattern>
+    <street>Wellpark Street</street>
+  </address>
+  <address>
+    <pattern>wellpark terrace</pattern>
+    <street>Wellpark Terrace</street>
+  </address>
+  <address>
+    <pattern>wemyss place</pattern>
+    <street>Wemyss Place</street>
+  </address>
+  <address>
+    <pattern>wendover crescent</pattern>
+    <street>Wendover Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Mount Florida</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>wesleyan st</pattern>
+    <street>Wesleyan Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Mile-end</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>west campbell st</pattern>
+    <street>West Campbell street</street>
+  </address>
+  <address>
+    <pattern>west college st</pattern>
+    <street>West Colege Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Crimea Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>west russell st</pattern>
+    <street>West Russell Street</street>
+  </address>
+  <address>
+    <pattern>west st</pattern>
+    <street>West Street</street>
+  </address>
+  <address>
+    <pattern>westbank place</pattern>
+    <street>Westbank Place</street>
+    <!--<town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+      </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>westbank quadrant</pattern>
+    <street>Westbank Quadrant</street>
+  </address>
+  <address>
+    <pattern>westbank terrace</pattern>
+    <street>Westbank Terrace</street>
+  </address>
+  <address>
+    <pattern>westbourne gardens</pattern>
+    <street>Westbourne Gardens</street>
+  </address>
+  <address>
+    <pattern>westbourne gardens, w</pattern>
+    <street>Westbourne Gardens West</street>
+  </address>
+  <address>
+    <pattern>westbourne terrace</pattern>
+    <street>Westbourne Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>westburn place</pattern>
+    <street>Westburn Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Whiteinch</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>westbury st</pattern>
+    <street>Westbury Street</street>
+  </address>
+  <address>
+    <pattern>westfield terrace</pattern>
+    <street>Westfield Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Partick</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>west garden st</pattern>
+    <street>West Garden Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Burnbank Terrace</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>west george lane</pattern>
+    <street>West George Lane</street>
+  </address>
+  <address>
+    <pattern>west graham st</pattern>
+    <street>West Graham street</street>
+  </address>
+  <address>
+    <pattern>west prince's st</pattern>
+    <street>West Prince's Street</street>
+  </address>
+  <address>
+    <pattern>west scotland st</pattern>
+    <street>West Scotland Street</street>
+  </address>
+  <address>
+    <pattern>west-end park st</pattern>
+    <street>West-end Park Street</street>
+  </address>
+  <address>
+    <pattern>west view gardens</pattern>
+    <street>West View Gardens</street>
+  </address>
+  <address>
+    <pattern>wester craigs</pattern>
+    <pattern>westercraigs</pattern>
+    <street>Wester Craigs</street>
+  </address>
+  <address>
+    <pattern>westminster ter</pattern>
+    <street>Westminster Terrace</street>
+  </address>
+  <address>
+    <pattern>westmoreland st</pattern>
+    <street>Westmoreland Street</street>
+  </address>
+  <address>
+    <pattern>westmuir st</pattern>
+    <street>Westmuir Street</street>
+  </address>
+  <address>
+    <pattern>weymouth ter</pattern>
+    <street>Weymouth Terrace</street>
+  </address>
+  <address>
+    <pattern>wharf </pattern>
+    <street>Wharf </street>
+  </address>
+  <address>
+    <pattern>whitehall pl</pattern>
+    <street>Whitehall Place</street>
+  </address>
+  <address>
+    <pattern>whitehill st</pattern>
+    <street>Whitehill Street</street>
+  </address>
+  <address>
+    <pattern>whitehill gardens</pattern>
+    <street>Whitehill Gardens</street>
+  </address>
+  <address>
+    <pattern>whitevale</pattern>
+    <street>Whitevale</street>
+  </address>
+  <address>
+    <pattern>whitevale st</pattern>
+    <street>Whitevale Street</street>
+  </address>
+  <address>
+    <pattern>wigton st</pattern>
+    <street>Wigton Street</street>
+  </address>
+  <address>
+    <pattern>william st</pattern>
+    <street>William Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Calton</name>
+        <modern_name>Templeton Street></modern_name>
+      </area>
+      <area>
+        <name>Cowcaddens</name>
+        <modern_name>Glenmavis Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>willowbank crescent</pattern>
+    <street>Willowbank Crescent</street>
+  </address>
+  <address>
+    <pattern>willowbank st</pattern>
+    <street>Willowbank Street</street>
+  </address>
+  <address>
+    <pattern>wilson st</pattern>
+    <street>Wilson Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Hillhead</name>
+        <modern_name>Oakfield Avenue</modern_name>
+      </area>
+      <area>
+        <name>Partick</name>
+        <modern_name>Gullane Street</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>wilton cr</pattern>
+    <street>Wilton Crescent</street>
+  </address>
+  <address>
+    <pattern>wilton ter</pattern>
+    <street>Wilton Terrace</street>
+  </address>
+  <address>
+    <pattern>windsor circus</pattern>
+    <street>Windsor Circus</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Kirklee Circus</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>windsor pl</pattern>
+    <street>Windsor Place</street>
+  </address>
+  <address>
+    <pattern>windsor quad</pattern>
+    <street>Windsor Quadrant</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+        <modern_name>Kirklee Quadrant</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>windsor st</pattern>
+    <street>Windsor Street</street>
+  </address>
+  <address>
+    <pattern>windsor ter</pattern>
+    <street>Windsor Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Kelvinside</name>
+      </area>
+      <area>
+        <name>Langside</name>
+        <street>Kirklee Terrace</street>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>winton terrace</pattern>
+    <street>Winton Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crosshill</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>wolseley st</pattern>
+    <street>Wolseley Street</street>
+  </address>
+  <address>
+    <pattern>wood lane</pattern>
+    <street>Wood Lane</street>
+  </address>
+  <address>
+    <pattern>woodlands road</pattern>
+    <street>Woodlands Road</street>
+  </address>
+  <address>
+    <pattern>woodlands terrace</pattern>
+    <street>Woodlands Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Langside</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>woodrow road</pattern>
+    <street>Woodrow Road</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Pollockshields</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>woodside crescent</pattern>
+    <street>Woodside Crescent</street>
+  </address>
+  <address>
+    <pattern>woodside place</pattern>
+    <street>Woodside Place</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Crossmyloof</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>woodside quadrant</pattern>
+    <street>Woodside Quadrant</street>
+  </address>
+  <address>
+    <pattern>woodside terrace</pattern>
+    <street>Woodside Terrace</street>
+  </address>
+  <address>
+    <pattern>york lane</pattern>
+    <street>York Lane</street>
+  </address>
+  <address>
+    <pattern>york st</pattern>
+    <street>York Street</street>
+    <town>
+      <name>Glasgow</name>
+      <area>
+        <name>Little Govan</name>
+      </area>
+    </town>
+  </address>
+  <address>
+    <pattern>yorkhill st</pattern>
+    <street>Yorkhill Street</street>
+  </address>
+  <address>
+    <pattern>young st</pattern>
+    <street>Young Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Tobago Street</modern_name>
+    </town>
+  </address>
+</addresses>

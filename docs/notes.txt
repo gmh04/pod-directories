@@ -1,0 +1,345 @@
+# no google entry (probably doesn't exist):
+# AMB - ambiguous
+# NUM use with number returns bad result (to do with providing numbers greater than current highest number)
+
+Adelphi Terrace
+Abercorn Street (*)
+Abington street
+Afton Crescent
+Airlie ter., Pollokshields
+Albany Terrace
+Albert St., Pollockshields
+Albion crescent
+Alexandra parade (NUM)
+Allanton terrace, Govanhill
+Anderson Quay
+Ann St (AMB) (*)
+Annfield terrace, Partick
+Apsley Place (Warwick Street)
+Argyle Arcade
+Argyle place, Springburn
+Argyle Terrace, Crosshill
+Ashfield pl
+Ashfield terrace
+Ashgrove terrace
+Ashton Terrace (*)
+Athole terrace, Govanhill
+Avon St
+Avondale place
+
+Ballochmyle terrace, Kelvinside
+Bath crescent
+Battlefield crescent, Langside
+Beaconsfield st., Partick
+Beaufort Gardens, Govanhill
+Belhaven Terrace (NUM)
+Bellahouston ter
+Bellahouston terrace, Ibrox
+Berkeley terrace
+Berlin place
+Bishop street, Anderston
+Blythswood terrace
+Bobbie's loan
+Boswell ter., Kelvinside
+Bothwell terrace, Shawlands
+Brandon place
+Branford place
+Bridgeton Cross
+Broomhill Street
+Brougham ter, Crosshill
+Buchan Street
+Buchanan gardens, Mt. Vernon
+Burnbank
+Burnbank Gardens
+Burnside street
+Buckingham buildings, Hillhead
+Bute terrace, Strathbungo
+
+Camden street
+Camperdown st (*)
+Canning Street (AMB)
+Canon street
+Carlton ter.. North Woodside
+Caprera place
+Castle Street (NUM)
+Cathcart Road (NUM)
+Cathcart street, Gorbals
+Cathcart street, Kinning park
+Cathcart street, Rutherglen
+Catherine St (AMB)
+Catherine street, north
+Clarinda terrace, Polloksbields
+Claythorn street (NUM)
+Cockmuir, Springburn
+Charlotte lane
+Chatham place
+Comely Park place
+Coustonholm, Pollokshaws
+Craignestock Place
+Craignestock Street (*)
+Crookston hall
+Cubie street. Mile-end
+Cumberland Lane
+
+Darnley terrace, Shawlands
+Dean terrace
+Debbie's loan
+Doune ter, North Woodside
+Dowanhill Gardens
+Downie Place
+Dunchattan Place (NUM)
+Dundas Street (NUM)
+Dunlop st (NUM)
+
+Eaglesham Street
+East Russell street
+Edmund street
+Eglinton ter, Govanhil
+Elba lane, Parkhead
+Elgin terrace
+Elmbank Place
+Eton place, Hillhead
+Eton terrace
+Exchange sq
+
+Finnieston st (NUM)
+Fish Market
+Fisher st
+Fisher St, Dennistoun
+Fitzroy Place
+Florentine place, Hillhead
+Franklin Terrace
+Frederick Lane
+
+Gallowflat pl, Rutherglen
+Garden street
+Garngad Hill
+Garngad rd
+Garscadden Street
+George Square
+Germiston st
+Glebe street (*)
+Glenavon terrace, Partick
+Govan st
+Govan View terrace, Govanhill
+Grafton square
+Grafton street
+Grafton terrace
+Granby ter
+Grange Terrace
+Granville Buildings
+Granville place
+Greenhead terrace
+Greenhill street
+Grove street (*)
+Guildry court
+
+Hamilton crescent, Partick
+Hamilton park ter, hillhead
+Hamilton place
+Hamilton place, Hillhead
+Hamilton ter. west, Partick
+Hampden Place
+Hampden Terrace (NUM)
+Hayburn ct
+Hayburn terrace, Partickhill
+Herriot street, Pollokshields
+Hope terrace, Govanhill.
+Holland place
+Holmhead Street (Cunningham Street)
+Hillhead gardens
+Hillsborough ter
+Hillside gardens, Partickhill
+Holmhead st
+Hospital Street (*)
+Hutcheson square
+
+Ibrox Place
+Iona place, Mount Florida
+
+Jackson St (*)
+Jane Place
+James St, Calton (*)
+
+Kelburn terrace, Govanhill
+Kelvin bank ter., Kelvinside
+Kelvingrove terrace
+Kelvinside terrace, N. Hillhead
+Kenmure Place
+Kennedy street (NUM)
+Kersland terrace, Hillhead
+Kew terrace
+Kidston street
+
+Lancefield Street (NUM)
+Lawrence place, Partick
+Lincoln place, Partick
+Linden ter., Pollokshields
+Lorne terrace, Pollokshields
+Loudon ter, Kelvinside
+Lyon street
+
+Main street, Anderston
+Mallsmire Place
+Mansfield place
+Margaret Street (* Peebles St *)
+Marquis street, Bridgeton
+Morrison Street (NUM)
+Maryland street
+Matilda place
+Matilda terrace
+Mavisbank Quay
+Maxwell terrace, Pollokshields
+Melrose place
+Melville Terrace
+Milton terrace, Langside
+Morris Place
+Moss view, Crossmyloof
+Myrtle Street
+
+Naburn street
+Nelson terrace
+Newgate street
+Northpark ter, Hillhead
+North Ure place
+Norwood terrace, Hillhead (*)
+
+Oakfield terrace, Hillhead.
+Oswald pl.,Whiteinch
+
+Paisley Road (NUM)
+Park View terrace, Hillhead
+Parliamentary Road
+Partick hill
+Peebles st
+Pine st (*)
+Plantation st
+Pollok street
+Port st, Anderston (*)
+Prince of Wales Terrace
+Princes Square
+Prince's Terrace (*)
+
+Queen Mary place (*)
+Queen's drive, Crosshill.
+Queen's square, Strathbungo (*)
+Queen's terrace
+
+Radnor terrace
+Randolph terrace, Garnehill
+Regent park terrace
+Regent terrace
+Renfrew Street (NUM)
+Renton terrace, Crosshill
+Risk street
+Rokeby ter., Hillhead
+Ronald Street
+Rosebank terrace
+Rosehall street
+Rosevale ter., Partick
+Rosslyn place, Pollokshields
+Rottenrow Street
+Royal arcade
+Royal Exchange
+Royal Exchange place
+Royal terrace (NUM)
+Rutherglen Loan (*)
+Rutherglen Road (NUM 55.838346, -4.231603)
+
+Salisbury ter Hillhead
+Sandringham terrace
+Sandyfaulds Street
+Sandyford place
+Sardinia terrace, Hillhead
+Scarlow st. , Port Glasgow
+Schipka pass
+Scotia Street (*)
+Sedan place
+Shaftesbury terrace
+Shinir bank, Crosshill
+Shuttle Lane (*)
+Soho street
+S. Apsley place.
+South Albion Place
+South Kinning place
+South St. Mungo street
+Spiers wharf, PortDundas
+Spring place, Crossmyloof
+Springfield place
+St Andrew's road, Pollokshields
+St Enoch Square
+St George's Terrace
+St Mungo street
+St Ninian st
+St Vincent crescent (NUM)
+St. Vine. pi (*)
+Stanhope street (*)
+Steven street
+Stevenson drive, Crossmyloof
+Stewart street
+Stewart street, Cowcaddens
+Stewartville Place
+Stirling Road (NUM)
+Stonefield Terrace
+Struan terrace, Crosshill.
+Sydney Place
+
+Taylor St (NUM)
+Titwood place, Strathbungo
+Tollcross
+Tennent street (*)
+Tureen street, Calton
+Turner street
+Tylefield street
+
+Ure Place
+
+Victoria buildings
+Victoria street, Dowanhill
+Victoria St., Hillhead
+Victoria terrace, Dowanhill
+Viewfield Place, Pollokshields
+Viewfield ter., Pollokshield
+Villiers street
+
+Walworth Terrace
+Warwick street
+Water st., Port-Dundas
+Well st
+Wellpark pl
+Wellpark terrace
+Wellington arcade
+Wemyss Place
+Wellington arcade
+Wesleyan Street
+West Bank, Hillhead
+West Bank place, Hillhead.
+West Graham Street
+W(est) Howard street
+West Russell street (*)
+Westbank pl, Hillhead
+Westbourne terrace, Hillhead
+Westbourne terrace Kelvinside
+Westfield lane, Crcssmyloof
+Westminster terrace
+Whitevale (*)
+Whitfield place, Govan
+Wigton Street
+Wilton Crescent (*)
+Wilton Terrace
+Windsor terrace (NUM)
+Winton street, Crosshill
+Winton terrace, Govanhill
+Wood lane
+Woodside quadrant
+
+Young's land, Strathbungo
+
+
+# parser changes
+
+* Category uses UK Standard Industrial Classification of Economic Activities
+
+ http://www.google.com/url?sa=t&source=web&cd=1&ved=0CE8QFjAA&url=http%3A%2F%2Fwww.statistics.gov.uk%2Fmethods_quality%2Fsic%2Fdownloads%2Fsic2007explanatorynotes.pdf&rct=j&q=professional%20category%20uk%20Wholesale%20and%20retail%20trade%3B%20repair%20of%20motor%20vehicles%20and%20motor%20cycles&ei=t5kJTu7VFs6KhQepoKDnDw&usg=AFQjCNG7JIkJyXBNV49I3Z5i1gMkMGiGww&sig2=Wq0Y9oqUmNt5JUtzmog3BA&cad=rja
+
+# problems with Great Eastern Road -> Gallowgate, Camlachie Street, Tollcross Road

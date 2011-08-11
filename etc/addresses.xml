@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addresses>
+
+  <!-- If an address contains the pattern string replace it with value -->
+
+  <replaces>
+    <!-- A -->
+    <replace>
+      <pattern>Affembly</pattern>
+      <value>Assembly</value>
+    </replace>
+    <replace>
+      <pattern>AV</pattern>
+      <value></value>
+    </replace>
+    <replace>
+      <pattern>Ai-gyle</pattern>
+      <value>Argyle</value>
+    </replace>
+
+    <!-- B -->
+    <replace>
+      <pattern>Bellgi-ove</pattern>
+      <value>Bellgrove</value>
+    </replace>
+    <replace>
+      <pattern>Botbwell</pattern>
+      <value>Bothwell</value>
+    </replace>
+    <replace>
+      <pattern>BothweU</pattern>
+      <value>Bothwell</value>
+    </replace>
+    <replace>
+      <pattern>Brifio</pattern>
+      <value>Bristo</value>
+    </replace>
+    <replace>
+      <pattern>Brou^hton</pattern>
+      <value>Broughton</value>
+    </replace>
+    <replace>
+      <pattern>Bumbank</pattern>
+      <value>Burnbank</value>
+    </replace>
+
+    <!-- C -->
+    <replace>
+      <pattern>Caftle</pattern>
+      <value>Castle</value>
+    </replace>
+    <replace>
+      <pattern>Calton-hiil</pattern>
+      <value>Calton hill</value>
+    </replace>
+    <replace>
+      <pattern>Candiemakerrow</pattern>
+      <value>Candlemakerrow</value>
+    </replace>
+    <replace>
+      <pattern>Canongatc</pattern>
+      <value>Canongate</value>
+    </replace>
+    <replace>
+      <pattern>Carlton pi</pattern>
+      <value>Carlton pl</value>
+    </replace>
+    <replace>
+      <pattern>Catlicart</pattern>
+      <value>Cathcart</value>
+    </replace>
+    <replace>
+      <pattern>ciofe</pattern>
+      <value>close</value>
+    </replace>
+    <replace>
+      <pattern>ciorfe</pattern>
+      <value>close</value>
+    </replace>
+    <replace>
+      <pattern>clofe</pattern>
+      <value>close</value>
+    </replace>
+    <replace>
+      <pattern>clofc</pattern>
+      <value>close</value>
+    </replace>
+    <replace>
+      <pattern>coiirt</pattern>
+      <value>court</value>
+    </replace>
+    <replace>
+      <pattern>Crofscaufeway</pattern>
+      <value>Crosscauseway</value>
+    </replace>
+    <replace>
+      <pattern>CrosshiU</pattern>
+      <value>Crosshill</value>
+    </replace>
+    <replace>
+      <pattern> Crossbill</pattern>
+      <value> Crosshill</value>
+    </replace>
+
+    <!-- D -->
+    <replace>
+      <pattern>Dalmarnockrd</pattern>
+      <value>Dalmarnock rd</value>
+    </replace>
+    <replace>
+      <pattern>Dahnarnock</pattern>
+      <value>Dalmarnock</value>
+    </replace>
+    <replace>
+      <pattern>Dalmamock</pattern>
+      <value>Dalmarnock</value>
+    </replace>
+    <replace>
+      <pattern> diive</pattern>
+      <value> drive</value>
+    </replace>
+    <replace>
+      <pattern>Dison st</pattern>
+      <value>Dixon st</value>
+    </replace>
+    <replace>
+      <pattern>Dulte </pattern>
+      <value>Duke </value>
+    </replace>
+    <replace>
+      <pattern>Dnndas</pattern>
+      <value>Dundas</value>
+    </replace>
+
+    <!-- E -->
+    <replace>
+      <pattern>Eghnton</pattern>
+      <value>Eglinton</value>
+    </replace>
+    <replace>
+      <pattern>Eglintonst</pattern>
+      <value>Eglinton st</value>
+    </replace>
+    <replace>
+      <pattern>Elackfriars</pattern>
+      <value>Blackfriars</value>
+    </replace>
+    <replace>
+      <pattern>Ehnbank</pattern>
+      <value>Elmbank</value>
+    </replace>
+
+
+    <!-- F -->
+    <replace>
+      <pattern>fciuare</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>Fleafance</pattern>
+      <value>Pleasance</value>
+    </replace>
+    <replace>
+      <pattern>Flefh</pattern>
+      <value>Flesh</value>
+    </replace>
+    <replace>
+      <pattern>fq.</pattern>
+      <value>sq.</value>
+    </replace>
+    <replace>
+      <pattern>fquarc</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>fqiiare</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>fquare</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>fquave</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>Eraser st</pattern>
+      <value>Fraser St</value>
+    </replace>
+    <replace>
+      <pattern>ftables</pattern>
+      <value>stables</value>
+    </replace>
+    <replace>
+      <pattern>ftairs</pattern>
+      <value>stairs</value>
+    </replace>
+    <replace>
+      <pattern>ftr</pattern>
+      <value>str</value>
+    </replace>
+    <replace>
+      <pattern>ftrcet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>ftreet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>ftreot</pattern>
+      <value>street</value>
+    </replace>
+
+    <!-- G -->
+    <replace>
+      <pattern>Garnethili</pattern>
+      <value>Garnethill</value>
+    </replace>
+    <replace>
+      <pattern>Garscnbe</pattern>
+      <value>Garscube</value>
+    </replace>
+    <replace>
+      <pattern>Garseube</pattern>
+      <value>Garscube</value>
+    </replace>
+    <replace>
+      <pattern>Gcorge</pattern>
+      <value>George</value>
+    </replace>
+    <replace>
+      <pattern>Grafsmarket</pattern>
+      <value>Grassmarket</value>
+    </replace>
+    <replace>
+      <pattern>Graismarket</pattern>
+      <value>Grassmarket</value>
+    </replace>
+
+    <!-- H -->
+    <replace>
+      <pattern>Hables</pattern>
+      <value>stables</value>
+    </replace>
+    <replace>
+      <pattern>Highfchool</pattern>
+      <value>Highschool</value>
+    </replace>
+    <replace>
+      <pattern>Hillliead</pattern>
+      <value>Hillhead</value>
+    </replace>
+    <replace>
+      <pattern> Hillst </pattern>
+      <value> Hill st </value>
+    </replace>
+    <replace>
+      <pattern>houfes</pattern>
+      <value>houses</value>
+    </replace>
+
+    <!-- I -->
+    <replace>
+      <pattern>ilreet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>itreet</pattern>
+      <value>street</value>
+    </replace>
+
+    <!-- K -->
+    <replace>
+      <pattern>Kelvinhangh</pattern>
+      <value>Kelvinhaugh</value>
+    </replace>
+    <replace>
+      <pattern>Kelvingi'ove</pattern>
+      <value>Kelvingrove</value>
+    </replace>
+    <replace>
+      <pattern>Kelviuside</pattern>
+      <value>Kelvinside</value>
+    </replace>
+    <replace>
+      <pattern>Kenmnre</pattern>
+      <value>Kenmure</value>
+    </replace>
+
+    <!-- L -->
+    <replace>
+      <pattern>Lawnniarkct</pattern>
+      <value>Lawnnmarket</value>
+    </replace>
+    <replace>
+      <pattern>Lcith</pattern>
+      <value>Leith</value>
+    </replace>
+    <replace>
+      <pattern>Leitli</pattern>
+      <value>Leith</value>
+    </replace>
+    <replace>
+      <pattern>llrect</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>llreei</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>llreet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>Lome pl</pattern>
+      <value>Lorne pl</value>
+    </replace>
+    <replace>
+      <pattern>Lome ter</pattern>
+      <value>Lorne ter</value>
+    </replace>
+    <replace>
+      <pattern>ltreet</pattern>
+      <value>street</value>
+    </replace>
+
+    <!-- M -->
+    <replace>
+      <pattern> Mainst</pattern>
+      <value> Main st</value>
+    </replace>
+    <replace>
+      <pattern>McAshn</pattern>
+      <value>McAslin</value>
+    </replace>
+    <replace>
+      <pattern>McLcan</pattern>
+      <value>McLean</value>
+    </replace>
+
+    <!-- N -->
+    <replace>
+      <pattern>Nicolfon</pattern>
+      <value>Nicolson</value>
+    </replace>
+    <replace>
+      <pattern>Nicollon^s</pattern>
+      <value>Nicolson's</value>
+    </replace>
+
+    <!-- P -->
+    <replace>
+      <pattern>Paterfon</pattern>
+      <value>Paterson</value>
+    </replace>
+    <replace>
+      <pattern>PoUok</pattern>
+      <value>Pollok</value>
+    </replace>
+    <replace>
+      <pattern>Pleafancc</pattern>
+      <value>Pleasance</value>
+    </replace>
+    <replace>
+      <pattern>Plea^ance</pattern>
+      <value>Pleasance</value>
+    </replace>
+    <replace>
+      <pattern>Potcerrow</pattern>
+      <value>Potterrow</value>
+    </replace>
+
+    <!-- R -->
+    <replace>
+      <pattern>Ramfay</pattern>
+      <value>Ramsay</value>
+    </replace>
+    <replace>
+      <pattern>Eegent</pattern>
+      <value>Regent</value>
+    </replace>
+    <replace>
+      <pattern>Eenfield</pattern>
+      <value>Renfield</value>
+    </replace>
+    <replace>
+      <pattern>Eenfrew</pattern>
+      <value>Renfrew</value>
+    </replace>
+    <replace>
+      <pattern>Eopework</pattern>
+      <value>Ropework</value>
+    </replace>
+    <replace>
+      <pattern> Eose</pattern>
+      <value> Rose</value>
+    </replace>
+    <replace>
+      <pattern>Eottenrow</pattern>
+      <value>Rottenrow</value>
+    </replace>
+    <replace>
+      <pattern>Eoslea</pattern>
+      <value>Roslea</value>
+    </replace>
+    <replace>
+      <pattern>Eosslyn</pattern>
+      <value>Rosslyn</value>
+    </replace>
+    <replace>
+      <pattern> Eoyal</pattern>
+      <value> Royal</value>
+    </replace>
+    <replace>
+      <pattern>Eupert </pattern>
+      <value>Rupert </value>
+    </replace>
+    <replace>
+      <pattern> Eutherglen</pattern>
+      <value> Rutherglen</value>
+    </replace>
+    <replace>
+      <pattern>Kutherglen</pattern>
+      <value>Rutherglen</value>
+    </replace>
+    <replace>
+      <pattern>Rutberglen</pattern>
+      <value>Rutherglen</value>
+    </replace>
+
+    <!-- S -->
+    <replace>
+      <pattern>Saucbiehall</pattern>
+      <value>Sauchiehall</value>
+    </replace>
+    <replace>
+      <pattern>Sauchieliall</pattern>
+      <value>Sauchiehall</value>
+    </replace>
+    <replace>
+      <pattern>Shakefpeare</pattern>
+      <value>Shakespeare</value>
+    </replace>
+    <replace>
+      <pattern>Somerville pi</pattern>
+      <value>Somerville pl</value>
+    </replace>
+    <replace>
+      <pattern>Springbm-n</pattern>
+      <value>Springburn</value>
+    </replace>
+    <replace>
+      <pattern>St. George's pi</pattern>
+      <value>St. George's pl</value>
+    </replace>
+    <replace>
+      <pattern>St. Vincent pi</pattern>
+      <value>St. Vincent pl</value>
+    </replace>
+    <replace>
+      <pattern>Vincentst</pattern>
+      <value>Vincent st</value>
+    </replace>
+    <replace>
+      <pattern>StMing</pattern>
+      <value>Stirling</value>
+    </replace>
+    <replace>
+      <pattern>tlreet</pattern>
+      <value>street</value>
+    </replace>
+
+    <!-- T -->
+    <replace>
+      <pattern>ten-ace</pattern>
+      <value>terrace</value>
+    </replace>
+    <replace>
+      <pattern>teiTace</pattern>
+      <value>terrace</value>
+    </replace>
+    <replace>
+      <pattern>Thiftle</pattern>
+      <value>Thistle</value>
+    </replace>
+    <replace>
+      <pattern>ToUcross</pattern>
+      <value>Tollcross</value>
+    </replace>
+
+
+    <!-- V -->
+    <replace>
+      <pattern>v/ynd</pattern>
+      <value>wynd</value>
+    </replace>
+    <replace>
+      <pattern>Virginia pi</pattern>
+      <value>Virginia pl</value>
+    </replace>
+
+
+    <!-- W -->
+    <replace>
+      <pattern>Wahner</pattern>
+      <value>Walmer</value>
+    </replace>
+    <replace>
+      <pattern>Weft</pattern>
+      <value>West</value>
+    </replace>
+    <replace>
+      <pattern>Wellpark pi</pattern>
+      <value>Wellpark pl</value>
+    </replace>
+    <replace>
+      <pattern>(Ireet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>\\Veft</pattern>
+      <value>West</value>
+    </replace>
+
+  </replaces>
+
+</addresses>

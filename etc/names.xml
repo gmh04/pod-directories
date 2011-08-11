@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<names>
+
+  <stopWords>
+    <word>Association</word>
+    <word>Asylum</word>
+    <word>Bank of</word>
+    <word>Bridgeton</word>
+    <word>Chapel</word>
+    <word>Co.</word>
+    <word>Company</word>
+    <word>Free Church</word>
+    <word>Glasgow</word>
+    <word>Insurance</word>
+    <word>Monthly</word>
+    <word> Church</word>
+    <word> Society </word>
+    <word> Works</word>
+  </stopWords>
+
+  <!-- J -->
+  <replace>
+    <pattern>Jobn</pattern>
+    <value>John</value>
+  </replace>
+
+</names>

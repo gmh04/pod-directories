@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<global>
+
+  <replaces>
+
+    <!-- C -->
+    <replace>
+      <pattern>CoUingwood</pattern>
+      <value>Collingwood</value>
+    </replace>
+
+    <!-- R -->
+    <replace>
+      <pattern>Eailway</pattern>
+      <value>Railway</value>
+    </replace>
+    <replace>
+      <pattern>Eando'ph</pattern>
+      <value>Randolph</value>
+    </replace>
+    <replace>
+      <pattern>Eeid</pattern>
+      <value>Reid</value>
+    </replace>
+    <replace>
+      <pattern>Eobert</pattern>
+      <value>Robert</value>
+    </replace>
+
+  </replaces>
+
+</global>
