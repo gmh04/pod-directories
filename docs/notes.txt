@@ -155,7 +155,7 @@ Hayburn terrace, Partickhill
 Herriot street, Pollokshields
 Hope terrace, Govanhill.
 Holland place
-Holmhead Street (Cunningham Street)
+Holmhead Street (*Cunningham Street*)
 Hillhead gardens
 Hillsborough ter
 Hillside gardens, Partickhill
@@ -213,12 +213,13 @@ Northpark ter, Hillhead
 North Ure place
 Norwood terrace, Hillhead (*)
 
+Oak Street (*)
 Oakfield terrace, Hillhead.
 Oswald pl.,Whiteinch
 
 Paisley Road (NUM)
 Park View terrace, Hillhead
-Parliamentary Road
+Parliamentary Road (*)
 Partick hill
 Peebles st
 Pine st (*)
@@ -335,11 +336,12 @@ Whitevale (*)
 Whitfield place, Govan
 Wigton Street
 Wilton Crescent (*)
-Wilton Terrace
+Wilton Terrace (*)
 Windsor terrace (NUM)
 Winton street, Crosshill
 Winton terrace, Govanhill
 Wood lane
+Woodlands terrace, Langside (*)
 Woodside quadrant
 
 Young's land, Strathbungo

@@ -1824,7 +1824,7 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Cromwell Street</street>
   </address>
   <address>
-    <pattern>crookston place</pattern>
+    <pattern>crookston pl</pattern>
     <street>Crookston Place</street>
   </address>
   <address>
@@ -1833,9 +1833,6 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Glasgow</name>
       <modern_name>Carnoustie Street</modern_name>
-      <area>
-        <name>Kingston</name>
-      </area>
     </town>
   </address>
   <address>
@@ -1849,16 +1846,18 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>crossloan</pattern>
     <street>Crossloan</street>
-    <town>
-      <name>Glasgow</name>
-      <area>
-        <name>Govan</name>
-      </area>
-    </town>
   </address>
   <address>
     <pattern>crossloan r</pattern>
     <street>Crossloan Road</street>
+  </address>
+  <address>
+    <pattern>crossmyloof buildings</pattern>
+    <street>Crossmyloof Buildings</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Langside Avenue</modern_name>
+    </town>
   </address>
   <address>
     <pattern>crow r</pattern>
@@ -2048,28 +2047,28 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Doncaster Street</street>
   </address>
   <address>
-    <pattern>doon terrace</pattern>
+    <pattern>doon ter</pattern>
     <street>Doon Terrace</street>
-    <town>
-      <name>Glasgow</name>
-      <area>
-        <name>Pollockshields</name>
-      </area>
-    </town>
   </address>
   <address>
     <pattern>dorset st</pattern>
     <street>Dorset Street</street>
   </address>
   <address>
-    <pattern>douglas st</pattern>
-    <street>Douglas Street</street>
+    <pattern>douglas pl</pattern>
+    <street>Douglas Place</street>
     <town>
       <name>Glasgow</name>
+      <modern_name>Dunearn street</modern_name>
       <area>
-        <name>Partick</name>
+        <name>Crosshill</name>
+        <modern_name>Langside Road</modern_name>
       </area>
     </town>
+  </address>
+  <address>
+    <pattern>douglas st</pattern>
+    <street>Douglas Street</street>
   </address>
   <address>
     <pattern>doune pl</pattern>
@@ -2916,6 +2915,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>granville buildings</pattern>
     <street>Granville Buildings</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Maxwell Road</modern_name>
+    </town>
   </address>
   <address>
     <pattern>granville pl</pattern>
@@ -4345,6 +4348,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>matilda ter</pattern>
     <street>Matilda Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Nithsdale Road</modern_name>
+    </town>
   </address>
   <address>
     <pattern>matilda r</pattern>
@@ -5497,6 +5504,18 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>regent ter</pattern>
+    <street>Regent Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Cathedral Street</modern_name>
+      <area>
+        <name>Langside</name>
+        <modern_name>Battlefield Road</modern_name>
+      </area>
+    </town>
+  </address>
+  <address>
     <pattern>reid st</pattern>
     <street>Reid Street</street>
   </address>
@@ -6565,13 +6584,11 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Sussex Street</street>
   </address>
   <address>
-    <pattern>sutherland terrace</pattern>
+    <pattern>sutherland ter</pattern>
     <street>Sutherland Terrace</street>
     <town>
       <name>Glasgow</name>
-      <area>
-        <name>Hillhead</name>
-      </area>
+      <modern_name>University Avenue</modern_name>
     </town>
   </address>
   <address>
@@ -7220,6 +7237,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Whitehill Gardens</street>
   </address>
   <address>
+    <pattern>whiteinch</pattern>
+    <street>Whiteinch</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.875311 -4.340973</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>whitevale</pattern>
     <street>Whitevale</street>
   </address>
@@ -7309,24 +7334,24 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Windsor Terrace</street>
     <town>
       <name>Glasgow</name>
+      <modern_name>Saint George's Road</modern_name>
       <area>
-        <name>Kelvinside</name>
+        <name>Cathcart</name>
+        <modern_name>Rhannan Road</modern_name>
       </area>
       <area>
         <name>Langside</name>
-        <street>Kirklee Terrace</street>
+        <modern_name>Albert Road</modern_name>
+      </area>
+      <area>
+        <name>west</name>
+        <modern_name>Great Western Road</modern_name>
       </area>
     </town>
   </address>
   <address>
-    <pattern>winton terrace</pattern>
+    <pattern>winton tere</pattern>
     <street>Winton Terrace</street>
-    <town>
-      <name>Glasgow</name>
-      <area>
-        <name>Crosshill</name>
-      </area>
-    </town>
   </address>
   <address>
     <pattern>wolseley st</pattern>
@@ -7337,49 +7362,31 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Wood Lane</street>
   </address>
   <address>
-    <pattern>woodlands road</pattern>
+    <pattern>woodlands r</pattern>
     <street>Woodlands Road</street>
   </address>
   <address>
-    <pattern>woodlands terrace</pattern>
+    <pattern>woodlands ter</pattern>
     <street>Woodlands Terrace</street>
-    <town>
-      <name>Glasgow</name>
-      <area>
-        <name>Langside</name>
-      </area>
-    </town>
   </address>
   <address>
-    <pattern>woodrow road</pattern>
+    <pattern>woodrow r</pattern>
     <street>Woodrow Road</street>
-    <town>
-      <name>Glasgow</name>
-      <area>
-        <name>Pollockshields</name>
-      </area>
-    </town>
   </address>
   <address>
-    <pattern>woodside crescent</pattern>
+    <pattern>woodside cres</pattern>
     <street>Woodside Crescent</street>
   </address>
   <address>
-    <pattern>woodside place</pattern>
+    <pattern>woodside pl</pattern>
     <street>Woodside Place</street>
-    <town>
-      <name>Glasgow</name>
-      <area>
-        <name>Crossmyloof</name>
-      </area>
-    </town>
   </address>
   <address>
     <pattern>woodside quadrant</pattern>
     <street>Woodside Quadrant</street>
   </address>
   <address>
-    <pattern>woodside terrace</pattern>
+    <pattern>woodside ter</pattern>
     <street>Woodside Terrace</street>
   </address>
   <address>
