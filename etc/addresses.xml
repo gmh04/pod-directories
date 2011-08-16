@@ -235,6 +235,10 @@
       <value>George</value>
     </replace>
     <replace>
+      <pattern>GranviUe</pattern>
+      <value>Granville</value>
+    </replace>
+    <replace>
       <pattern>Grafsmarket</pattern>
       <value>Grassmarket</value>
     </replace>
@@ -453,6 +457,10 @@
       <value>Sauchiehall</value>
     </replace>
     <replace>
+      <pattern>SauchiehaU</pattern>
+      <value>Sauchiehall</value>
+    </replace>
+    <replace>
       <pattern>Shakefpeare</pattern>
       <value>Shakespeare</value>
     </replace>
@@ -462,6 +470,10 @@
     </replace>
     <replace>
       <pattern>Springbm-n</pattern>
+      <value>Springburn</value>
+    </replace>
+    <replace>
+      <pattern>Springbmii</pattern>
       <value>Springburn</value>
     </replace>
     <replace>

@@ -69,6 +69,7 @@ Camperdown st (*)
 Canning Street (AMB)
 Canon street
 Carlton ter.. North Woodside
+Carlyle terrace, Rutherglen (*)
 Caprera place
 Castle Street (NUM)
 Cathcart Road (NUM)
@@ -113,8 +114,8 @@ Exchange sq (*)
 
 Finnieston st (NUM)
 Fish Market
-Fisher st
-Fisher St, Dennistoun
+Fisher st (*)
+Fisher St, Dennistoun (*)
 Fitzroy Place
 Florentine place, Hillhead
 Franklin Terrace
@@ -126,13 +127,13 @@ Garngad Hill
 Garngad rd
 Garscadden Street
 George Square
-Germiston st
+Germiston st (*)
 Glebe street (*)
 Glenavon terrace, Partick
 Govan st
 Govan View terrace, Govanhill
-Grafton square
-Grafton street
+Grafton square (*)
+Grafton street (*)
 Grafton terrace
 Granby ter
 Grange Terrace
@@ -269,14 +270,14 @@ Shaftesbury terrace
 Shinir bank, Crosshill
 Shuttle Lane (*)
 Soho street
-S. Apsley place.
+S. Apsley place. (*)
 South Albion Place
 South Kinning place
 South St. Mungo street
 Spiers wharf, PortDundas
 Spring place, Crossmyloof
 Springfield place
-St Andrew's road, Pollokshields
+St Andrew's road, Pollokshields (*)
 St Enoch Square
 St George's Terrace
 St Mungo street
@@ -300,7 +301,7 @@ Tollcross
 Tennent street (*)
 Tureen street, Calton
 Turner street
-Tylefield street
+Tylefield street (*)
 
 Ure Place
 

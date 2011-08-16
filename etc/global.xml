@@ -10,6 +10,12 @@
       <value>Collingwood</value>
     </replace>
 
+    <!-- M -->
+    <replace>
+      <pattern>I\I</pattern>
+      <value>M</value>
+    </replace>
+
     <!-- R -->
     <replace>
       <pattern>Eailway</pattern>
