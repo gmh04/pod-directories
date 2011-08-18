@@ -10,10 +10,6 @@
       <value>Assembly</value>
     </replace>
     <replace>
-      <pattern>AV</pattern>
-      <value></value>
-    </replace>
-    <replace>
       <pattern>Ai-gyle</pattern>
       <value>Argyle</value>
     </replace>
@@ -219,6 +215,10 @@
 
     <!-- G -->
     <replace>
+      <pattern>Gamgad</pattern>
+      <value>Garngad</value>
+    </replace>
+    <replace>
       <pattern>Garnethili</pattern>
       <value>Garnethill</value>
     </replace>
@@ -365,8 +365,16 @@
 
     <!-- P -->
     <replace>
+      <pattern>Parliamentaiy</pattern>
+      <value>Parliamentary</value>
+    </replace>
+    <replace>
       <pattern>Paterfon</pattern>
       <value>Paterson</value>
+    </replace>
+    <replace>
+      <pattern>Paxton ten</pattern>
+      <value>Paxton ter</value>
     </replace>
     <replace>
       <pattern>PoUok</pattern>
@@ -383,6 +391,12 @@
     <replace>
       <pattern>Potcerrow</pattern>
       <value>Potterrow</value>
+    </replace>
+
+    <!-- Q -->
+    <replace>
+      <pattern>Queen Maiy</pattern>
+      <value>Queen Mary</value>
     </replace>
 
     <!-- R -->
@@ -446,8 +460,16 @@
       <pattern>Rutberglen</pattern>
       <value>Rutherglen</value>
     </replace>
+    <replace>
+      <pattern>Rutlierglen</pattern>
+      <value>Rutherglen</value>
+    </replace>
 
     <!-- S -->
+    <replace>
+      <pattern>Sand}'ford</pattern>
+      <value>Sandyford</value>
+    </replace>
     <replace>
       <pattern>Saucbiehall</pattern>
       <value>Sauchiehall</value>
@@ -500,6 +522,14 @@
     <!-- T -->
     <replace>
       <pattern>ten-ace</pattern>
+      <value>terrace</value>
+    </replace>
+    <replace>
+      <pattern>ten'ace</pattern>
+      <value>terrace</value>
+    </replace>
+    <replace>
+      <pattern>tenace</pattern>
       <value>terrace</value>
     </replace>
     <replace>

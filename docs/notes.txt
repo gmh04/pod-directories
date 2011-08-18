@@ -81,7 +81,7 @@ Catherine street, north
 Clarinda terrace, Polloksbields
 Claythorn street (NUM)
 Cockmuir, Springburn
-Charlotte lane
+Charlotte lane (*)
 Chatham place
 Comely Park place
 Coustonholm, Pollokshaws
@@ -97,6 +97,7 @@ Debbie's loan
 Doune ter, North Woodside
 Dowanhill Gardens
 Downie Place
+Dulce st -> Duke st
 Dunchattan Place (NUM)
 Dundas Street (NUM)
 Dunlop st (NUM)
@@ -141,6 +142,7 @@ Granville Buildings
 Granville place
 Greenhead terrace
 Greenhill street
+Greenside Crescent (*)
 Grove street (*)
 Guildry court
 
@@ -205,7 +207,7 @@ Melville Terrace
 Milton terrace, Langside
 Morris Place
 Moss view, Crossmyloof
-Myrtle Street
+Myrtle Street (*)
 
 Naburn street
 Nelson terrace
@@ -220,7 +222,6 @@ Oswald pl.,Whiteinch
 
 Paisley Road (NUM)
 Park View terrace, Hillhead
-Parliamentary Road (*)
 Partick hill
 Peebles st
 Pine st (*)
@@ -244,7 +245,7 @@ Renfrew Street (NUM)
 Renton terrace, Crosshill
 Risk street
 Rokeby ter., Hillhead
-Ronald Street
+Ronald Street (*)
 Rosebank terrace
 Rosehall street
 Rosevale ter., Partick
@@ -287,8 +288,8 @@ St. Vine. pi (*)
 Stanhope street (*)
 Steven street
 Stevenson drive, Crossmyloof
-Stewart street
-Stewart street, Cowcaddens
+Stewart street (*)
+Stewart street, Cowcaddens (*)
 Stewartville Place
 Stirling Road (NUM)
 Stonefield Terrace
