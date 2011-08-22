@@ -2557,6 +2557,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>garden ter</pattern>
     <street>Garden Terrace</street>
+    <town>
+      <name>Aberdeen</name>
+      <modern_name>Carden Place</modern_name>
+    </town>
   </address>
   <address>
     <pattern>gardner st</pattern>
@@ -3481,6 +3485,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>john knox st</pattern>
     <street>John Knox Street</street>
+  </address>
+  <address>
+    <pattern>jopp's l</pattern>
+    <street>Jopp's Ln</street>
   </address>
   <address>
     <pattern>keir st</pattern>
@@ -6617,6 +6625,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Glasgow</name>
       <modern_name>Hastie Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>upper quay</pattern>
+    <street>Upper Quay</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.144927 -2.094912</latlon>
     </town>
   </address>
   <address>
