@@ -353,8 +353,12 @@
 
     <!-- M -->
     <replace>
-      <pattern> Mainst</pattern>
+      <pattern>Mainst</pattern>
       <value> Main st</value>
+    </replace>
+    <replace>
+      <pattern>Marisclial</pattern>
+      <value>Marischal</value>
     </replace>
     <replace>
       <pattern>McAshn</pattern>
