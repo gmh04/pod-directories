@@ -3,8 +3,12 @@
 Henry Place
 Green
 Market Hall
+
 ########## Edinburgh ##########
 
+
+problem with:
+<LINE>Adamson, D., mason and builder, Blackford place ; house, 11 Waverley terrace</LINE>
 
 ########## Glasgow #############
 
