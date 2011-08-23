@@ -285,6 +285,7 @@ St Mungo street
 St Ninian st
 St Vincent crescent (NUM)
 St. Vine. pi (*)
+St. Vine. st (*)
 Stanhope street (*)
 Steven street
 Stevenson drive, Crossmyloof
