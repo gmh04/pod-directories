@@ -39,6 +39,10 @@
       <pattern>Bumbank</pattern>
       <value>Burnbank</value>
     </replace>
+    <replace>
+      <pattern>Bumside</pattern>
+      <value>Burnside</value>
+    </replace>
 
     <!-- C -->
     <replace>
@@ -135,6 +139,10 @@
     <!-- E -->
     <replace>
       <pattern>Eghnton</pattern>
+      <value>Eglinton</value>
+    </replace>
+    <replace>
+      <pattern>Egiinton</pattern>
       <value>Eglinton</value>
     </replace>
     <replace>
@@ -255,6 +263,10 @@
     <replace>
       <pattern>Highfchool</pattern>
       <value>Highschool</value>
+    </replace>
+    <replace>
+      <pattern>HiU</pattern>
+      <value>Hill</value>
     </replace>
     <replace>
       <pattern>Hillliead</pattern>
