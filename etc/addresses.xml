@@ -36,6 +36,10 @@
       <value>Broughton</value>
     </replace>
     <replace>
+      <pattern>Buccleuch pi</pattern>
+      <value>Buccleuch Pl</value>
+    </replace>
+    <replace>
       <pattern>Bumbank</pattern>
       <value>Burnbank</value>
     </replace>
@@ -72,6 +76,10 @@
     <replace>
       <pattern>ciorfe</pattern>
       <value>close</value>
+    </replace>
+    <replace>
+      <pattern>Claremont pi</pattern>
+      <value>Claremont pl</value>
     </replace>
     <replace>
       <pattern>clofe</pattern>
@@ -379,6 +387,10 @@
     <replace>
       <pattern>PoUok</pattern>
       <value>Pollok</value>
+    </replace>
+    <replace>
+      <pattern>jilace</pattern>
+      <value>place</value>
     </replace>
     <replace>
       <pattern>Pleafancc</pattern>
