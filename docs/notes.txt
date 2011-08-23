@@ -1,6 +1,8 @@
 ########## Aberdeen #############
 
-
+Henry Place
+Green
+Market Hall
 ########## Edinburgh ##########
 
 
