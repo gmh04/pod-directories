@@ -1,8 +1,17 @@
 ########## Aberdeen #############
 
-Henry Place
-Green
+Ashgrove (too vague)
+Ashley Terrace
+Belmont Place
+Broadford Lane
+Cairnfield (too vague)
+Caledonian Road
+Cross street
+Henry Place +
+Green +
 Market Hall
+Ruthrieston (too shord with similar entries"
+Southbridge
 ########## Edinburgh ##########
 
 
