@@ -20,6 +20,10 @@
       <value>Bellgrove</value>
     </replace>
     <replace>
+      <pattern>BoiiAccorcl</pattern>
+      <value>Bon accord</value>
+    </replace>
+    <replace>
       <pattern>Botbwell</pattern>
       <value>Bothwell</value>
     </replace>
@@ -158,12 +162,12 @@
       <value>Eglinton st</value>
     </replace>
     <replace>
-      <pattern>Elackfriars</pattern>
-      <value>Blackfriars</value>
-    </replace>
-    <replace>
       <pattern>Ehnbank</pattern>
       <value>Elmbank</value>
+    </replace>
+    <replace>
+      <pattern>Elackfriars</pattern>
+      <value>Blackfriars</value>
     </replace>
 
 
@@ -171,6 +175,10 @@
     <replace>
       <pattern>fciuare</pattern>
       <value>square</value>
+    </replace>
+    <replace>
+      <pattern>Ferryliill</pattern>
+      <value>Ferryhill</value>
     </replace>
     <replace>
       <pattern>Fleafance</pattern>
@@ -365,6 +373,10 @@
       <value> Main st</value>
     </replace>
     <replace>
+      <pattern>Marifechal</pattern>
+      <value>Marischal</value>
+    </replace>
+    <replace>
       <pattern>Marisclial</pattern>
       <value>Marischal</value>
     </replace>
@@ -445,6 +457,10 @@
       <value>Renfrew</value>
     </replace>
     <replace>
+      <pattern>Eoad</pattern>
+      <value>Road</value>
+    </replace>
+    <replace>
       <pattern>Eobcrtson</pattern>
       <value>Robertson</value>
     </replace>
@@ -465,20 +481,32 @@
       <value>Roslea</value>
     </replace>
     <replace>
+      <pattern>Eoslin</pattern>
+      <value>Roslin</value>
+    </replace>
+    <replace>
       <pattern>Eosslyn</pattern>
       <value>Rosslyn</value>
     </replace>
     <replace>
-      <pattern> Eoyal</pattern>
-      <value> Royal</value>
+      <pattern>Eotunda</pattern>
+      <value>Rotunda</value>
+    </replace>
+    <replace>
+      <pattern>Eoyal</pattern>
+      <value>Royal</value>
+    </replace>
+    <replace>
+      <pattern>Kubislaw</pattern>
+      <value>Rubislaw</value>
     </replace>
     <replace>
       <pattern>Eupert </pattern>
       <value>Rupert </value>
     </replace>
     <replace>
-      <pattern> Eutherglen</pattern>
-      <value> Rutherglen</value>
+      <pattern>Eutherglen</pattern>
+      <value>Rutherglen</value>
     </replace>
     <replace>
       <pattern>Kutherglen</pattern>
@@ -513,6 +541,10 @@
     <replace>
       <pattern>Shakefpeare</pattern>
       <value>Shakespeare</value>
+    </replace>
+    <replace>
+      <pattern>Snmmer</pattern>
+      <value>Summer</value>
     </replace>
     <replace>
       <pattern>Somerville pi</pattern>
