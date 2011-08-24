@@ -36,6 +36,10 @@
       <value>Bristo</value>
     </replace>
     <replace>
+      <pattern>Brougham pi</pattern>
+      <value>Brougham pl</value>
+    </replace>
+    <replace>
       <pattern>Brou^hton</pattern>
       <value>Broughton</value>
     </replace>
@@ -259,6 +263,10 @@
       <value>George</value>
     </replace>
     <replace>
+      <pattern>Gilmore pi</pattern>
+      <value>Gilmore pl</value>
+    </replace>
+    <replace>
       <pattern>GranviUe</pattern>
       <value>Granville</value>
     </replace>
@@ -275,6 +283,10 @@
     <replace>
       <pattern>Hables</pattern>
       <value>stables</value>
+    </replace>
+    <replace>
+      <pattern>Henry pi</pattern>
+      <value>Henry pl</value>
     </replace>
     <replace>
       <pattern>Highfchool</pattern>
@@ -461,6 +473,10 @@
       <value>Road</value>
     </replace>
     <replace>
+      <pattern>Eintoul</pattern>
+      <value>Rintoul</value>
+    </replace>
+    <replace>
       <pattern>Eobcrtson</pattern>
       <value>Robertson</value>
     </replace>
@@ -523,6 +539,10 @@
 
     <!-- S -->
     <replace>
+      <pattern>Salisbury pi</pattern>
+      <value>Salisbury pl</value>
+    </replace>
+    <replace>
       <pattern>Sand}'ford</pattern>
       <value>Sandyford</value>
     </replace>
@@ -557,6 +577,10 @@
     <replace>
       <pattern>Springbmii</pattern>
       <value>Springburn</value>
+    </replace>
+    <replace>
+      <pattern>St Catherine's pi</pattern>
+      <value>St. Catherine's pl</value>
     </replace>
     <replace>
       <pattern>St. George's pi</pattern>

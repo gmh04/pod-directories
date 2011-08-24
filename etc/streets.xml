@@ -1048,6 +1048,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>bridge st</pattern>
+    <street>Bridge Street</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Bridge Street</modern_name>
+    </town>
+  </address>
+  <address>
     <pattern>bridgegate</pattern>
     <street>Bridgegate</street>
   </address>
@@ -1062,6 +1070,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>bright st</pattern>
     <street>Bright Street</street>
+  </address>
+  <address>
+    <pattern>bristo st</pattern>
+    <street>Bristo Street</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.945475 -3.188642</latlon>
+    </town>
   </address>
   <address>
     <pattern>broad st</pattern>
@@ -1157,6 +1173,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>brunswick st</pattern>
     <street>Brunswick Street</street>
+  </address>
+  <address>
+    <pattern>brunton pl</pattern>
+    <street>Brunton Place</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.957849 -3.172752</latlon>
+    </town>
   </address>
   <address>
     <pattern>buccleuch lane</pattern>
@@ -1279,6 +1303,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>callander pl</pattern>
     <street>Callander Place</street>
+  </address>
+  <address>
+    <pattern>caledonian ter</pattern>
+    <street>Caledonian Terrace</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.943528 -3.219240</latlon>
+    </town>
   </address>
   <address>
     <pattern>calton ter</pattern>
@@ -1534,6 +1566,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <pattern>catherine st</pattern>
     <street>Catherine Street</street>
     <town>
+      <name>Edinburgh</name>
+      <latlon>55.955753 -3.187011</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>catherine st</pattern>
+    <street>Catherine Street</street>
+    <town>
       <name>Glasgow</name>
       <modern_name>McAslin Street</modern_name>
       <area>
@@ -1601,6 +1641,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
       <area>
         <name>Townhead</name>
       </area>
+    </town>
+  </address>
+  <address>
+    <pattern>charles st</pattern>
+    <street>Charles Street</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Charles Street</modern_name>
     </town>
   </address>
   <address>
@@ -1699,6 +1747,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <pattern>clarence st</pattern>
     <street>Clarence Street</street>
     <town>
+      <name>Edinburgh</name>
+      <latlon>55.959182 -3.205947</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>clarence st</pattern>
+    <street>Clarence Street</street>
+    <town>
       <name>Glasgow</name>
       <modern_name>Dalintober Street</modern_name>
     </town>
@@ -1766,6 +1822,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>clyde st</pattern>
     <street>Clyde Street</street>
+  </address>
+  <address>
+    <pattern>clyde st</pattern>
+    <street>Clyde Street</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.954858 -3.191764</latlon>
+    </town>
   </address>
   <address>
     <pattern>clyde ter</pattern>
@@ -1967,6 +2031,15 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
         <modern_name>Kilbirnie Street</modern_name>
       </area>
     </town>
+  </address>
+  <address>
+    <pattern>crichton pl</pattern>
+    <pattern>crighton pl</pattern>
+    <street>Crighton Place</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Leith Walk</modern_name>
+    </town>'^q
   </address>
   <address>
     <pattern>cromwell st</pattern>
@@ -2278,6 +2351,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>drygate</pattern>
     <street>Drygate</street>
+  </address>
+  <address>
+    <pattern>dryden st</pattern>
+    <street>Dryden Street</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Dryden Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>duke st</pattern>
@@ -3060,6 +3141,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>grange loan</pattern>
+    <street>Grange Loan</street>
+  </address>
+  <address>
     <pattern>grange ter</pattern>
     <street>Grange Terrace</street>
     <town>
@@ -3451,6 +3536,13 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Aberdeen</name>
       <modern_name>Rose Street</modern_name>
+  </address>
+  <address>
+    <pattern>henry pl</pattern>
+    <street>Henry Place</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.941449 -3.176636</latlon>
     </town>
   </address>
   <address>
@@ -3626,6 +3718,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>houston st</pattern>
     <street>Houston Street</street>
+  </address>
+  <address>
+    <pattern>howard pl</pattern>
+    <street>Howard Place</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.963915 -3.201205</latlon>
+    </town>
   </address>
   <address>
     <pattern>howard st</pattern>
@@ -4037,6 +4137,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Kirkpatrick Street</street>
   </address>
   <address>
+    <pattern>kirkwood pl</pattern>
+    <street>Kirkwood Place</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.956462 -3.163493</latlon>
+    </town>/address>
+  </address>
+  <address>
     <pattern>knightswood pl</pattern>
     <street>Knightswood Place</street>
   </address>
@@ -4143,6 +4251,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Laurel Bank</street>
   </address>
   <address>
+    <pattern>laverockbank r</pattern>
+    <street>Laverockbank Road</street>
+  </address>
+  <address>
     <pattern>laverockbank ter</pattern>
     <street>Laverockbank Terrace</street>
   </address>
@@ -4151,8 +4263,28 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Lawrence Place</street>
   </address>
   <address>
+    <pattern>leith st</pattern>
+    <street>Leith Street</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Leith Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>leith street ter</pattern>
+    <street>Leith Street Terrace</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.9547502 -3.187435</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>lendel ter</pattern>
     <street>Lendel Terrace</street>
+  </address>
+  <address>
+    <pattern>leamington ter</pattern>
+    <street>Leamington Terrace</street>
   </address>
   <address>
     <pattern>leslie r</pattern>
@@ -4165,6 +4297,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>leven st</pattern>
     <street>Leven Street</street>
+  </address>
+  <address>
+    <pattern>leven ter</pattern>
+    <street>Leven Terrace</street>
   </address>
   <address>
     <pattern>lilybank r</pattern>
@@ -4606,6 +4742,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>meadow pl</pattern>
+    <street>Meadow Place</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Meadow Place</modern_name>
+    </town>
+  </address>
+  <address>
     <pattern>meadowbank cres</pattern>
     <street>Meadowbank Crescent</street>
   </address>
@@ -4656,6 +4800,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>merchant lane</pattern>
     <street>Merchant Lane</street>
+  </address>
+  <address>
+    <pattern>merchiston ter</pattern>
+    <street>Merchiston Terrace</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.930139 -3.221912</latlon>
+    </town>
   </address>
   <address>
     <pattern>merkland st</pattern>
@@ -4792,6 +4944,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>monkland st</pattern>
     <street>Monkland Street</street>
+  </address>
+  <address>
+    <pattern>monkwood</pattern>
+    <street>Monkwood Ct</street>
   </address>
   <address>
     <pattern>montague place</pattern>
@@ -5275,6 +5431,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Park Road</street>
   </address>
   <address>
+    <pattern>parkside pl</pattern>
+    <street>Parkside Place</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>St Leonard's St</modern_name>
+    </town>
+  </address>
+  <address>
     <pattern>park st</pattern>
     <street>Park Street</street>
     <town>
@@ -5366,6 +5530,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>parson st</pattern>
     <street>Parson Street</street>     
+  </address>
+  <address>
+    <pattern>parsonsgreen ter</pattern>
+    <street>Parsonsgreen Terrace</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Parsons Green Terrace</modern_name>
+    </town>
   </address>
   <address>
     <pattern>partick</pattern>
@@ -5520,6 +5692,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Port Dundas Road</street>
   </address>
   <address>
+    <pattern>portland pl</pattern>
+    <street>Portland Place</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.944537 -3.202171</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>portland st</pattern>
     <street>Portland Street</street>
     <town>
@@ -5613,6 +5793,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>pulteny st</pattern>
     <street>Pulteny Street</street>
+  </address>
+  <address>
+    <pattern>quality court</pattern>
+    <street>Quality Court</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Maritime Lane</modern_name>
+    </town>
   </address>
   <address>
     <pattern>queen arc</pattern>
@@ -5892,6 +6080,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>rosehall ter</pattern>
+    <street>Rosehall Terrace</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.936353 -3.169662</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>rosehill</pattern>
     <street>Rosehill</street>
   </address>
@@ -6013,6 +6209,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>royal exchange</pattern>
+    <street>Royal Exchange</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.9500243 -3.190222</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>royal exchange buildings</pattern>
     <street>Royal Exchange Buildings</street>
   </address>
@@ -6030,7 +6234,6 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   </address>
   <address>
     <pattern>royal exchange sq</pattern>
-    <pattern>royal exchange</pattern>
     <street>Royal Exchange Square</street>
   </address>
   <address>
@@ -6240,12 +6443,24 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>St John's Terrace</street>
   </address>
   <address>
+    <pattern>st leonard st</pattern>
+    <street>St Leonard Street</street>
+     <town>
+      <name>Edinburgh</name>
+      <modern_name>St Leonard's Street</modern_name>
+    </town>
+  </address>
+  <address>
     <pattern>st marnock st</pattern>
     <street>St Marnock Street</street>
   </address>
   <address>
     <pattern>st mary's pl</pattern>
     <street>St Mary's Place</street>
+  </address>
+  <address>
+    <pattern>st mary st</pattern>
+    <street>St Mary's Street</street>
   </address>
   <address>
     <pattern>st mungo st</pattern>
@@ -6259,6 +6474,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>st. paul st</pattern>
     <street>St Paul Street</street>
+  </address>
+  <address>
+    <pattern>st patrick st</pattern>
+    <street>St Patrick Street</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>St Patrick Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>st peter's lane</pattern>
@@ -6315,8 +6538,24 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>salisbury sq</pattern>
+    <street>Salisbury Square</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.946364 -3.180134</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>salisbury st</pattern>
     <street>Salisbury Street</street>
+  </address>
+  <address>
+    <pattern>salisbury st</pattern>
+    <street>Salisbury Street</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.946057 -3.180048</latlon>
+    </town>
   </address>
   <address>
     <pattern>salisbury ter</pattern>
@@ -6325,6 +6564,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
       <name>Glasgow</name>
       <modern_name>Colebrook Street</modern_name>
     </town>-->
+  </address>
+  <address>
+    <pattern>salisbury ter</pattern>
+    <street>Salisbury Terrace</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Dumbiedykes Road</modern_name>
+    </town>
   </address>
   <address>
     <pattern>salkeld st</pattern>
@@ -6445,6 +6692,62 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
         <name>Port Dundas</name>
         <modern_name>Tyndrum Street</modern_name>
       </area>
+    </town>
+  </address>
+  <address>
+    <pattern>seafield</pattern>
+    <street>Seafield</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.970003 -3.146209</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>seafield r</pattern>
+    <street>Seafield Row</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Seafield Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>seafield bath</pattern>
+    <street>Seafield Baths</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.971204 -3.151617</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>seafield gardens</pattern>
+    <street>Seafield Gardens</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.967866 -3.146445</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>seafield house</pattern>
+    <street>Seafield House</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.970015 -3.150329</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>seafield lodge</pattern>
+    <street>Seafield Lodge</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.969199 -3.144814</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>seafield villa</pattern>
+    <street>Seafield Villas</street>
+    <town>
+      <name>Edinburgh</name>
+      <latlon>55.970964 -3.150651</latlon>
     </town>
   </address>
   <address>
@@ -6750,6 +7053,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Glasgow</name>
       <modern_name>Springfield Road</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>spring valley</pattern>
+    <street>Spring Valley</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>Springvalley Terrace</modern_name>
     </town>
   </address>
   <address>
@@ -7228,6 +7539,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>upper gray st</pattern>
+    <street>Upper Gray Street</street>
+  </address>
+  <address>
     <pattern>ure place</pattern>
     <street>Ure Place</street>
   </address>
@@ -7569,6 +7884,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Glasgow</name>
       <modern_name>Crimea Street</modern_name>
+    </town>
+  </address>
+  <address>
+    <pattern>west richmond st</pattern>
+    <street>West Richmond Street</street>
+    <town>
+      <name>Edinburgh</name>
+      <modern_name>West Richmond Street</modern_name>
     </town>
   </address>
   <address>
