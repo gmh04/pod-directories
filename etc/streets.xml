@@ -799,6 +799,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Belmont Crescent</street>
   </address>
   <address>
+    <pattern>belmont pl</pattern>
+    <street>Belmont Place</street>
+    <town>
+      <name>Aberdeen</name>
+      <modern_name>Berryden Road</modern_name>
+    </town>
+  </address>
+  <address>
     <pattern>belmont st</pattern>
     <street>Belmont Street</street>
   </address>
@@ -829,6 +837,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>bernard st</pattern>
     <street>Bernard Street</street>
+  </address>
+  <address>
+    <pattern>berryden</pattern>
+    <street>Berryden road</street>
   </address>
   <address>
     <pattern>bilbao st</pattern>
@@ -884,6 +896,15 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>boden st</pattern>
     <street>Boden Street</street>
+  </address>
+  <address>
+    <pattern>bon-accord l</pattern>
+    <pattern>bon accord l</pattern>
+    <street>Bon Accord Lane</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.143194 -2.104401</latlon>
+    </town>
   </address>
   <address>
     <pattern>bon-accord ter</pattern>
@@ -1521,8 +1542,20 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>cattofield</pattern>
+    <street>Cattofield Place</street>
+  </address>
+  <address>
     <pattern>cavendish st</pattern>
     <street>Cavendish Street</street>
+  </address>
+  <address>
+    <pattern>causewayend</pattern>
+    <street>Causewayend</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.155241 -2.102981</latlon>
+    </town>
   </address>
   <address>
     <pattern>cecil place</pattern>
@@ -1656,6 +1689,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>clarinda terrace</pattern>
     <street>Clarinda Terrace</street>
+  </address>
+  <address>
+    <pattern>clayhills</pattern>
+    <street>Clayhills</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.143271 -2.098217</latlon>
+    </town>
   </address>
   <address>
     <pattern>claythorn st</pattern>
@@ -1815,6 +1856,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Corunna Street</street>
   </address>
   <address>
+    <pattern>correction wynd</pattern>
+    <street>Correction Wynd</street>
+    <town>
+      <name>Aberdeen</name>
+      <modern_name>Correction Wynd</modern_name>
+    </town>
+  </address>
+  <address>
     <pattern>couper st</pattern>
     <street>Couper Street</street>
   </address>
@@ -1909,6 +1958,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>crooked l</pattern>
+    <street>Crooked Lane</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.149503 -2.102306</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>cromwell st</pattern>
     <street>Cromwell Street</street>
   </address>
@@ -1997,6 +2054,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Croy Place</street>
   </address>
   <address>
+    <pattern>crown pl</pattern>
+    <street>Crown Place</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.10019 -2.26441</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>cubie st</pattern>
     <street>Cubie Street</street>
   </address>
@@ -2028,6 +2093,15 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>cumbrae p</pattern>
     <street>Cumbrae Place</street>
+  </address>
+  <address>
+    <pattern>cuparstone r</pattern>
+    <pattern>cuparstone pl</pattern>
+    <street>Cuparstone Place</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.140586 -2.114227</latlon>
+    </town>
   </address>
   <address>
     <pattern>daisy st</pattern>
@@ -2091,6 +2165,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>deanside lane</pattern>
     <street>Deanside Lane</street>
+  </address>
+  <address>
+    <pattern>denburn ter</pattern>
+    <street>Denburn Terrace</street>
+    <town>
+      <name>Aberdeen</name>
+      <modern_name>Denburn Road</modern_name>
+    </town>
   </address>
   <address>
     <pattern>denmark st</pattern>
@@ -2596,6 +2678,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>florence st</pattern>
     <street>Florence Street</street>
+  </address>
+  <address>
+    <pattern>flourmillbrae</pattern>
+    <street>Flormill Brae</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.147977 -2.098705</latlon>
+    </town>
   </address>
   <address>
     <pattern>fordneuk st</pattern>
@@ -3508,6 +3598,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>hutcheon street</pattern>
+    <street>Hutcheon Street</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.155241 -2.102981</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>hutcheson st</pattern>
     <street>Hutcheson Street</street>
   </address>
@@ -4128,6 +4226,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Loudon Terrace</street>
   </address>
   <address>
+    <pattern>louisville</pattern>
+    <street>Louisville</street>
+    <town>
+      <name>Aberdeen</name>
+      <modern_name>louisville Avenue</modern_name>
+    </town>
+  </address>
+  <address>
     <pattern>love loan</pattern>
     <street>Love Loan</street>
   </address>
@@ -4290,6 +4396,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>mannofield</pattern>
+    <street>Mannofield</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.13153 -2.13751</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>mansfield pl</pattern>
     <street>Mansfield Place</street>
   </address>
@@ -4316,6 +4430,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
       <name>Glasgow</name>
       <modern_name>Peebles Street</modern_name>
     </town>-->
+  </address>
+  <address>
+    <pattern>marine ter</pattern>
+    <street>Marine terrace</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.138100 -2.101452</latlon>
+    </town>
   </address>
   <address>
     <pattern>marischal street</pattern>
@@ -4364,6 +4486,11 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
       <name>Glasgow</name>
       <latlon>55.866551 -4.260642</latlon>
     </town>
+  </address>
+  <address>
+    <pattern>marywell st</pattern>
+    <pattern>mary well st</pattern>
+    <street>Marywell st</street>
   </address>
   <address>
     <pattern>mason st</pattern>
@@ -4768,6 +4895,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>music hall</pattern>
+    <street>Music Hall</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.1452 -2.1038</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>muslin st</pattern>
     <street>Muslin Street</street>
   </address>
@@ -4794,6 +4929,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>napiershall st</pattern>
     <street>Napiershall Street</street>
+  </address>
+  <address>
+    <pattern>nellfield cemetery</pattern>
+    <street>Nellfield Cemetery</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.1398 -2.11525</latlon>
+    </town>
   </address>
   <address>
     <pattern>nelson st</pattern>
@@ -5279,6 +5422,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Pine Street</street>
   </address>
   <address>
+    <pattern>pitfodels</pattern>
+    <street>Pitfodels</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.12079 -2.156879</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>pitt st</pattern>
     <street>Pitt Street</street>
   </address>
@@ -5293,6 +5444,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>plantation st</pattern>
     <street>Plantation Street</street>
+  </address>
+  <address>
+    <pattern>pocra pier</pattern>
+    <street>Pocra Pier</street>
+    <town>
+      <name>Aberdeen</name>
+      <modern_name>Pocra Quay</modern_name>
+    </town>
   </address>
   <address>
     <pattern>point law</pattern>
@@ -5431,6 +5590,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
         <name>Crosshill</name>
       </area>
     </town>-->
+  </address>
+  <address>
+    <pattern>prospect ter</pattern>
+    <street>Prospect terrace</street>
   </address>
   <address>
     <pattern>pulteny st</pattern>
@@ -5844,6 +6007,22 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Royal Exchange Square</street>
   </address>
   <address>
+    <pattern>royal infirmary</pattern>
+    <street>Royal Infirmary</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.154794 -2.133536</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>royal northern club</pattern>
+    <street>Royal Northern Club</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.142736 -2.113966</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>royal ter</pattern>
     <street>Royal Terrace</street>
     <town>
@@ -5897,6 +6076,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Glasgow</name>
       <latlon>55.838346 -4.231603</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>regent street</pattern>
+    <street>Regent Street</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.147660 -2.085320</latlon>
     </town>
   </address>
   <address>
@@ -6328,6 +6515,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
       <area>
         <name>Langside</name>
       </area>
+    </town>
+  </address>
+  <address>
+    <pattern>skene ter</pattern>
+    <street>Skene Terrace</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.147401 -2.106990</latlon>
     </town>
   </address>
   <address>
@@ -7153,6 +7348,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Wallace Street</street>
   </address>
   <address>
+    <pattern>wallfield</pattern>
+    <street>Wallfield</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.149132 -2.120586</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>wall's st</pattern>
     <street>Wall's Street</street>
   </address>
@@ -7227,7 +7430,7 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
-    <pattern>wellcroft place</pattern>
+    <pattern>wellcroft pl</pattern>
     <street>Wellcroft Place</street>
   </address>
   <address>
@@ -7247,8 +7450,12 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Wellington Lane</street>
   </address>
   <address>
-    <pattern>wellington place</pattern>
+    <pattern>wellington pl</pattern>
     <street>Wellington Place</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.143630 -2.103047</latlon>
+    </town>
   </address>
   <address>
     <pattern>wellington st</pattern>

@@ -105,6 +105,14 @@
       <pattern> Crossbill</pattern>
       <value> Crosshill</value>
     </replace>
+    <replace>
+      <pattern>Crowm</pattern>
+      <value>Crown</value>
+    </replace>
+    <replace>
+      <pattern>Cnparstone</pattern>
+      <value>Cuparstone</value>
+    </replace>
 
     <!-- D -->
     <replace>
@@ -371,6 +379,10 @@
 
     <!-- N -->
     <replace>
+      <pattern>ISTelson</pattern>
+      <value>Nelson</value>
+    </replace>
+    <replace>
       <pattern>Nicolfon</pattern>
       <value>Nicolson</value>
     </replace>
@@ -431,6 +443,10 @@
     <replace>
       <pattern>Eenfrew</pattern>
       <value>Renfrew</value>
+    </replace>
+    <replace>
+      <pattern>Eichmond</pattern>
+      <value>Richmond</value>
     </replace>
     <replace>
       <pattern>Eoad</pattern>
@@ -513,6 +529,10 @@
     <replace>
       <pattern>SauchiehaU</pattern>
       <value>Sauchiehall</value>
+    </replace>
+    <replace>
+      <pattern>Schoolliill</pattern>
+      <value>Schoolhill</value>
     </replace>
     <replace>
       <pattern>Shakefpeare</pattern>
@@ -617,6 +637,10 @@
     <replace>
       <pattern>\\Veft</pattern>
       <value>West</value>
+    </replace>
+    <replace>
+      <pattern>wyud</pattern>
+      <value>Wynd</value>
     </replace>
 
   </replaces>
