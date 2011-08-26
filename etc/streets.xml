@@ -3734,6 +3734,7 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Aberdeen</name>
       <modern_name>Rose Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>henry pl</pattern>
@@ -4615,6 +4616,9 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Aberdeen</name>
       <latlon>57.149225 -2.096253</latlon>
+    </town>
+  </address>
+  <address>
     <pattern>lonsdale ter</pattern>
     <street>Lonsdale Terrace</street>
     <town>
@@ -5971,9 +5975,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Edinburgh</name>
       <latlon>55.9582668 -3.167189</latlon>
-    <pattern>pitfodels</pattern>
+    </town>
   </address>
   <address>
+    <pattern>pitfodels</pattern>
     <street>Pitfodels</street>
     <town>
       <name>Aberdeen</name>
@@ -6678,6 +6683,7 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Edinburgh</name>
       <modern_name>Royal Terrace</modern_name>
+    </town>
     <town>
       <name>Glasgow</name>
       <latlon>55.866652 -4.282072</latlon>

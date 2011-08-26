@@ -494,17 +494,18 @@
       <pattern>Eoad</pattern>
       <value>Road</value>
     </replace>
+    <replace>
       <pattern>Eichmond</pattern>
       <value>Richmond</value>
-    </replace>	
+    </replace>
     <replace>
       <pattern>Eiego</pattern>
       <value>Riego</value>
-    </replace>	
+    </replace>
     <replace>
       <pattern>Eintoul</pattern>
       <value>Rintoul</value>
-    </replace>	
+    </replace>
     <replace>
       <pattern>Eichmond</pattern>
       <value>Richmond</value>
@@ -722,7 +723,7 @@
 
     <!-- Y -->
     <replace>
-    <pattern>York pi</pattern>
+      <pattern>York pi</pattern>
       <value>York pl</value>
     </replace>
 
