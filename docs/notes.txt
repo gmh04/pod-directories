@@ -1,7 +1,8 @@
 ########## Aberdeen #############
 
 Ashgrove (too vague)
-Ashley Terrace
+Ashley (too short with similar entries) +
+Ashley Terrace +++
 Belmont Place
 Ashley Terrace ++
 Belmont Place +
@@ -9,23 +10,20 @@ Broadford Lane
 Cairnfield (too vague)
 Caledonian Road
 Cross street
-Henry Place +
-Green +
-Market Hall
-Ruthrieston (too shord with similar entries"
-Southbridge
-
 Eastfield
-Henry Place ++
 Green +++
-Market Gallery
-Market Hall
+Henry Place ++
+Market Gallery 
+Market Hall +
 Mount place
 Morefield
-Ruthrieston (too short with similar entries)
+Rubyslaw (too short with similar entries)
+Ruthrieston (too short with similar entries) +
+Seafield (too short with similar entries)
 Southbridge
 Stocket (too short with similar entries)
 Westburn (too vague)
+Westfield (too short with similar entries)
 ########## Edinburgh ##########
 
 

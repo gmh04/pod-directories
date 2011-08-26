@@ -36,6 +36,10 @@
       <value>Bristo</value>
     </replace>
     <replace>
+      <pattern>Broacl</pattern>
+      <value>Broad</value>
+    </replace>
+    <replace>
       <pattern>Brougham pi</pattern>
       <value>Brougham pl</value>
     </replace>
@@ -80,6 +84,11 @@
     <replace>
       <pattern>Catlicart</pattern>
       <value>Cathcart</value>
+    </replace>
+    <replace>
+      <pattern>Causeway end</pattern>
+      <pattern>Cause way end</pattern>
+      <value>Causewayend</value>
     </replace>
     <replace>
       <pattern>ciofe</pattern>
@@ -319,6 +328,10 @@
     <replace>
       <pattern>houfes</pattern>
       <value>houses</value>
+    </replace>
+    <replace>
+      <pattern>Hutclieon</pattern>
+      <value>Hutcheon</value>
     </replace>
 
     <!-- I -->
@@ -566,9 +579,17 @@
       <pattern>Eutherglen</pattern>
       <value>Rutherglen</value>
     </replace>
+   <replace>
+      <pattern>Eutli</pattern>
+      <value>Ruthi</value>
+    </replace>
     <replace>
       <pattern>Eussel</pattern>
       <value>Russel</value>
+    </replace>
+    <replace>
+      <pattern>Eubislaw</pattern>
+      <value>Rubislaw</value>
     </replace>
     <replace>
       <pattern>Kutherglen</pattern>
@@ -611,6 +632,10 @@
     <replace>
       <pattern>Shakefpeare</pattern>
       <value>Shakespeare</value>
+    </replace>
+    <replace>
+      <pattern>Sliiprow</pattern>
+      <value>Shiprow</value>
     </replace>
     <replace>
       <pattern>Snmmer</pattern>
