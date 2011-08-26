@@ -19,10 +19,18 @@
     <word> Works</word>
   </stopWords>
 
+
+  
   <!-- J -->
   <replace>
     <pattern>Jobn</pattern>
     <value>John</value>
+  </replace>
+
+  <!-- R -->
+  <replace>
+    <pattern>Eev</pattern>
+    <value>Rev</value>
   </replace>
 
 </names>
