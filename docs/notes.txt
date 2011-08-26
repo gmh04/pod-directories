@@ -155,7 +155,7 @@ Garngad rd
 Garscadden Street
 George Square
 Germiston st (*)
-Glebe street (*)
+Glebe street (NUM)
 Glenavon terrace, Partick
 Govan st
 Govan View terrace, Govanhill
