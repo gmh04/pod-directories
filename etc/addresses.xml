@@ -6,6 +6,10 @@
   <replaces>
     <!-- A -->
     <replace>
+      <pattern>Abbotsford pi</pattern>
+      <value>Abbotsford Pl</value>
+    </replace>
+    <replace>
       <pattern>Affembly</pattern>
       <value>Assembly</value>
     </replace>
@@ -421,6 +425,10 @@
 
     <!-- N -->
     <replace>
+      <pattern>Nabm-n</pattern>
+      <value>Naburn</value>
+    </replace>
+    <replace>
       <pattern>ISTelson</pattern>
       <value>Nelson</value>
     </replace>
@@ -602,6 +610,10 @@
     </replace>
     <replace>
       <pattern>SauchiehaU</pattern>
+      <value>Sauchiehall</value>
+    </replace>
+    <replace>
+      <pattern>Saucliiehall</pattern>
       <value>Sauchiehall</value>
     </replace>
     <replace>

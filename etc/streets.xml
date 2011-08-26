@@ -48,6 +48,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>abington st</pattern>
     <street>Abington Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.876243 -4.269948</latlon>
+    </town>
   </address>
   <address>
     <pattern>abyssinia place</pattern>
@@ -1163,6 +1167,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>brook st</pattern>
     <street>Brook Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Brook Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>broomhall st</pattern>
@@ -1193,7 +1201,7 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Broomloan road</street>
   </address>
   <address>
-    <pattern>broompark circus</pattern>
+    <pattern>broompark circ</pattern>
     <street>Broompark Circus</street>
   </address>
   <address>
@@ -1203,6 +1211,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>broompark ter</pattern>
     <street>Broompark Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Westercraigs</modern_name>
+    </town>
   </address>
   <address>
     <pattern>broomielaw</pattern>
@@ -1335,6 +1347,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>bute ter</pattern>
     <street>Bute Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Pollokshaws Road</modern_name>
+    </town>
   </address>
   <address>
     <pattern>butterbiggings r</pattern>
@@ -1998,6 +2014,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <pattern>comely park pl</pattern>
     <pattern>comelypark pl</pattern>
     <street>Comelypark Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Comelypark Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>comely park st</pattern>
@@ -2310,7 +2330,7 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
-    <pattern>dalhouse place</pattern>
+    <pattern>dalhouse pl</pattern>
     <street>Dalhouse Place</street>
   </address>
   <address>
@@ -2318,7 +2338,7 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Dalhouse Street</street>
   </address>
   <address>
-    <pattern>dalmarnock road</pattern>
+    <pattern>dalmarnock r</pattern>
     <street>Dalmarnock Road</street>
   </address>
   <address>
@@ -2521,6 +2541,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>dundas st</pattern>
     <street>Dundas Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Langside Road</modern_name>
+    </town>
   </address>
   <address>
     <pattern>dundas ter</pattern>
@@ -2531,14 +2555,8 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Dundonald Road</street>
   </address>
   <address>
-    <pattern>dunedin place</pattern>
+    <pattern>dunedin pl</pattern>
     <street>Dunedin Place</street>
-    <town>
-      <name>Glasgow</name>
-      <area>
-        <name>Govanhill</name>
-      </area>
-    </town>
   </address>
   <address>
     <pattern>dunkelt pl</pattern>
@@ -3164,6 +3182,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>glebe st</pattern>
     <street>Glebe Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Glebe Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>glenavon ter</pattern>
@@ -8207,6 +8229,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
+    <pattern>virginia build</pattern>
+    <street>Virginia Buildings</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Miller Street</modern_name>
+    </town>
+  </address>
+  <address>
     <pattern>virginia st</pattern>
     <street>Virginia Street</street>
   </address>
@@ -8732,7 +8762,7 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
       <latlon>55.939926 -3.203507</latlon>
     </town>
   </address>
-<address>
+  <address>
     <pattern>york buildings</pattern>
     <street>York Buildings</street>
     <town>
