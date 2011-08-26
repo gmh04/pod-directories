@@ -305,6 +305,10 @@
       <value> Hill st </value>
     </replace>
     <replace>
+      <pattern>Holyi-ood </pattern>
+      <value>Holyrood </value>
+    </replace>
+    <replace>
       <pattern>houfes</pattern>
       <value>houses</value>
     </replace>
@@ -317,6 +321,12 @@
     <replace>
       <pattern>itreet</pattern>
       <value>street</value>
+    </replace>
+
+    <!-- I -->
+    <replace>
+      <pattern>Johnston pi</pattern>
+      <value>Johnston pl</value>
     </replace>
 
     <!-- K -->
@@ -472,6 +482,13 @@
       <pattern>Eoad</pattern>
       <value>Road</value>
     </replace>
+      <pattern>Eichmond</pattern>
+      <value>Richmond</value>
+    </replace>	
+    <replace>
+      <pattern>Eiego</pattern>
+      <value>Riego</value>
+    </replace>	
     <replace>
       <pattern>Eintoul</pattern>
       <value>Rintoul</value>
@@ -481,12 +498,16 @@
       <value>Robertson</value>
     </replace>
     <replace>
+      <pattern>Romilly pi</pattern>
+      <value>Romilly pl</value>
+    </replace>
+    <replace>
       <pattern>Eopework</pattern>
       <value>Ropework</value>
     </replace>
     <replace>
-      <pattern> Eose</pattern>
-      <value> Rose</value>
+      <pattern>Eose</pattern>
+      <value>Rose</value>
     </replace>
     <replace>
       <pattern>Eottenrow</pattern>
@@ -523,6 +544,14 @@
     <replace>
       <pattern>Eutherglen</pattern>
       <value>Rutherglen</value>
+    </replace>
+    <replace>
+      <pattern>Eussel</pattern>
+      <value>Russel</value>
+    </replace>
+    <replace>
+      <pattern> Eutherglen</pattern>
+      <value> Rutherglen</value>
     </replace>
     <replace>
       <pattern>Kutherglen</pattern>
@@ -665,6 +694,12 @@
     <replace>
       <pattern>\\Veft</pattern>
       <value>West</value>
+    </replace>
+
+    <!-- Y -->
+    <replace>
+    <pattern>York pi</pattern>
+      <value>York pl</value>
     </replace>
 
   </replaces>
