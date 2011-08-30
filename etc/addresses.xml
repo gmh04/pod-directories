@@ -63,6 +63,10 @@
       <pattern>Bumside</pattern>
       <value>Burnside</value>
     </replace>
+    <replace>
+      <pattern>bnrn</pattern>
+      <value>burn</value>
+    </replace>
 
     <!-- C -->
     <replace>
@@ -121,6 +125,10 @@
     <replace>
       <pattern>coiirt</pattern>
       <value>court</value>
+    </replace>
+    <replace>
+      <pattern>Crimen</pattern>
+      <value>Crimon</value>
     </replace>
     <replace>
       <pattern>Crofscaufeway</pattern>
@@ -304,6 +312,10 @@
     <replace>
       <pattern>Hables</pattern>
       <value>stables</value>
+    </replace>
+    <replace>
+      <pattern>heacl</pattern>
+      <value>head</value>
     </replace>
     <replace>
       <pattern>Henry pi</pattern>
@@ -591,6 +603,10 @@
       <pattern>Eutli</pattern>
       <value>Ruthi</value>
     </replace>
+   <replace>
+      <pattern>Euthrieston</pattern>
+      <value>Ruthrieston</value>
+    </replace>
     <replace>
       <pattern>Eussel</pattern>
       <value>Russel</value>
@@ -636,6 +652,10 @@
     <replace>
       <pattern>Saucliiehall</pattern>
       <value>Sauchiehall</value>
+    </replace>
+    <replace>
+      <pattern>Scliool</pattern>
+      <value>School</value>
     </replace>
     <replace>
       <pattern>Schoolliill</pattern>
@@ -752,6 +772,10 @@
     <replace>
       <pattern>\\Veft</pattern>
       <value>West</value>
+    </replace>
+    <replace>
+      <pattern>Wliite</pattern>
+      <value>White</value>
     </replace>
     <replace>
       <pattern>wyud</pattern>
