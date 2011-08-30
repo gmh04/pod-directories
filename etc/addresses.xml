@@ -17,6 +17,14 @@
       <pattern>Ai-gyle</pattern>
       <value>Argyle</value>
     </replace>
+    <replace>
+      <pattern>AthoU</pattern>
+      <value>Atholl</value>
+    </replace>
+    <replace>
+      <pattern>Athole</pattern>
+      <value>Atholl</value>
+    </replace>
 
     <!-- B -->
     <replace>
@@ -206,6 +214,10 @@
       <value>Ferryhill</value>
     </replace>
     <replace>
+      <pattern>Findhom</pattern>
+      <value>Findhorn</value>
+    </replace>
+    <replace>
       <pattern>Fleafance</pattern>
       <value>Pleasance</value>
     </replace>
@@ -282,6 +294,10 @@
     <replace>
       <pattern>Gcorge</pattern>
       <value>George</value>
+    </replace>
+    <replace>
+      <pattern>George iv. bridge</pattern>
+      <value>George IV bridge</value>
     </replace>
     <replace>
       <pattern>Gilmore pi</pattern>
@@ -390,6 +406,10 @@
       <value>Leith</value>
     </replace>
     <replace>
+      <pattern>Livingstone pi</pattern>
+      <value>Livingstone pl</value>
+    </replace>
+    <replace>
       <pattern>llrect</pattern>
       <value>street</value>
     </replace>
@@ -435,6 +455,10 @@
       <pattern>McLcan</pattern>
       <value>McLean</value>
     </replace>
+    <replace>
+      <pattern>MelviUe</pattern>
+      <value>Melville</value>
+    </replace>
 
     <!-- N -->
     <replace>
@@ -473,6 +497,10 @@
     </replace>
     <replace>
       <pattern>jilace</pattern>
+      <value>place</value>
+    </replace>
+    <replace>
+      <pattern>jjlace</pattern>
       <value>place</value>
     </replace>
     <replace>
