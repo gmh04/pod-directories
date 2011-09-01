@@ -6,10 +6,6 @@
   <replaces>
     <!-- A -->
     <replace>
-      <pattern>Abbotsford pi</pattern>
-      <value>Abbotsford Pl</value>
-    </replace>
-    <replace>
       <pattern>Affembly</pattern>
       <value>Assembly</value>
     </replace>
@@ -18,8 +14,8 @@
       <value>Argyle</value>
     </replace>
     <replace>
-      <pattern>Arthur pi</pattern>
-      <value>Arthur pl</value>
+      <pattern>Argj'le</pattern>
+      <value>Argyle</value>
     </replace>
     <replace>
       <pattern>AthoU</pattern>
@@ -56,16 +52,8 @@
       <value>Broad</value>
     </replace>
     <replace>
-      <pattern>Brougham pi</pattern>
-      <value>Brougham pl</value>
-    </replace>
-    <replace>
       <pattern>Brou^hton</pattern>
       <value>Broughton</value>
-    </replace>
-    <replace>
-      <pattern>Buccleuch pi</pattern>
-      <value>Buccleuch Pl</value>
     </replace>
     <replace>
       <pattern>Bumbank</pattern>
@@ -98,10 +86,6 @@
       <value>Canongate</value>
     </replace>
     <replace>
-      <pattern>Carlton pi</pattern>
-      <value>Carlton pl</value>
-    </replace>
-    <replace>
       <pattern>Catlicart</pattern>
       <value>Cathcart</value>
     </replace>
@@ -123,10 +107,6 @@
       <value>close</value>
     </replace>
     <replace>
-      <pattern>Claremont pi</pattern>
-      <value>Claremont pl</value>
-    </replace>
-    <replace>
       <pattern>clofe</pattern>
       <value>close</value>
     </replace>
@@ -135,16 +115,8 @@
       <value>close</value>
     </replace>
     <replace>
-      <pattern>Clyde pi</pattern>
-      <value>Clyde pl</value>
-    </replace>
-    <replace>
       <pattern>coiirt</pattern>
       <value>court</value>
-    </replace>
-    <replace>
-      <pattern>Crichton pi</pattern>
-      <value>Crichton pl</value>
     </replace>
     <replace>
       <pattern>Crimen</pattern>
@@ -197,12 +169,12 @@
       <value>Dixon st</value>
     </replace>
     <replace>
-      <pattern>Drummond pi</pattern>
-      <value>Drummond pl</value>
-    </replace>
-    <replace>
       <pattern>Dulte </pattern>
       <value>Duke </value>
+    </replace>
+    <replace>
+      <pattern>Dmnbarton</pattern>
+      <value>Dumbarton</value>
     </replace>
     <replace>
       <pattern>Dnndas</pattern>
@@ -229,10 +201,6 @@
     <replace>
       <pattern>Elackfriars</pattern>
       <value>Blackfriars</value>
-    </replace>
-    <replace>
-      <pattern>Erskine pi</pattern>
-      <value>Erskine pl</value>
     </replace>
 
     <!-- F -->
@@ -339,10 +307,6 @@
       <value>George IV bridge</value>
     </replace>
     <replace>
-      <pattern>Gilmore pi</pattern>
-      <value>Gilmore pl</value>
-    </replace>
-    <replace>
       <pattern>GranviUe</pattern>
       <value>Granville</value>
     </replace>
@@ -354,10 +318,6 @@
       <pattern>Graismarket</pattern>
       <value>Grassmarket</value>
     </replace>
-    <replace>
-      <pattern>Greenside pi</pattern>
-      <value>Greenside pl</value>
-    </replace>
 
     <!-- H -->
     <replace>
@@ -367,10 +327,6 @@
     <replace>
       <pattern>heacl</pattern>
       <value>head</value>
-    </replace>
-    <replace>
-      <pattern>Henry pi</pattern>
-      <value>Henry pl</value>
     </replace>
     <replace>
       <pattern>Highfchool</pattern>
@@ -412,10 +368,6 @@
     </replace>
 
     <!-- I -->
-    <replace>
-      <pattern>Johnston pi</pattern>
-      <value>Johnston pl</value>
-    </replace>
 
     <!-- K -->
     <replace>
@@ -453,10 +405,6 @@
       <value>Leith</value>
     </replace>
     <replace>
-      <pattern>Livingstone pi</pattern>
-      <value>Livingstone pl</value>
-    </replace>
-    <replace>
       <pattern>llrect</pattern>
       <value>street</value>
     </replace>
@@ -479,10 +427,6 @@
     <replace>
       <pattern>ltreet</pattern>
       <value>street</value>
-    </replace>
-    <replace>
-      <pattern>Lynedoch pi</pattern>
-      <value>Lynedoch pl</value>
     </replace>
 
     <!-- M -->
@@ -651,10 +595,6 @@
       <value>Robertson</value>
     </replace>
     <replace>
-      <pattern>Romilly pi</pattern>
-      <value>Romilly pl</value>
-    </replace>
-    <replace>
       <pattern>Eopework</pattern>
       <value>Ropework</value>
     </replace>
@@ -733,10 +673,6 @@
 
     <!-- S -->
     <replace>
-      <pattern>Salisbury pi</pattern>
-      <value>Salisbury pl</value>
-    </replace>
-    <replace>
       <pattern>Sand}'ford</pattern>
       <value>Sandyford</value>
     </replace>
@@ -777,28 +713,12 @@
       <value>Summer</value>
     </replace>
     <replace>
-      <pattern>Somerville pi</pattern>
-      <value>Somerville pl</value>
-    </replace>
-    <replace>
       <pattern>Springbm-n</pattern>
       <value>Springburn</value>
     </replace>
     <replace>
       <pattern>Springbmii</pattern>
       <value>Springburn</value>
-    </replace>
-    <replace>
-      <pattern>St Catherine's pi</pattern>
-      <value>St. Catherine's pl</value>
-    </replace>
-    <replace>
-      <pattern>St. George's pi</pattern>
-      <value>St. George's pl</value>
-    </replace>
-    <replace>
-      <pattern>St. Vincent pi</pattern>
-      <value>St. Vincent pl</value>
     </replace>
     <replace>
       <pattern>StockweU</pattern>
@@ -872,11 +792,6 @@
       <pattern>Vincentst</pattern>
       <value>Vincent st</value>
     </replace>
-    <replace>
-      <pattern>Virginia pi</pattern>
-      <value>Virginia pl</value>
-    </replace>
-
 
     <!-- W -->
     <replace>
@@ -886,10 +801,6 @@
     <replace>
       <pattern>Weft</pattern>
       <value>West</value>
-    </replace>
-    <replace>
-      <pattern>Wellpark pi</pattern>
-      <value>Wellpark pl</value>
     </replace>
     <replace>
       <pattern>(Ireet</pattern>
@@ -913,10 +824,6 @@
     </replace>
 
     <!-- Y -->
-    <replace>
-      <pattern>York pi</pattern>
-      <value>York pl</value>
-    </replace>
 
   </replaces>
 

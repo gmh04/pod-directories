@@ -85,12 +85,13 @@ Avondale place
 
 Ballochmyle terrace, Kelvinside
 Bath crescent
-Battlefield crescent, Langside
+Battlefield crescent, Langside (*)
 Beaconsfield st., Partick
 Beaufort Gardens, Govanhill
 Belhaven Terrace (NUM)
 Bellahouston ter
 Bellahouston terrace, Ibrox
+Belmont pl
 Berkeley terrace
 Berlin place
 Bishop street, Anderston
@@ -107,7 +108,7 @@ Buchan Street
 Buchanan gardens, Mt. Vernon
 Burnbank
 Burnbank Gardens
-Burnside street
+Burnside street (*)
 Buckingham buildings, Hillhead
 Bute terrace, Strathbungo
 
@@ -173,7 +174,7 @@ Gallowflat pl, Rutherglen
 Garden street
 Garngad Hill
 Garngad rd
-Garscadden Street
+Garscadden Street (Airdrie St) (*)
 George Square
 Germiston st (*)
 Glebe street (NUM)
