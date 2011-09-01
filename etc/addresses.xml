@@ -111,6 +111,10 @@
       <value>Causewayend</value>
     </replace>
     <replace>
+      <pattern>Cliapel</pattern>
+      <value>Chapel</value>
+    </replace>
+    <replace>
       <pattern>ciofe</pattern>
       <value>close</value>
     </replace>
@@ -234,6 +238,10 @@
     <!-- F -->
     <replace>
       <pattern>fciuare</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>scjuare</pattern>
       <value>square</value>
     </replace>
     <replace>
@@ -433,10 +441,6 @@
 
     <!-- L -->
     <replace>
-      <pattern>Lauriston pi</pattern>
-      <value>Lauriston pl</value>
-    </replace>
-    <replace>
       <pattern>Lawnniarkct</pattern>
       <value>Lawnnmarket</value>
     </replace>
@@ -515,6 +519,10 @@
       <value>Morrison</value>
     </replace>
     <replace>
+      <pattern>moimt</pattern>
+      <value>Mount</value>
+    </replace>
+    <replace>
       <pattern>Monnt</pattern>
       <value>Mount</value>
     </replace>
@@ -536,8 +544,16 @@
       <pattern>Nicollon^s</pattern>
       <value>Nicolson's</value>
     </replace>
+    <replace>
+      <pattern>Nortli</pattern>
+      <value>North</value>
+    </replace>
 
     <!-- P -->
+    <replace>
+      <pattern> pi.</pattern>
+      <value> pl.</value>
+    </replace>
     <replace>
       <pattern>Parliamentaiy</pattern>
       <value>Parliamentary</value>
@@ -605,6 +621,10 @@
     <replace>
       <pattern>Eoad</pattern>
       <value>Road</value>
+    </replace>
+    <replace>
+      <pattern>Eiclimond</pattern>
+      <value>Richmond</value>
     </replace>
     <replace>
       <pattern>Eichmond</pattern>
@@ -796,6 +816,10 @@
       <pattern>sti'eet</pattern>
       <value>street</value>
     </replace>
+    <replace>
+      <pattern>Switliin</pattern>
+      <value>swithin</value>
+    </replace>
 
     <!-- T -->
     <replace>
@@ -841,6 +865,10 @@
       <value>wynd</value>
     </replace>
     <replace>
+      <pattern>Yiew</pattern>
+      <value>View</value>
+    </replace>
+    <replace>
       <pattern>Vincentst</pattern>
       <value>Vincent st</value>
     </replace>
@@ -874,6 +902,10 @@
     <replace>
       <pattern>Wliite</pattern>
       <value>White</value>
+    </replace>
+    <replace>
+      <pattern>wyncl</pattern>
+      <value>Wynd</value>
     </replace>
     <replace>
       <pattern>wyud</pattern>
