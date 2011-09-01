@@ -471,6 +471,10 @@
       <pattern>MelviUe</pattern>
       <value>Melville</value>
     </replace>
+    <replace>
+      <pattern>Monnt</pattern>
+      <value>Mount</value>
+    </replace>
 
     <!-- N -->
     <replace>
@@ -502,6 +506,10 @@
     <replace>
       <pattern>Paxton ten</pattern>
       <value>Paxton ter</value>
+    </replace>
+    <replace>
+      <pattern>j)lace</pattern>
+      <value>Place</value>
     </replace>
     <replace>
       <pattern>PoUok</pattern>
@@ -610,6 +618,10 @@
     <replace>
       <pattern>Eotunda</pattern>
       <value>Rotunda</value>
+    </replace>
+    <replace>
+      <pattern>roAV</pattern>
+      <value>Row</value>
     </replace>
     <replace>
       <pattern>Eoyal</pattern>
@@ -756,12 +768,23 @@
       <value>terrace</value>
     </replace>
     <replace>
-      <pattern>Thiftle</pattern>
+      <pattern>Tliistle</pattern>
       <value>Thistle</value>
     </replace>
     <replace>
+    <replace>
+      <pattern>Thiftle</pattern>
+      <value>Thistle</value>
+    </replace>
+
       <pattern>ToUcross</pattern>
       <value>Tollcross</value>
+    </replace>
+
+    <!-- U -->
+    <replace>
+      <pattern>IJnion</pattern>
+      <value>Union</value>
     </replace>
 
 
