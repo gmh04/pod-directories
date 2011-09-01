@@ -18,6 +18,10 @@
       <value>Argyle</value>
     </replace>
     <replace>
+      <pattern>Argj'le</pattern>
+      <value>Argyle</value>
+    </replace>
+    <replace>
       <pattern>Arthur pi</pattern>
       <value>Arthur pl</value>
     </replace>
@@ -199,6 +203,10 @@
     <replace>
       <pattern>Dulte </pattern>
       <value>Duke </value>
+    </replace>
+    <replace>
+      <pattern>Dmnbarton</pattern>
+      <value>Dumbarton</value>
     </replace>
     <replace>
       <pattern>Dnndas</pattern>
