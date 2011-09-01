@@ -18,6 +18,10 @@
       <value>Argyle</value>
     </replace>
     <replace>
+      <pattern>Arthur pi</pattern>
+      <value>Arthur pl</value>
+    </replace>
+    <replace>
       <pattern>AthoU</pattern>
       <value>Atholl</value>
     </replace>
@@ -135,11 +139,19 @@
       <value>court</value>
     </replace>
     <replace>
+      <pattern>Crichton pi</pattern>
+      <value>Crichton pl</value>
+    </replace>
+    <replace>
       <pattern>Crimen</pattern>
       <value>Crimon</value>
     </replace>
     <replace>
       <pattern>Crofscaufeway</pattern>
+      <value>Crosscauseway</value>
+    </replace>
+    <replace>
+      <pattern>Crosscaiiseway</pattern>
       <value>Crosscauseway</value>
     </replace>
     <replace>
@@ -181,6 +193,10 @@
       <value>Dixon st</value>
     </replace>
     <replace>
+      <pattern>Drummond pi</pattern>
+      <value>Drummond pl</value>
+    </replace>
+    <replace>
       <pattern>Dulte </pattern>
       <value>Duke </value>
     </replace>
@@ -210,7 +226,10 @@
       <pattern>Elackfriars</pattern>
       <value>Blackfriars</value>
     </replace>
-
+    <replace>
+      <pattern>Erskine pi</pattern>
+      <value>Erskine pl</value>
+    </replace>
 
     <!-- F -->
     <replace>
@@ -232,6 +251,10 @@
     <replace>
       <pattern>Flefh</pattern>
       <value>Flesh</value>
+    </replace>
+    <replace>
+      <pattern>Fountainbrige</pattern>
+      <value>Fountainbridge</value>
     </replace>
     <replace>
       <pattern>fq.</pattern>
@@ -323,6 +346,10 @@
       <pattern>Graismarket</pattern>
       <value>Grassmarket</value>
     </replace>
+    <replace>
+      <pattern>Greenside pi</pattern>
+      <value>Greenside pl</value>
+    </replace>
 
     <!-- H -->
     <replace>
@@ -406,6 +433,10 @@
 
     <!-- L -->
     <replace>
+      <pattern>Lauriston pi</pattern>
+      <value>Lauriston pl</value>
+    </replace>
+    <replace>
       <pattern>Lawnniarkct</pattern>
       <value>Lawnnmarket</value>
     </replace>
@@ -445,6 +476,10 @@
       <pattern>ltreet</pattern>
       <value>street</value>
     </replace>
+    <replace>
+      <pattern>Lynedoch pi</pattern>
+      <value>Lynedoch pl</value>
+    </replace>
 
     <!-- M -->
     <replace>
@@ -470,6 +505,14 @@
     <replace>
       <pattern>MelviUe</pattern>
       <value>Melville</value>
+    </replace>
+    <replace>
+      <pattern>Moncreiff terrace</pattern>
+      <value>Moncrieff terrace</value>
+    </replace>
+    <replace>
+      <pattern>ilorrison</pattern>
+      <value>Morrison</value>
     </replace>
 
     <!-- N -->
@@ -735,6 +778,10 @@
     </replace>
     <replace>
       <pattern>tlreet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>sti'eet</pattern>
       <value>street</value>
     </replace>
 
