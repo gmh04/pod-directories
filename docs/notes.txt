@@ -2,13 +2,13 @@
 
 Ashgrove (too vague)
 Ashley (too short with similar entries) +
-Ashley Terrace ++++
+Ashley Terrace +++++
 Belmont Place
 Ashley Terrace +++
 Belmont Place +
 Broadford Lane
 Cairnfield (too vague)
-Caledonian Road
+Caledonian Road +
 Cross street
 Cults (too short with similar entries)
 Dalhibity
@@ -18,27 +18,33 @@ Echt (too far away from Aberdeen)
 Eastfield
 Farquhar Place
 Gilcomston place
-Gray's buildings ++
-Green +++++
+Gray's buildings +++
+Green +++++++++
 Henry Place ++
 Inches (too far away from Aberdeen)
-Market Gallery +
-Market Hall +
-Mount place +
+Market Gallery ++
+Market Hall +++
+Mount place ++
 Morefield
 Nelson Place
 Northfield (too short with similar entries)
+Outseats
+Queen's road west
 Royal Bank (too vague)
 Rubyslaw (too short with similar entries)
 Ruthrieston (too short with similar entries) +
-Seafield (too short with similar entries) ++
+Seafield (too short with similar entries) +++
+Sunnyside (too short with similar entries)
 Southbridge
+Thorngrove (too short with similar entries)
 Watson Place
-Westburn (too vague)
+Westburn (too vague) +
 Westfield (too short with similar entries)
 Westfield Place
 Whitehall (too short with similar entries)
+Woodhill (too short with similar entries)
 Yeat's lane
+
 ########## Edinburgh ##########
 
 
