@@ -417,6 +417,14 @@
       <value>street</value>
     </replace>
     <replace>
+      <pattern>liill</pattern>
+      <value>hill</value>
+    </replace>
+    <replace>
+      <pattern>Locli</pattern>
+      <value>Loch</value>
+    </replace>
+    <replace>
       <pattern>Lome pl</pattern>
       <value>Lorne pl</value>
     </replace>
@@ -479,6 +487,10 @@
     <replace>
       <pattern>ISTelson</pattern>
       <value>Nelson</value>
+    </replace>
+    <replace>
+      <pattern>ISTetherkirk</pattern>
+      <value>Netherkirk</value>
     </replace>
     <replace>
       <pattern>Nicolfon</pattern>
@@ -767,9 +779,12 @@
       <pattern>Thiftle</pattern>
       <value>Thistle</value>
     </replace>
-
       <pattern>ToUcross</pattern>
       <value>Tollcross</value>
+    </replace>
+    <replace>
+      <pattern>TuUos</pattern>
+      <value>Tullos</value>
     </replace>
 
     <!-- U -->
