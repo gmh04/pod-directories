@@ -2,7 +2,7 @@
 
 Ashgrove (too vague)
 Ashley (too short with similar entries) +
-Ashley Terrace ++++++
+Ashley Terrace +++++++++
 Belmont Place
 Ashley Terrace +++
 Belmont Place +
@@ -10,11 +10,12 @@ Belvidere Place
 Broadford Lane
 Cairnfield (too vague)
 Caledonian Road +
-Cross street
-Cults (too short with similar entries)
+Cross street +
+Cults (too short with similar entries) +
 Dalhibity
 Denburn (too short with similar entries)
 Denhead
+Denmore (too short with similar entries)
 Eastfield
 Echt (too far away from Aberdeen)
 Erskine Road
@@ -22,21 +23,28 @@ Elmbank
 Farquhar Place
 Gilcomston place +
 Gray's buildings +++
-Green +++++++++
+Green ++++++++++++
 Henry Place +++++
+Leadside (too short with similar entries)
+Lonsdale
+Lower Leadside
+Lynwood
 Market Gallery ++
-Market Hall +++
+Market Hall ++++
 Mile-end (too short with similar entries)
 Mount place ++
 Morefield
-Nelson Place
+Nelson Place +
 Northfield (too short with similar entries)
 Outseats
+Porthill (too short with similar entries)
+Prison (which one?)
 Queen's road west
 Rosemount Provision Factory
 Royal Bank (too vague)
 Rubyslaw (too short with similar entries)
 Ruthrieston (too short with similar entries) +
+St. Clement place
 Seafield (too short with similar entries) ++++
 Seaview place
 Sunnyside (too short with similar entries)
