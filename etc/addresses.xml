@@ -405,6 +405,10 @@
 
     <!-- L -->
     <replace>
+      <pattern>Lauri.ston</pattern>
+      <value>Lauriston</value>
+    </replace>
+    <replace>
       <pattern>Lawnniarkct</pattern>
       <value>Lawnnmarket</value>
     </replace>
@@ -439,6 +443,10 @@
     <replace>
       <pattern>Lome pl</pattern>
       <value>Lorne pl</value>
+    </replace>
+     <replace>
+      <pattern>Lome st</pattern>
+      <value>Lorne street</value>
     </replace>
     <replace>
       <pattern>Lome ter</pattern>
@@ -765,6 +773,10 @@
       <value>street</value>
     </replace>
     <replace>
+      <pattern>sti-eet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
       <pattern>Switliin</pattern>
       <value>swithin</value>
     </replace>
@@ -831,6 +843,10 @@
     </replace>
     <replace>
       <pattern>Weft</pattern>
+      <value>West</value>
+    </replace>
+    <replace>
+      <pattern>AVest</pattern>
       <value>West</value>
     </replace>
     <replace>
