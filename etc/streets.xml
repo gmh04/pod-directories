@@ -397,16 +397,25 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
       </area>-->
       <area>
         <name>Hillhead</name>
-        <modern_name>Southpark Avenue</modern_name>
+        <modern_name>South Park Avenue</modern_name>
       </area>
       <area>
-        <name>Port-Dundas</name>
+        <name>Pollokshaws</name>
+        <modern_name>Christian Street</modern_name>
       </area>
     </town>
   </address>
   <address>
     <pattern>annandale st</pattern>
     <street>Annandale Street</street>
+  </address>
+  <address>
+    <pattern>annetta st</pattern>
+    <street>Annetta Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Annette Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>annette st</pattern>
@@ -465,10 +474,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>apsley pl</pattern>
     <street>Apsley Place</street>
-    <!--<town>
+    <town>
       <name>Glasgow</name>
-      <modern_name>Warwick Street</modern_name>
-    </town>-->
+      <modern_name>Melrose Street</modern_name>
+      <area>
+        <name>Laurieston</name>
+        <modern_name>Bedford Street</modern_name>
+      </area>
+    </town>
   </address>
   <address>
     <pattern>arden st</pattern>
@@ -2215,8 +2228,12 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Clyde Grove Terrace</street>
   </address>
   <address>
-    <pattern>clyde place</pattern>
+    <pattern>clyde pl</pattern>
     <street>Clyde Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Clyde Place</modern_name>
+    </town>
   </address>
   <address>
     <pattern>clyde buildings</pattern>
@@ -2559,6 +2576,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>crown pl</pattern>
     <street>Crown Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Langside Road</modern_name>
+      <area>
+        <name>Partick</name>
+        <modern_name>Dumbarton Road</modern_name>
+      </area>
+    </town>
   </address>
   <address>
     <pattern>crown st</pattern>
@@ -2766,6 +2791,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>derby cres</pattern>
     <street>Derby Crescent</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Kelvin Drive</modern_name>
+    </town>
   </address>
   <address>
     <pattern>derby st</pattern>
@@ -3286,6 +3315,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>exchange sq</pattern>
     <street>Exchange Square</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Royal Exchange Square</modern_name>
+    </town>
   </address>
   <address>
     <pattern>fairlie bank</pattern>
@@ -5530,6 +5563,22 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>lorne pl</pattern>
     <street>Lorne Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Cathcart Road</modern_name>
+      <area>
+        <name>Anderston</name>
+        <modern_name>Dumbarton Road</modern_name>
+      </area>
+      <area>
+        <name>Cathcart</name>
+        <modern_name>Clarkston Road</modern_name>
+      </area>
+      <area>
+        <name>Govan</name>
+        <modern_name>Govan Road</modern_name>
+      </area>
+    </town>
   </address>
   <address>
     <pattern>lorne ter</pattern>
@@ -6628,7 +6677,8 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>North Wallace Street</street>
   </address>
   <address>
-    <pattern>north woodside road</pattern>
+    <pattern>north woodside r</pattern>
+    <pattern>n. woodside r</pattern>
     <street>North Woodside Road</street>
   </address>
   <address>
@@ -6638,10 +6688,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>norwood ter</pattern>
     <street>Norwood Terrace</street>
-    <!--<town>
+    <town>
       <name>Glasgow</name>
-      <modern_name>Ann Street</modern_name>
-    </town>-->
+      <modern_name>South Park Avenue</modern_name>
+    </town>
   </address>
   <address>
     <pattern>nottingham ter</pattern>
@@ -6733,6 +6783,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>orr st</pattern>
     <street>Orr Street</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Orr Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>osborne ter</pattern>
@@ -7073,6 +7127,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>plantation st</pattern>
     <street>Plantation Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.853636 -4.285011</latlon>
+    </town>
   </address>
   <address>
     <pattern>pocra pier</pattern>
@@ -7335,6 +7393,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>queen's park ter</pattern>
     <street>Queen's Park Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Eglinton Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>queen's pl</pattern>
@@ -7652,6 +7714,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>rosebank ter</pattern>
     <street>Rosebank terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Grant Street</modern_name>
+      <area>
+        <name>Cathcart</name>
+        <modern_name>Old Castle Road</modern_name>
+      </area>
+    </town>
   </address>
   <address>
     <pattern>rosemount b</pattern>
@@ -8045,7 +8115,8 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>St George's Place</street>
   </address>
   <address>
-    <pattern>st george's road</pattern>
+    <pattern>st george's r</pattern>
+    <pattern>st. george's r</pattern>
     <street>St George's Road</street>
   </address>
   <address>
@@ -8744,10 +8815,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <pattern>south apsley pl</pattern>
     <pattern>so. apsley pl</pattern>
     <street>South Apsley Place</street>
-    <!--<town>
+    <town>
       <name>Glasgow</name>
-      <modern_name>Warwick Street</modern_name>
-    </town>-->
+      <modern_name>Melrose Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>south charlotte st</pattern>
@@ -9354,6 +9425,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <town>
       <name>Edinburgh</name>
       <latlon>55.945907 -3.210250</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>tollcross</pattern>
+    <street>Tollcross</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.844172 -4.171185</latlon>
     </town>
   </address>
   <address>

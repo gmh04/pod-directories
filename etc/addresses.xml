@@ -123,6 +123,10 @@
       <value>Crimon</value>
     </replace>
     <replace>
+      <pattern>Crossbum</pattern>
+      <value>Crossburn</value>
+    </replace>
+    <replace>
       <pattern>Crofscaufeway</pattern>
       <value>Crosscauseway</value>
     </replace>
@@ -460,6 +464,10 @@
     </replace>
     <replace>
       <pattern>ilorrison</pattern>
+      <value>Morrison</value>
+    </replace>
+    <replace>
+      <pattern>MoiTison</pattern>
       <value>Morrison</value>
     </replace>
     <replace>
