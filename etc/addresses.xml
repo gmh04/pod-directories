@@ -18,6 +18,10 @@
       <value>Argyle</value>
     </replace>
     <replace>
+      <pattern>Asliley</pattern>
+      <value>Ashley</value>
+    </replace>
+    <replace>
       <pattern>AthoU</pattern>
       <value>Atholl</value>
     </replace>
@@ -137,6 +141,10 @@
     <replace>
       <pattern> Crossbill</pattern>
       <value> Crosshill</value>
+    </replace>
+    <replace>
+      <pattern>Grown</pattern>
+      <value>Crown</value>
     </replace>
     <replace>
       <pattern>Crowm</pattern>
@@ -345,8 +353,12 @@
       <value> Hill st </value>
     </replace>
     <replace>
-      <pattern>Holyi-ood </pattern>
-      <value>Holyrood </value>
+      <pattern>Holyi-ood</pattern>
+      <value>Holyrood</value>
+    </replace>
+    <replace>
+      <pattern>Holbum</pattern>
+      <value>Holburn</value>
     </replace>
     <replace>
       <pattern>houfes</pattern>
@@ -499,6 +511,10 @@
     <replace>
       <pattern>Nicollon^s</pattern>
       <value>Nicolson's</value>
+    </replace>
+    <replace>
+      <pattern>ISTorth</pattern>
+      <value>North</value>
     </replace>
     <replace>
       <pattern>Nortli</pattern>
