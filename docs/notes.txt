@@ -1,63 +1,85 @@
 ########## Aberdeen #############
 
+Arthurseat Cottage
 Ashgrove (too vague)
 Ashley (too short with similar entries) +
-Ashley Terrace +++++++++
+Ashley Terrace ++++++++++
 Belmont Place
 Ashley Terrace +++
 Belmont Place +
 Belvidere Place
 Broadford Lane
+Cairncry (too short with similar entries) +
 Cairnfield (too vague)
 Caledonian Road +
+Cornhill (too short with similar entries)
 Cross street +
 Cults (too short with similar entries) +
+Cupar stone road
 Dalhibity
 Denburn (too short with similar entries)
 Denhead
 Denmore (too short with similar entries)
 Eastfield
 Echt (too far away from Aberdeen)
+Edgehill (too short with similar entries) +
 Erskine Road
 Elmbank
 Farquhar Place
 Gilcomston place +
 Gray's buildings +++
-Green ++++++++++++
-Henry Place +++++
-Leadside (too short with similar entries)
+Green +++++++++++++
+Heathcote
+Henry Place ++++++++
+Kaimhill (too vague)
+Leadside (too short with similar entries) ++
 Lonsdale
 Lower Leadside
 Lynwood
-Market Gallery ++
-Market Hall ++++
+Market Gallery +++
+Market Hall +++++++
 Mile-end (too short with similar entries)
-Mount place ++
+Mount place +++
 Morefield
+Morningside (too short with similar entries)
 Nelson Place +
-Northfield (too short with similar entries)
+North Court
+Northfield (too short with similar entries) ++
+Orton Cottage
 Outseats
 Porthill (too short with similar entries)
 Prison (which one?)
 Queen's road west
+Rosehill (too short with similar entries)
 Rosemount Provision Factory
 Royal Bank (too vague)
 Rubyslaw (too short with similar entries)
 Ruthrieston (too short with similar entries) +
 St. Clement place
-Seafield (too short with similar entries) ++++
+Seafield (too short with similar entries) +++++
 Seaview place
+Shore terrace
+Strachan's buildings
 Sunnyside (too short with similar entries)
 Southbridge
+Southfield House
 Thorngrove (too short with similar entries)
+Viewfield (too short with similar entries)
 Watson Place
 Westburn (too vague) +
 Westfield (too short with similar entries)
 Westfield House
-Westfield Place
-Whitehall (too short with similar entries)
-Woodhill (too short with similar entries)
+Westfield Place +
+Whitehall (too short with similar entries) +
+Willowbank (too short with similar entries)
+Woodhill (too short with similar entries) +
 Yeat's lane
+
+
+1841 street directory
+http://mcjazz.f2s.com/StreetDirectory1841.htm
+
+at the end of the pod there is a list of "Cottages, Mansions, and Places in the Suburbs of Aberdeen" with a description of where they are
 
 ########## Edinburgh ##########
 
