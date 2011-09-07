@@ -32,5 +32,29 @@
     <pattern>Eev</pattern>
     <value>Rev</value>
   </replace>
+   <replace>
+      <pattern>Eobertson</pattern>
+      <value>Robertson</value>
+   </replace>
+   <replace>
+      <pattern>Eobinson</pattern>
+      <value>Robinson</value>
+   </replace>
+   <replace>
+      <pattern>Eobson</pattern>
+      <value>Robson</value>
+   </replace>
+   <replace>
+      <pattern>Eocca</pattern>
+      <value>Rocca</value>
+   </replace>
+   <replace>
+      <pattern>Eodger</pattern>
+      <value>Rodger</value>
+   </replace>
+   <replace>
+      <pattern>Eoger</pattern>
+      <value>Roger</value>
+   </replace>
 
 </names>
