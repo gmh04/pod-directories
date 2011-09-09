@@ -131,16 +131,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>ailsa ter</pattern>
     <street>Ailsa Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Vinicombe Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>airlie ter</pattern>
     <street>Airlie Terrace</street>
-    <!--<town>
-      <name>Glasgow</name>
-      <area>
-        <name>Pollockshields</name>
-      </area>
-    </town>-->
   </address>
   <address>
     <pattern>albany pl</pattern>
@@ -2762,15 +2760,26 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>cumbernauld r</pattern>
     <street>Cumbernauld Road</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Cumbernauld Road</modern_name>
+    </town>
   </address>
   <address>
     <pattern>cumbrae p</pattern>
     <street>Cumbrae Place</street>
   </address>
   <address>
-    <pattern>cuparstone r</pattern>
     <pattern>cuparstone pl</pattern>
     <street>Cuparstone Place</street>
+    <town>
+      <name>Aberdeen</name>
+      <latlon>57.140586 -2.114227</latlon>
+    </town>
+  </address>
+  <address>
+    <pattern>cuparstone r</pattern>
+    <street>Cuparstone Road</street>
     <town>
       <name>Aberdeen</name>
       <latlon>57.140586 -2.114227</latlon>
@@ -6831,6 +6840,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>naburn st</pattern>
     <street>Naburn Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.845138 -4.249488</latlon>
+    </town>
   </address>
   <address>
     <pattern>napier pl</pattern>
@@ -7835,6 +7848,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>queen's sq</pattern>
     <street>Queen's Square</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Queen Square</modern_name>
+    </town>
   </address>
   <address>
     <pattern>queen st</pattern>
@@ -8071,6 +8088,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>ronald st</pattern>
     <street>Ronald Street</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.864824 -4.243061</latlon>
+    </town>
   </address>
   <address>
     <pattern>ropework lane</pattern>
@@ -9347,6 +9368,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>spiers' pl</pattern>
     <street>Spiers' Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Queen Mary Avenue</modern_name>
+    </town>
   </address>
   <address>
     <pattern>spiers' wharf</pattern>

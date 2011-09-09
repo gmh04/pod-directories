@@ -18,6 +18,10 @@
       <value>Argyle</value>
     </replace>
     <replace>
+      <pattern>Ai'gyle</pattern>
+      <value>Argyle</value>
+    </replace>
+    <replace>
       <pattern>Asliley</pattern>
       <value>Ashley</value>
     </replace>
