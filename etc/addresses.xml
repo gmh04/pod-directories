@@ -733,6 +733,10 @@
       <value>Sauchiehall</value>
     </replace>
     <replace>
+      <pattern>Sauchichall</pattern>
+      <value>Sauchiehall</value>
+    </replace>
+    <replace>
       <pattern>SauchiehaU</pattern>
       <value>Sauchiehall</value>
     </replace>
