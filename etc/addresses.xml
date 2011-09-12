@@ -6,6 +6,10 @@
   <replaces>
     <!-- A -->
     <replace>
+      <pattern>Accorcl</pattern>
+      <value>Accord</value>
+    </replace>
+    <replace>
       <pattern>Affembly</pattern>
       <value>Assembly</value>
     </replace>
@@ -113,6 +117,10 @@
     <replace>
       <pattern>ciorfe</pattern>
       <value>close</value>
+    </replace>
+    <replace>
+      <pattern>Cliattan</pattern>
+      <value>Chattan</value>
     </replace>
     <replace>
       <pattern>clofe</pattern>
@@ -594,6 +602,10 @@
     </replace>
 
     <!-- R -->
+    <replace>
+      <pattern>Eagg</pattern>
+      <value>Ragg</value>
+    </replace>
     <replace>
       <pattern>Ramfay</pattern>
       <value>Ramsay</value>
