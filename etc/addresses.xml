@@ -863,6 +863,10 @@
       <pattern>Vincentst</pattern>
       <value>Vincent st</value>
     </replace>
+    <replace>
+      <pattern>Vii-ginia</pattern>
+      <value>Virginia</value>
+    </replace>
 
     <!-- W -->
     <replace>
