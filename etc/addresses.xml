@@ -44,6 +44,10 @@
       <value>Bellgrove</value>
     </replace>
     <replace>
+      <pattern>Bennington r</pattern>
+      <value>Bonnington Road</value>
+    </replace>
+    <replace>
       <pattern>BoiiAccorcl</pattern>
       <value>Bon accord</value>
     </replace>
@@ -131,6 +135,10 @@
       <value>close</value>
     </replace>
     <replace>
+      <pattern>Cockbum</pattern>
+      <value>Cockburn</value>
+    </replace>
+    <replace>
       <pattern>coiirt</pattern>
       <value>court</value>
     </replace>
@@ -183,6 +191,10 @@
     <replace>
       <pattern>Dalmamock</pattern>
       <value>Dalmarnock</value>
+    </replace>
+    <replace>
+      <pattern>Dalrj</pattern>
+      <value>Dalry</value>
     </replace>
     <replace>
       <pattern> diive</pattern>
@@ -342,6 +354,10 @@
       <pattern>Graismarket</pattern>
       <value>Grassmarket</value>
     </replace>
+    <replace>
+      <pattern>gi-een</pattern>
+      <value>green</value>
+    </replace>
 
     <!-- H -->
     <replace>
@@ -395,7 +411,11 @@
       <value>street</value>
     </replace>
 
-    <!-- I -->
+    <!-- J -->
+    <replace>
+      <pattern>Janetield</pattern>
+      <value>Janefield</value>
+    </replace>
 
     <!-- K -->
     <replace>
@@ -472,11 +492,19 @@
       <pattern>ltreet</pattern>
       <value>street</value>
     </replace>
+    <replace>
+      <pattern>Button pl</pattern>
+      <value>Lutton pl</value>
+    </replace>
 
     <!-- M -->
     <replace>
       <pattern>Mainst</pattern>
       <value> Main st</value>
+    </replace>
+    <replace>
+      <pattern>Marclimont</pattern>
+      <value>Marchmont</value>
     </replace>
     <replace>
       <pattern>Marifechal</pattern>
@@ -600,6 +628,10 @@
       <pattern>Queen Maiy</pattern>
       <value>Queen Mary</value>
     </replace>
+    <replace>
+      <pattern>Queensberry</pattern>
+      <value>Queensferry</value>
+    </replace>
 
     <!-- R -->
     <replace>
@@ -609,6 +641,10 @@
     <replace>
       <pattern>Ramfay</pattern>
       <value>Ramsay</value>
+    </replace>
+    <replace>
+      <pattern>RankeiUor</pattern>
+      <value>Rankeillor</value>
     </replace>
     <replace>
       <pattern>Eegent</pattern>
@@ -643,6 +679,10 @@
       <value>Rintoul</value>
     </replace>
     <replace>
+      <pattern>Eomilly</pattern>
+      <value>Romilly</value>
+    </replace>
+    <replace>
       <pattern>Eichmond</pattern>
       <value>Richmond</value>
     </replace>
@@ -663,8 +703,16 @@
       <value>Rose</value>
     </replace>
     <replace>
+      <pattern>Kosehill</pattern>
+      <value>Rosehill</value>
+    </replace>
+    <replace>
       <pattern>Eottenrow</pattern>
       <value>Rottenrow</value>
+    </replace>
+    <replace>
+      <pattern>Kosemount</pattern>
+      <value>Rosemount</value>
     </replace>
     <replace>
       <pattern>Eoslea</pattern>
@@ -773,6 +821,10 @@
       <value>Shiprow</value>
     </replace>
     <replace>
+      <pattern>Smith's pi</pattern>
+      <value>Smith's pl</value>
+    </replace>
+    <replace>
       <pattern>Snmmer</pattern>
       <value>Summer</value>
     </replace>
@@ -803,6 +855,10 @@
     <replace>
       <pattern>sti-eet</pattern>
       <value>street</value>
+    </replace>
+    <replace>
+      <pattern> .street</pattern>
+      <value> street</value>
     </replace>
     <replace>
       <pattern>Switliin</pattern>
@@ -870,6 +926,10 @@
       <value>Walmer</value>
     </replace>
     <replace>
+      <pattern>AVarriston</pattern>
+      <value>Warriston</value>
+    </replace>
+    <replace>
       <pattern>Weft</pattern>
       <value>West</value>
     </replace>
@@ -892,6 +952,10 @@
     <replace>
       <pattern>wyncl</pattern>
       <value>Wynd</value>
+    </replace>
+    <replace>
+      <pattern>WUliam</pattern>
+      <value>William</value>
     </replace>
     <replace>
       <pattern>wyud</pattern>
