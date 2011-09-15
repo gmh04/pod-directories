@@ -33,6 +33,10 @@
       <pattern>Eobert</pattern>
       <value>Robert</value>
     </replace>
+    <replace>
+      <pattern>Eonald</pattern>
+      <value>Ronald</value>
+    </replace>
 
   </replaces>
 
