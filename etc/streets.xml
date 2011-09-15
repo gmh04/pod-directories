@@ -2119,8 +2119,12 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
-    <pattern>cecil place</pattern>
+    <pattern>cecil pl</pattern>
     <street>Cecil Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Langshot Street</modern_name>
+    </town>
   </address>
   <address>
     <pattern>cecil st</pattern>
@@ -2515,12 +2519,6 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>coburg pl</pattern>
     <street>Coburg Place</street>
-    <town>
-      <name>Glasgow</name>
-      <area>
-        <name>Springburn</name>
-      </area>
-    </town>
   </address>
   <address>
     <pattern>coburg st</pattern>
@@ -5419,6 +5417,10 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>ibrox pl</pattern>
     <street>Ibrox Place</street>
+    <town>
+      <name>Glasgow</name>
+      <latlon>55.851324 -4.301512</latlon>
+    </town>
   </address>
   <address>
     <pattern>ibrox ter</pattern>
@@ -8215,8 +8217,8 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>portugal st</pattern>
     <street>Portugal Street</street>
-  </address>  
-<address>
+  </address>
+  <address>
     <pattern>powis house</pattern>
     <street>Powis House</street>
     <town>
@@ -8231,7 +8233,7 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>preston st</pattern>
     <street>Preston Street</street>
-    <town>
+    <!--<town>
       <name>Glasgow</name>
       <area>
         <name>Bridgeton</name>
@@ -8239,6 +8241,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
       <area>
         <name>Govanhill</name>
       </area>
+    </town>-->
+  </address>
+  <address>
+    <pattern>primrose pl</pattern>
+    <street>Primrose Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Paisley Road West</modern_name>
     </town>
   </address>
   <address>
@@ -8293,6 +8303,14 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
   <address>
     <pattern>prince of wales ter</pattern>
     <street>Prince of Wales Terrace</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Byres Road</modern_name>
+      <area>
+        <name>Crosshill</name>
+        <modern_name>Victoria Road</modern_name>
+      </area>
+    </town>
   </address>
   <address>
     <pattern>prospect cottage</pattern>
@@ -9731,8 +9749,12 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     </town>
   </address>
   <address>
-    <pattern>sedan place</pattern>
+    <pattern>sedan pl</pattern>
     <street>Sedan Place</street>
+    <town>
+      <name>Glasgow</name>
+      <modern_name>Paisley Road West</modern_name>
+    </town>
   </address>
   <address>
     <pattern>seton pl</pattern>
@@ -10990,15 +11012,18 @@ A guide a Glasgow Addresses Part II 1826 - 1950, Susan Millay
     <street>Viewfield Place</street>
   </address>
   <address>
-    <pattern>viewfield terrace</pattern>
+    <pattern>viewfield ter</pattern>
     <street>Viewfield Terrace</street>
     <town>
       <name>Glasgow</name>
+      <modern_name>Darnley Street</modern_name>
       <area>
         <name>Hillhead</name>
+        <modern_name>South Park Avenue</modern_name>
       </area>
       <area>
         <name>Langside</name>
+        <modern_name>Millbrae Road</modern_name>
       </area>
     </town>
   </address>

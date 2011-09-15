@@ -419,6 +419,10 @@
 
     <!-- K -->
     <replace>
+      <pattern>Kelbm-n</pattern>
+      <value>Kelburn</value>
+    </replace>
+    <replace>
       <pattern>Kelvinhangh</pattern>
       <value>Kelvinhaugh</value>
     </replace>
