@@ -37,6 +37,10 @@
       <pattern>Athole</pattern>
       <value>Atholl</value>
     </replace>
+    <replace>
+      <pattern>Atlioll</pattern>
+      <value>Atholl</value>
+    </replace>
 
     <!-- B -->
     <replace>
@@ -70,6 +74,10 @@
     <replace>
       <pattern>Brou^hton</pattern>
       <value>Broughton</value>
+    </replace>
+    <replace>
+      <pattern>BroAvn</pattern>
+      <value>Brown</value>
     </replace>
     <replace>
       <pattern>Bumbank</pattern>
@@ -147,6 +155,10 @@
       <value>Crimon</value>
     </replace>
     <replace>
+      <pattern> ores.</pattern>
+      <value> cres.</value>
+    </replace>
+    <replace>
       <pattern>Crossbum</pattern>
       <value>Crossburn</value>
     </replace>
@@ -181,6 +193,10 @@
 
     <!-- D -->
     <replace>
+      <pattern>Dairy road</pattern>
+      <value>Dalry road</value>
+    </replace>
+    <replace>
       <pattern>Dalmarnockrd</pattern>
       <value>Dalmarnock rd</value>
     </replace>
@@ -203,6 +219,10 @@
     <replace>
       <pattern>Dison st</pattern>
       <value>Dixon st</value>
+    </replace>
+    <replace>
+      <pattern>Dry den</pattern>
+      <value>Dryden</value>
     </replace>
     <replace>
       <pattern>Dulte </pattern>
@@ -365,6 +385,10 @@
       <value>stables</value>
     </replace>
     <replace>
+      <pattern>Hawthombank</pattern>
+      <value>Hawthornbank</value>
+    </replace>
+    <replace>
       <pattern>heacl</pattern>
       <value>head</value>
     </replace>
@@ -375,6 +399,10 @@
     <replace>
       <pattern>HiU</pattern>
       <value>Hill</value>
+    </replace>
+    <replace>
+      <pattern>hiU</pattern>
+      <value>hill</value>
     </replace>
     <replace>
       <pattern>Hillliead</pattern>
@@ -438,6 +466,14 @@
       <pattern>Kenmnre</pattern>
       <value>Kenmure</value>
     </replace>
+    <replace>
+      <pattern>Ken st</pattern>
+      <value>Kerr st</value>
+    </replace>
+    <replace>
+      <pattern>Kii-kgate</pattern>
+      <value>Kirkgate</value>
+    </replace>
 
     <!-- L -->
     <replace>
@@ -450,6 +486,10 @@
     </replace>
     <replace>
       <pattern>Lcith</pattern>
+      <value>Leith</value>
+    </replace>
+    <replace>
+      <pattern>lieith</pattern>
       <value>Leith</value>
     </replace>
     <replace>
@@ -593,6 +633,10 @@
     <replace>
       <pattern>Paxton ten</pattern>
       <value>Paxton ter</value>
+    </replace>
+    <replace>
+      <pattern>Pihig</pattern>
+      <value>Pilrig</value>
     </replace>
     <replace>
       <pattern>j)lace</pattern>
@@ -881,6 +925,10 @@
     <replace>
       <pattern>teiTace</pattern>
       <value>terrace</value>
+    </replace>
+    <replace>
+      <pattern>tcr.</pattern>
+      <value>ter.</value>
     </replace>
     <replace>
       <pattern>Tliistle</pattern>
