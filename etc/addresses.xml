@@ -80,6 +80,10 @@
       <value>Brown</value>
     </replace>
     <replace>
+      <pattern>Buecleuch</pattern>
+      <value>Buccleuch</value>
+    </replace>
+    <replace>
       <pattern>Bumbank</pattern>
       <value>Burnbank</value>
     </replace>
@@ -107,6 +111,10 @@
     </replace>
     <replace>
       <pattern>Canongatc</pattern>
+      <value>Canongate</value>
+    </replace>
+    <replace>
+      <pattern>Cauongate</pattern>
       <value>Canongate</value>
     </replace>
     <replace>
@@ -229,6 +237,10 @@
       <value>Duke </value>
     </replace>
     <replace>
+      <pattern>Dukest</pattern>
+      <value>Duke st</value>
+    </replace>
+    <replace>
       <pattern>Dmnbarton</pattern>
       <value>Dumbarton</value>
     </replace>
@@ -283,6 +295,14 @@
     <replace>
       <pattern>Flefh</pattern>
       <value>Flesh</value>
+    </replace>
+    <replace>
+      <pattern>Fon-est</pattern>
+      <value>Forrest</value>
+    </replace>
+    <replace>
+      <pattern>FoiTest</pattern>
+      <value>Forrest</value>
     </replace>
     <replace>
       <pattern>Fountainbrige</pattern>
@@ -489,6 +509,10 @@
       <value>Lawnnmarket</value>
     </replace>
     <replace>
+      <pattern>Leannonth</pattern>
+      <value>Learmonth</value>
+    </replace>
+    <replace>
       <pattern>Lcith</pattern>
       <value>Leith</value>
     </replace>
@@ -571,8 +595,16 @@
       <value>Melville</value>
     </replace>
     <replace>
+      <pattern>MoUendo</pattern>
+      <value>Mollendo</value>
+    </replace>
+    <replace>
       <pattern>Moncreiff terrace</pattern>
       <value>Moncrieff terrace</value>
+    </replace>
+    <replace>
+      <pattern>MoncreifF</pattern>
+      <value>Moncrieff</value>
     </replace>
     <replace>
       <pattern>ilorrison</pattern>
@@ -590,6 +622,10 @@
       <pattern>Monnt</pattern>
       <value>Mount</value>
     </replace>
+    <replace>
+      <pattern>Momingside</pattern>
+      <value>Morningside</value>
+    </replace>
 
     <!-- N -->
     <replace>
@@ -603,6 +639,10 @@
     <replace>
       <pattern>ISTetherkirk</pattern>
       <value>Netherkirk</value>
+    </replace>
+    <replace>
+      <pattern>Nevv</pattern>
+      <value>New</value>
     </replace>
     <replace>
       <pattern>Nicolfon</pattern>
@@ -647,6 +687,10 @@
       <value>Place</value>
     </replace>
     <replace>
+      <pattern>x^lace</pattern>
+      <value>place</value>
+    </replace>
+    <replace>
       <pattern>PoUok</pattern>
       <value>Pollok</value>
     </replace>
@@ -683,6 +727,10 @@
 
     <!-- R -->
     <replace>
+      <pattern>Raebum</pattern>
+      <value>Raeburn</value>
+    </replace>
+    <replace>
       <pattern>Eagg</pattern>
       <value>Ragg</value>
     </replace>
@@ -695,8 +743,16 @@
       <value>Rankeillor</value>
     </replace>
     <replace>
+      <pattern>Kankeillor</pattern>
+      <value>Rankeillor</value>
+    </replace>
+    <replace>
       <pattern>Eegent</pattern>
       <value>Regent</value>
+    </replace>
+    <replace>
+      <pattern>Eegister</pattern>
+      <value>Register</value>
     </replace>
     <replace>
       <pattern>Eenfield</pattern>
@@ -705,6 +761,10 @@
     <replace>
       <pattern>Eenfrew</pattern>
       <value>Renfrew</value>
+    </replace>
+    <replace>
+      <pattern>Eestalrig</pattern>
+      <value>Restalrig</value>
     </replace>
     <replace>
       <pattern>Eoad</pattern>
@@ -885,6 +945,10 @@
       <value>Springburn</value>
     </replace>
     <replace>
+      <pattern>sq^uare</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
       <pattern>StockweU</pattern>
       <value>Stockwell</value>
     </replace>
@@ -1004,6 +1068,10 @@
     <replace>
       <pattern>Wliite</pattern>
       <value>White</value>
+    </replace>
+    <replace>
+      <pattern>Woodbura</pattern>
+      <value>Woodburn</value>
     </replace>
     <replace>
       <pattern>wyncl</pattern>
