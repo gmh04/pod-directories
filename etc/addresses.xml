@@ -159,6 +159,10 @@
       <value>court</value>
     </replace>
     <replace>
+      <pattern>Crichtou</pattern>
+      <value>Crichton</value>
+    </replace>
+    <replace>
       <pattern>Crimen</pattern>
       <value>Crimon</value>
     </replace>
@@ -383,6 +387,10 @@
       <value>George IV bridge</value>
     </replace>
     <replace>
+      <pattern>GiUespie</pattern>
+      <value>Gillespie</value>
+    </replace>
+    <replace>
       <pattern>GranviUe</pattern>
       <value>Granville</value>
     </replace>
@@ -397,6 +405,10 @@
     <replace>
       <pattern>gi-een</pattern>
       <value>green</value>
+    </replace>
+    <replace>
+      <pattern>Greeuhill</pattern>
+      <value>Greenhill</value>
     </replace>
 
     <!-- H -->
@@ -583,6 +595,10 @@
       <value>Marischal</value>
     </replace>
     <replace>
+      <pattern>Marj^eld</pattern>
+      <value>Maryfield</value>
+    </replace>
+    <replace>
       <pattern>McAshn</pattern>
       <value>McAslin</value>
     </replace>
@@ -659,6 +675,10 @@
     <replace>
       <pattern>Nortli</pattern>
       <value>North</value>
+    </replace>
+    <replace>
+      <pattern>N.-E.</pattern>
+      <value>NE</value>
     </replace>
 
     <!-- P -->
@@ -740,6 +760,10 @@
     </replace>
     <replace>
       <pattern>RankeiUor</pattern>
+      <value>Rankeillor</value>
+    </replace>
+    <replace>
+      <pattern>Eankeillor</pattern>
       <value>Rankeillor</value>
     </replace>
     <replace>
@@ -1050,6 +1074,10 @@
       <value>Warriston</value>
     </replace>
     <replace>
+      <pattern>AVaverley</pattern>
+      <value>Waverley</value>
+    </replace>
+    <replace>
       <pattern>Weft</pattern>
       <value>West</value>
     </replace>
@@ -1070,6 +1098,10 @@
       <value>White</value>
     </replace>
     <replace>
+      <pattern>AVindsor</pattern>
+      <value>Windsor</value>
+    </replace>
+    <replace>
       <pattern>Woodbura</pattern>
       <value>Woodburn</value>
     </replace>
@@ -1079,6 +1111,10 @@
     </replace>
     <replace>
       <pattern>WUliam</pattern>
+      <value>William</value>
+    </replace>
+    <replace>
+      <pattern>WiUiam</pattern>
       <value>William</value>
     </replace>
     <replace>
