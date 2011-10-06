@@ -10,10 +10,20 @@
       <value>Collingwood</value>
     </replace>
 
+    <!-- H -->
+    <replace>
+      <pattern>Huteheson</pattern>
+      <value>Hutcheson</value>
+    </replace>
+
     <!-- M -->
     <replace>
       <pattern>I\I</pattern>
       <value>M</value>
+    </replace>
+    <replace>
+      <pattern>Jlitchell</pattern>
+      <value>Mitchell</value>
     </replace>
 
     <!-- R -->

@@ -26,6 +26,10 @@
       <value>Argyle</value>
     </replace>
     <replace>
+      <pattern>Argylest</pattern>
+      <value>Argyle st</value>
+    </replace>
+    <replace>
       <pattern>Asliley</pattern>
       <value>Ashley</value>
     </replace>
@@ -116,6 +120,10 @@
     <replace>
       <pattern>Cauongate</pattern>
       <value>Canongate</value>
+    </replace>
+    <replace>
+      <pattern>CarnaiTon</pattern>
+      <value>Carnarvon</value>
     </replace>
     <replace>
       <pattern>Catlicart</pattern>
@@ -265,6 +273,10 @@
     <replace>
       <pattern>Eglintonst</pattern>
       <value>Eglinton st</value>
+    </replace>
+    <replace>
+      <pattern>Eldershe</pattern>
+      <value>Elderslie</value>
     </replace>
     <replace>
       <pattern>Ehnbank</pattern>
@@ -715,6 +727,10 @@
       <value>place</value>
     </replace>
     <replace>
+      <pattern>Poll ok</pattern>
+      <value>Pollok</value>
+    </replace>
+    <replace>
       <pattern>PoUok</pattern>
       <value>Pollok</value>
     </replace>
@@ -750,6 +766,10 @@
     </replace>
 
     <!-- R -->
+    <replace>
+      <pattern>Eaeberry</pattern>
+      <value>Raeberry</value>
+    </replace>
     <replace>
       <pattern>Raebum</pattern>
       <value>Raeburn</value>
@@ -789,6 +809,10 @@
     <replace>
       <pattern>Eenfrew</pattern>
       <value>Renfrew</value>
+    </replace>
+    <replace>
+      <pattern>Renfieldst</pattern>
+      <value>Renfield st</value>
     </replace>
     <replace>
       <pattern>Eestalrig</pattern>
