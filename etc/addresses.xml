@@ -99,6 +99,10 @@
       <pattern>bnrn</pattern>
       <value>burn</value>
     </replace>
+    <replace>
+      <pattern>Bm-n</pattern>
+      <value>Burn</value>
+    </replace>
 
     <!-- C -->
     <replace>
@@ -207,6 +211,10 @@
       <value>Crown</value>
     </replace>
     <replace>
+      <pattern>Cmnberland</pattern>
+      <value>Cumberland</value>
+    </replace>
+    <replace>
       <pattern>Cnparstone</pattern>
       <value>Cuparstone</value>
     </replace>
@@ -289,14 +297,6 @@
 
     <!-- F -->
     <replace>
-      <pattern>fciuare</pattern>
-      <value>square</value>
-    </replace>
-    <replace>
-      <pattern>scjuare</pattern>
-      <value>square</value>
-    </replace>
-    <replace>
       <pattern>Ferryliill</pattern>
       <value>Ferryhill</value>
     </replace>
@@ -325,26 +325,6 @@
       <value>Fountainbridge</value>
     </replace>
     <replace>
-      <pattern>fq.</pattern>
-      <value>sq.</value>
-    </replace>
-    <replace>
-      <pattern>fquarc</pattern>
-      <value>square</value>
-    </replace>
-    <replace>
-      <pattern>fqiiare</pattern>
-      <value>square</value>
-    </replace>
-    <replace>
-      <pattern>fquare</pattern>
-      <value>square</value>
-    </replace>
-    <replace>
-      <pattern>fquave</pattern>
-      <value>square</value>
-    </replace>
-    <replace>
       <pattern>Eraser st</pattern>
       <value>Fraser St</value>
     </replace>
@@ -360,20 +340,12 @@
       <pattern>ftr</pattern>
       <value>str</value>
     </replace>
-    <replace>
-      <pattern>ftrcet</pattern>
-      <value>street</value>
-    </replace>
-    <replace>
-      <pattern>ftreet</pattern>
-      <value>street</value>
-    </replace>
-    <replace>
-      <pattern>ftreot</pattern>
-      <value>street</value>
-    </replace>
 
     <!-- G -->
+    <replace>
+      <pattern>GaUowgate</pattern>
+      <value>Gallowgate</value>
+    </replace>
     <replace>
       <pattern>Gamgad</pattern>
       <value>Garngad</value>
@@ -475,12 +447,8 @@
 
     <!-- I -->
     <replace>
-      <pattern>ilreet</pattern>
-      <value>street</value>
-    </replace>
-    <replace>
-      <pattern>itreet</pattern>
-      <value>street</value>
+      <pattern>Ingi-am</pattern>
+      <value>Ingram</value>
     </replace>
 
     <!-- J -->
@@ -519,6 +487,10 @@
       <value>Kerr st</value>
     </replace>
     <replace>
+      <pattern>Kersland ten</pattern>
+      <value>Kersland ter</value>
+    </replace>
+    <replace>
       <pattern>Kii-kgate</pattern>
       <value>Kirkgate</value>
     </replace>
@@ -549,18 +521,6 @@
       <value>Leith</value>
     </replace>
     <replace>
-      <pattern>llrect</pattern>
-      <value>street</value>
-    </replace>
-    <replace>
-      <pattern>llreei</pattern>
-      <value>street</value>
-    </replace>
-    <replace>
-      <pattern>llreet</pattern>
-      <value>street</value>
-    </replace>
-    <replace>
       <pattern>liill</pattern>
       <value>hill</value>
     </replace>
@@ -579,10 +539,6 @@
     <replace>
       <pattern>Lome ter</pattern>
       <value>Lorne ter</value>
-    </replace>
-    <replace>
-      <pattern>ltreet</pattern>
-      <value>street</value>
     </replace>
     <replace>
       <pattern>Button pl</pattern>
@@ -945,11 +901,11 @@
       <value>Sandyford</value>
     </replace>
     <replace>
-      <pattern>Saucbiehall</pattern>
+      <pattern>Sanchiehall</pattern>
       <value>Sauchiehall</value>
     </replace>
     <replace>
-      <pattern>Sauchieliall</pattern>
+      <pattern>Saucbiehall</pattern>
       <value>Sauchiehall</value>
     </replace>
     <replace>
@@ -957,7 +913,7 @@
       <value>Sauchiehall</value>
     </replace>
     <replace>
-      <pattern>SauchiehaU</pattern>
+      <pattern>Sauchieliall</pattern>
       <value>Sauchiehall</value>
     </replace>
     <replace>
@@ -997,6 +953,34 @@
       <value>Springburn</value>
     </replace>
     <replace>
+      <pattern>fq.</pattern>
+      <value>sq.</value>
+    </replace>
+    <replace>
+      <pattern>fquarc</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>fqiiare</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>fquare</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>fquave</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>fciuare</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
+      <pattern>scjuare</pattern>
+      <value>square</value>
+    </replace>
+    <replace>
       <pattern>sq^uare</pattern>
       <value>square</value>
     </replace>
@@ -1009,7 +993,11 @@
       <value>Stirling</value>
     </replace>
     <replace>
-      <pattern>tlreet</pattern>
+      <pattern> .street</pattern>
+      <value> street</value>
+    </replace>
+    <replace>
+      <pattern>(Ireet</pattern>
       <value>street</value>
     </replace>
     <replace>
@@ -1017,12 +1005,48 @@
       <value>street</value>
     </replace>
     <replace>
+      <pattern>ftrcet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>ftreet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>ftreot</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>ilreet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>itreet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>llrect</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>llreei</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>ltreet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
+      <pattern>llreet</pattern>
+      <value>street</value>
+    </replace>
+    <replace>
       <pattern>sti-eet</pattern>
       <value>street</value>
     </replace>
     <replace>
-      <pattern> .street</pattern>
-      <value> street</value>
+      <pattern>tlreet</pattern>
+      <value>street</value>
     </replace>
     <replace>
       <pattern>Switliin</pattern>
@@ -1055,16 +1079,12 @@
       <value>Thistle</value>
     </replace>
     <replace>
-    <replace>
       <pattern>Thiftle</pattern>
       <value>Thistle</value>
     </replace>
-      <pattern>ToUcross</pattern>
-      <value>Tollcross</value>
-    </replace>
     <replace>
-      <pattern>TuUos</pattern>
-      <value>Tullos</value>
+      <pattern>ToU</pattern>
+      <value>Toll</value>
     </replace>
 
     <!-- U -->
@@ -1084,8 +1104,16 @@
       <value>View</value>
     </replace>
     <replace>
+      <pattern>Vmcent</pattern>
+      <value>Vincent</value>
+    </replace>
+    <replace>
       <pattern>Vincentst</pattern>
       <value>Vincent st</value>
+    </replace>
+    <replace>
+      <pattern>Vine. st</pattern>
+      <value>Vinc. st</value>
     </replace>
     <replace>
       <pattern>Vii-ginia</pattern>
@@ -1112,10 +1140,6 @@
     <replace>
       <pattern>AVest</pattern>
       <value>West</value>
-    </replace>
-    <replace>
-      <pattern>(Ireet</pattern>
-      <value>street</value>
     </replace>
     <replace>
       <pattern>\\Veft</pattern>
